@@ -1,1 +1,1 @@
-# config
+# my config i3-wm

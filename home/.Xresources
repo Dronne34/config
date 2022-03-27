@@ -1,0 +1,102 @@
+Xft.dpi:       96
+Xft.antialias: true
+Xft.hinting:   true
+Xft.rgba:      rgb
+Xft.autohint:  false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
+
+XTerm*background:        #d8d8d8
+XTerm*foreground:        #222D31
+XTerm*pointerColor:      #FF5500
+XTerm*faceName:          Iosevka Nerd Font Mono
+XTerm*faceSize:          11
+
+XTerm*reverseVideo:      on
+XTerm*selectToClipboard: true
+
+background:                      #222D31
+foreground:                      #d8d8d8
+*fading:                          8
+*fadeColor:                       black
+cursorColor:                     #1ABB9B
+*pointerColorBackground:          #2B2C2B
+pointerColorForeground:          #F0D92F
+
+!! black dark/light
+*color0:                          #00FF00
+*color8:                          #00FF00
+
+!! red dark/light
+*color1:                          #ab4642
+*color9:                          #ab4642
+
+!! green dark/light
+*color2:                          #FFFFFF
+*color10:                         #00FF00
+
+!! yellow dark/light
+*color3:                          #55AA00
+*color11:                         #f7ca88
+
+!! blue dark/light
+*color4:                          #7cafc2
+*color12:                         #7cafc2
+
+!! magenta dark/light
+*color5:                          #ba8baf
+*color13:                         #ba8baf
+
+!! cyan dark/light
+*color6:                          #FFAA00
+*color14:                         #2794AA
+
+!! white dark/light
+*color7:                          #d8d8d8
+*color15:                         #f8f8f8
+
+Xcursor.theme: xcursor-breeze
+!URxvt.font: 9x15,xft:TerminessTTFNerdFontMono
+URxvt.font: xft:Iosevka Nerd Font Mono:size=11
+URxvt.scrollBar:                false
+URxvt.perl-ext-common:  ...,selection-to-clipboard,...
+URxvt.clipboard.autocopy: true
+URxvt.keysym.M-c: perl:clipboard:copy
+URxvt.keysym.M-v: perl:clipboard:paste
+URxvt.underlineColor:   yellow
+URxvt.termName: rxvt
+
+
+##########THEME-URXVT
+
+! terminal colors ------------------------------ 
+
+! Jellybeans Terminal Colours
+
+! vim: ft=xdefaults
+urxvt*background: #222D31
+urxvt*foreground: #DFB31B
+! black
+urxvt*color0: #1C1C1C
+urxvt*color8: #404040
+! red
+urxvt*color1: #85E70E
+urxvt*color9: #CF6A4C
+! green
+urxvt*color2: #85E70E
+urxvt*color10: #C7118C
+! yellow
+urxvt*color3: #49B8E0
+urxvt*color11: #9E96C4
+! blue
+urxvt*color4: #667899
+urxvt*color12: #8197BF
+! magenta
+urxvt*color5: #FFFFFF
+urxvt*color13: #C6B6EE
+! cyan
+urxvt*color6: #668799
+urxvt*color14: #8FBFDC
+! white
+urxvt*color7: #888888
+urxvt*color15: #E8E8D3
