@@ -1,0 +1,73 @@
+
+#My custom key
+#------------------------------------------
+#MPC-PLAYER 
+ctrl + alt + Right
+    mpc --host=localhost --port=6500 next & sh ~/.config/ncmpcpp/notify-cover.sh
+    # & notify-send --hint=string:x-dunst-stack-tag:test  -i /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
+
+ctrl + alt + Left
+    mpc --host=localhost --port=6500 prev  & sh ~/.config/ncmpcpp/notify-cover.sh
+    # & notify-send --hint=string:x-dunst-stack-tag:test  -i /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
+
+ctrl + alt + Up
+    mpc --host=localhost --port=6500 toggle  
+    # & notify-send --hint=string:x-dunst-stack-tag:test  -u normal -i  /tmp/cover.png "Now Stop" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
+
+ctrl + alt + Down
+    mpc --host=localhost --port=6500 play   
+    # & notify-send --hint=string:x-dunst-stack-tag:test  -u normal -i  /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"  
+
+#Conky
+ctrl + alt + k
+    killall conky   
+
+ctrl + alt + a
+    conky -c ~/.config/conky/manjaro/conky1.10_shortcuts_maia -q
+
+#sxhkd reload
+ctrl + alt + Escape
+    pkill -USR1 -x sxhkd
+
+#Xterm
+ctrl + alt + x 
+   xterm -bw 0
+
+#picom-trans transparency
+super + alt + bracketleft
+    picom-trans -c -10
+
+super + alt + bracketright
+    picom-trans -c +10
+    
+#system-monitor    
+super + ctrl + m
+    gnome-system-monitor
+
+#Browser    
+super + alt + b
+    google-chrome-stable --disable-features=ExtensionsToolbarMenu
+
+#Locker   
+super + ctrl + l
+    sh ~/.config/i3/scripts/lock
+    
+    #Polybar-reload
+ctrl + alt + r
+    sh ~/.config/polybar/scripts/restart-bar.sh
+
+# urxvt
+ctrl + alt + u 
+     urxvt
+
+#Xfce4-terminal
+ctrl + alt + t
+    xfce4-terminal
+
+#Audio-reload
+ctrl + alt + p
+    pulseaudio -k
+
+#Touchpad-togle
+super + ctrl + space
+    sh ~/Google-Drive/shell-backup/touchpad.sh    
