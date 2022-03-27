@@ -1,1 +1,1 @@
-# my config i3-wm
+# my config i3-wm good customization.
