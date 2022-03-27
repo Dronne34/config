@@ -1,0 +1,7 @@
+[core]
+	editor = nano
+[user]
+	email = ozy23as@gmail.com
+	name = Dronne34
+[credential]
+	helper = cache
