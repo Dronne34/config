@@ -1,0 +1,2 @@
+#!/bin/bash
+notify-send --icon /home/arch/Public/png-backup/ubuntu.png "$(lynx -dump "https://www.omgubuntu.co.uk" | grep -i -A 9 "Popular This Week")" | /usr/bin/mpv /Public/song-backup/Youhavemail.wav

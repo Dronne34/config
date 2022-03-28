@@ -1,0 +1,5 @@
+* * * * * XDG_RUNTIME_DIR="/run/user/1000" /usr/bin/sh $HOME/Google-Drive/shell-backup/rsinc.sh
+
+*/1 * * * * XDG_RUNTIME_DIR="/run/user/1000" /usr/bin/sh /Public/shell-backup/song.sh
+
+*/1 * * * * XDG_RUNTIME_DIR="/run/user/1000" /usr/bin/sh /Public/shell-backup/backup.sh
