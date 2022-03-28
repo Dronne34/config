@@ -1,1 +1,0 @@
-XDG_RUNTIME_DIR="/run/user/1000" notify-send -i "/home/huawei/Google-Drive/shell-icon/desktop.png"  "Wallpapers has been changed!" -u normal | XDG_RUNTIME_DIR="/run/user/1000" | feh --bg-fill --randomize "$HOME/Google-Drive/wallpaper-backup/"
