@@ -1,0 +1,159 @@
+
+#My custom key
+#------------------------------------------
+
+
+XF86AudioRaiseVolume
+  pactl set-sink-volume @DEFAULT_SINK@ +5% &&  dunstify  -r 3456 -t 700 -i audio-volume-high "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" 
+
+
+XF86AudioLowerVolume
+  pactl set-sink-volume @DEFAULT_SINK@ -5% &&  dunstify  -r 3456 -t 700 -i audio-volume-medium "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+
+
+XF86AudioMute
+   pactl set-sink-mute @DEFAULT_SINK@ toggle &&  dunstify  -r 3456 -t 700 -i audio-volume-muted "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+
+
+XF86AudioMicMute
+   pactl set-source-mute @DEFAULT_SOURCE@ toggle &&  dunstify  -r 3456 -t 700 -i audio-volume-muted "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+
+#MPC-PLAYER 
+#ctrl + alt + Right
+XF86AudioNext
+    mpc --host=localhost --port=6500 next
+    
+
+#ctrl + alt + Left
+XF86AudioPrev
+    mpc --host=localhost --port=6500 prev
+
+#ctrl + alt + Up
+XF86AudioPlay 
+    mpc --host=localhost --port=6500 toggle  
+
+#ctrl + alt + Down
+#    mpc --host=localhost --port=6500 play   
+
+#Conky
+ctrl + alt + c
+    killall conky   
+
+
+#sxhkd reload
+ctrl + alt + Escape
+    pkill -USR1 -x sxhkd
+
+#Xterm
+ctrl + alt + x 
+   xterm -bw 0 
+
+#picom-trans transparency
+super + alt + bracketleft
+    picom-trans -c -10
+
+super + alt + bracketright
+    picom-trans -c +10
+    
+#system-monitor    
+super + ctrl + m
+    gnome-system-monitor
+
+#Browser    
+super + alt + b
+    brave --disable-features=ExtensionsToolbarMenu
+
+#Locker   
+super + ctrl + l
+    sh ~/.config/i3/scripts/lock
+    
+#Polybar 
+ctrl + alt + Delete
+   killall polybar
+
+
+#Polybar-reload
+ctrl + alt + r
+    sh ~/.config/polybar/launch.sh
+
+# st-256color
+ctrl + alt + s 
+     st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
+#      st -t "Simple Terminal"
+      
+#Urxvt
+ctrl + alt + u
+    urxvt
+
+#Touchpad-togle
+super + ctrl + space
+    sh ~/Google-Drive/shell-backup/touchpad.sh   
+
+# Dmenu Manual 
+ctrl + alt + h
+    sh ~/.local/bin/dmenu-manual  
+
+#Dmenu Kill Process
+ctrl + alt + k
+    sh ~/.local/bin/dmenu-kill-process
+
+#Dmenu Open File
+ctrl + alt + o  
+    sh ~/.local/bin/dmenu-open-file
+
+#Dmenu Web Search  
+ctrl + alt + b   
+    sh ~/.local/bin/dmenu-websearch
+
+#Dmenu Places
+ctrl + alt + p 
+    sh ~/.local/bin/dmenu-places    
+
+#Dmenu Mpd
+ctrl + alt + m    
+     sh ~/.local/bin/dmenu-mpd
+
+#Dmenu Run
+ctrl + alt + d  
+     dmenu_run
+
+#Dmenu Power
+ctrl + alt + q  
+     dmenu-power
+
+#Brave
+shift + super + b  
+     brave
+
+#Sublime Text
+shift + super + s
+     subl
+
+#Thunar
+shift + super + t
+     thunar
+ 
+#Gnome-System-Monitor
+shift + super + m 
+     gnome-system-monitor
+
+#xkill
+shift + super + x
+     xkill     
+         
+#Workspace
+ctrl + alt + KP_Insert  
+     i3-msg workspace next
+
+#Workspace
+# ctrl + alt + Left  
+     # i3-msg workspace previw     
+
+#Wallpapers
+shift + super + c
+     feh -z --no-fehbg --bg-fill  ~/Google-Drive/wallpaper-backup/
+
+#qutebrowser
+#ctrl + super + g 
+     #qutebrowser
+     
