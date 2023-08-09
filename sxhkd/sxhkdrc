@@ -89,37 +89,37 @@ ctrl + alt + u
 super + ctrl + space
     sh ~/Google-Drive/shell-backup/touchpad.sh   
 
-# Dmenu Manual 
+# dm Manual 
 ctrl + alt + h
-    sh ~/.local/bin/dmenu-manual  
+    sh ~/.local/bin/dm-manual  
 
-#Dmenu Kill Process
+#dm Kill Process
 ctrl + alt + k
-    sh ~/.local/bin/dmenu-kill-process
+    sh ~/.local/bin/dm-kill-process
 
-#Dmenu Open File
+#dm Open File
 ctrl + alt + o  
-    sh ~/.local/bin/dmenu-open-file
+    sh ~/.local/bin/dm-open-file
 
-#Dmenu Web Search  
+#dm Web Search  
 ctrl + alt + b   
-    sh ~/.local/bin/dmenu-websearch
+    sh ~/.local/bin/dm-websearch
 
-#Dmenu Places
+#dm Places
 ctrl + alt + p 
-    sh ~/.local/bin/dmenu-places    
+    sh ~/.local/bin/dm-places    
 
-#Dmenu Mpd
+#dm Mpd
 ctrl + alt + m    
-     sh ~/.local/bin/dmenu-mpd
+     sh ~/.local/bin/dm-mpd
 
-#Dmenu Run
+#dm Run
 ctrl + alt + d  
      dmenu_run
 
-#Dmenu Power
+#dm Power
 ctrl + alt + q  
-     dmenu-power
+     dm-power
 
 #Brave
 shift + super + b  
