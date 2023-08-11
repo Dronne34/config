@@ -1,0 +1,14 @@
+[Added Associations]
+text/x-chdr=sublime_text.desktop;
+application/x-shellscript=sublime_text.desktop;
+text/x-makefile=sublime_text.desktop;
+text/x-csrc=sublime_text.desktop;
+
+[Default Applications]
+text/html=brave-browser.desktop
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+text/x-csrc=sublime_text.desktop
+text/plain=sublime_text.desktop

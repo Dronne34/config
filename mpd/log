@@ -8066,3 +8066,1205 @@ Mar 04 21:11 : player: played "Y-music/Jack Harlow - WHATS POPPIN (feat. DaBaby,
 Mar 05 06:24 : player: played "Y-music/Jianu feat. Mihai Margineanu - Luxandra _ Audio.mp3"
 Mar 05 07:10 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
 Mar 05 07:11 : player: played "Y-music/Jianu feat. Mihai Margineanu - Luxandra _ Audio.mp3"
+Aug 09 14:29 : player: played "Y-music/Real Sobrino - Plata O Plomo.mp3"
+Aug 09 14:43 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 14:43 : player: played "Colaje-Mix/Dr. dre - still d.r.e - Dr. dre - still d.r.e. (remix) ft. snoop dogg, 2pac, eminem, 50 cent, eazy e, method man, big l.mp3"
+Aug 09 15:31 : player: played "Colaje-Mix/Super club mix reggaeton - manele - folclor 2020 l best party dance l mixed by dj slp - Super Club Mix Reggaeton - Manele - Folclor 2020 l Best Party Dance l Mixed by Dj Slp.mp3"
+Aug 09 15:32 : exception: Failed to decode /home/dell/Music/Y-music/BLACKPINK - How You Like That.mp3; Failed to open '/home/dell/Music/Y-music/BLACKPINK - How You Like That.mp3': No such file or directory
+Aug 09 15:32 : player: played "Y-music/BLACKPINK - How You Like That.mp3"
+Aug 09 15:32 : exception: Failed to decode /home/dell/Music/Y-music/BLACKPINK - How You Like That.mp3; Failed to open '/home/dell/Music/Y-music/BLACKPINK - How You Like That.mp3': No such file or directory
+Aug 09 15:33 : update: removing Y-music/Deliric - Cu de toate feat. _Motzu, DOC, Maximilian, Junky.mp3
+Aug 09 15:33 : update: removing Y-music/Ovidiu Lupu ✘ N.O.H.A  - TU CAFE  (Original Mix).mp3
+Aug 09 15:33 : update: removing Y-music/DOC - STAI CĂ-ȚI ZIC EU (feat. VLAD DOBRESCU & DELIRIC).mp3
+Aug 09 15:33 : update: removing Y-music/Deliric - Te stiu de-o viata _feat. FreakaDaDisk_.mp3
+Aug 09 15:33 : update: removing Y-music/Deliric - In legea mea _feat. Grigo.mp3
+Aug 09 15:33 : update: removing Y-music/Deliric - Fraiere _feat. High Jet.mp3
+Aug 09 15:33 : update: removing Y-music/Cardi B, Bad Bunny & J Balvin - I Like It _Official Music Video_.mp3
+Aug 09 15:33 : update: removing Y-music/Pacha Man - Gurile rele (Prod by Lion Riddims).mp3
+Aug 09 15:33 : update: removing Y-music/Ozuna x Daddy Yankee x Plan B - El Desorden _Lyric Video_.mp3
+Aug 09 15:33 : update: removing Y-music/DALE AGACHADITA (Como en las Clases de Twerk) _ DJ Bryanflow (Remix) TIK TOK.mp3
+Aug 09 15:33 : update: removing Y-music/Ghetto Kids, RD Maravilla - CULO.mp3
+Aug 09 15:33 : update: removing Y-music/CULO - Ghetto Kids ft RD Maravilla _ Choreography by YUR AULAR.mp3
+Aug 09 15:33 : update: removing Y-music/Parazitii & Spike - Rau sau bun (Instrumental).mp3
+Aug 09 15:33 : update: removing Y-music/Maître Gims - Laissez-moi tranquille.mp3
+Aug 09 15:33 : update: removing Y-music/Enur - Calabria 2008 (feat. MIMS & Natasja).mp3
+Aug 09 15:33 : update: removing Y-music/Boier Bibescu  Cabron Rashid - Boier Bibescu  Cabron Rashid Medellin.mp3
+Aug 09 15:33 : update: removing Y-music/Jennifer Lopez & Styles P & Jadakiss   Jenny From The Block.mp3
+Aug 09 15:33 : update: removing Y-music/Cardi B, Bad Bunny & J Balvin - I Like It.mp3
+Aug 09 15:33 : update: removing Y-music/NANE - COCKTAIL.mp3
+Aug 09 15:33 : update: removing Y-music/Dr. Dre - Still D.R.E. ft. Snoop Dogg (Bruno Be & Lazy Bear Remix) (Bass Boosted).mp3
+Aug 09 15:33 : update: removing Y-music/Cedry2k ‑ Partea întunecată a lumii  (cu Pietonu).mp3
+Aug 09 15:33 : update: removing Y-music/Busta Rhymes - Touch It (Deep Remix) _ AMG Showtime _ TikTok.mp3
+Aug 09 15:33 : update: updating Y-music/Dr. Dre - Bang Bang (feat. Knoc-turn'al & Hittman).mp3
+Aug 09 15:33 : update: removing Y-music/B.U.G. Mafia - 5000 De Zile (Prod. Tata Vlad).mp3
+Aug 09 15:33 : update: removing Y-music/TWERK BRASILERO - ( REMIX 2018 ✘ TOMI DJ ).mp3
+Aug 09 15:33 : update: removing Y-music/Boier Bibescu  Stres  Jianu  El Nino - Toata Harta  _ Videoclip Oficial.mp3
+Aug 09 15:33 : update: removing Y-music/Robert Cristian & Dayana - The Sweetest Ass in the World.mp3
+Aug 09 15:33 : update: removing Y-music/BLACKPINK - How You Like That.mp3
+Aug 09 15:33 : update: removing Y-music/Kehlani - Gangsta.mp3
+Aug 09 15:33 : update: removing Y-music/DripReport - Skechers (Official Music Video) Prod. OUHBOY.mp3
+Aug 09 15:33 : update: removing Y-music/Parazitii - Categoria Grea feat Aliosha (nr.71).mp3
+Aug 09 15:33 : update: removing Y-music/NANE - B.M.V.  (video oficial).mp3
+Aug 09 15:33 : update: removing Y-music/Deliric - Bine Crescuta _feat. Flou Rege, Vlad Dobrescu_.mp3
+Aug 09 15:33 : update: removing Y-music/Cheloo❌Delia❌Grasu XXL-Apel La Despablito _ Deejay Killer Remix.mp3
+Aug 09 15:33 : update: removing Y-music/Cedry2k - Fapte (videoclip oficial).mp3
+Aug 09 15:33 : update: removing Y-music/Beware - Rap Freestyle Type Beat _ Hard Underground Boom Bap Type Beat _ Anabolic Beatz.mp3
+Aug 09 15:33 : update: removing Y-music/Gangsta - Kehlani - Gangsta.mp3
+Aug 09 15:33 : update: removing Y-music/Still DRE   Maschine Live - Traktor Scratch Pro and Maschine.mp3
+Aug 09 15:33 : update: updating Y-music/Travis Scott - SICKO MODE ft. Drake (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/Guess Who - Unu Altu (videoclip).mp3
+Aug 09 15:33 : update: updating Y-music/Grasu XXL  2Pac - Puterea   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii-Te sparg la buci (nr.82).mp3
+Aug 09 15:33 : update: updating Y-music/Freestyle Rap Beat (Hard Boom Bap Type Beat Hip Hop -Notion-).mp3
+Aug 09 15:33 : update: added Y-music/Ombladon - Trei agenti (cu Cheloo si FDD).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii❌La Familia❌The Game❌Biggie - Let's Play A Game _ Deejay Killer Remix.mp3
+Aug 09 15:33 : update: added Y-music/San Andreas Cover Remake - 200K Subs Special!.mp3
+Aug 09 15:33 : update: added Y-music/Beware_ - Rap Freestyle Type Beat _ Hard Underground Boom Bap Type Beat _ Anabolic Beatz.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Varfu' Omu (prod. Silent Strike).mp3
+Aug 09 15:33 : update: updating Y-music/Aya Nakamura - Djadja.mp3
+Aug 09 15:33 : update: updating Y-music/G-Unit - Poppin' Them Thangs (Explicit Version).mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo - Sindromul Tourette (feat. Guess Who).mp3
+Aug 09 15:33 : update: updating Y-music/Katy Perry - Dark Horse (Official) ft. Juicy J.mp3
+Aug 09 15:33 : update: updating Y-music/Dr. Dre - The Next Episode (Remix) ft. Snoop Dogg, Nate Dogg, Eazy E, Busta Rhymes, 2Pac, Eminem.mp3
+Aug 09 15:33 : update: updating Y-music/Ashanti - Happy ft. Ja Rule (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/DOC - Praf.mp3
+Aug 09 15:33 : update: updating Y-music/Spike   Realitate (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Goana dupa iluzii.mp3
+Aug 09 15:33 : update: updating Y-music/Lil Wayne - A Milli.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Negru (feat. Silent Strike).mp3
+Aug 09 15:33 : update: updating Y-music/Otis McDonald NotForNothing.mp3
+Aug 09 15:33 : update: updating Y-music/Tujamo & Plastik Funk ft. Sneakbo - Dr. Who! (Official Video) HD.mp3
+Aug 09 15:33 : update: updating Y-music/Shaggy - Hey Sexy Lady ft. Brian & Tony Gold (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/50 Cent - In da Club.mp3
+Aug 09 15:33 : update: updating Y-music/Dr Dre Parazitii Grasu Xxl - Romanian Still   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric x Silent Strike - Independent (Video).mp3
+Aug 09 15:33 : update: updating Y-music/Fresh.mp3
+Aug 09 15:33 : update: updating Y-music/TJR & VINAI & TURBOTRONIC - WE WANNA PARTY (PARTY ROCKZZ MASHUP).mp3
+Aug 09 15:33 : update: updating Y-music/Christu - Neah feat  Doc, Cedry2k, J Yolo ( TV Version ).mp3
+Aug 09 15:33 : update: updating Y-music/B.U.G. Mafia - Cartieru' Pantelimon (feat. Nico) (Prod. Tata Vlad).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii Guess Who Adrian Despot - O stare de spirit cu flori ilegale   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/Dr. Dre - Still D.R.E. (feat. Snoop Dogg).mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo - Paranoia E Mare.mp3
+Aug 09 15:33 : update: updating Y-music/INNA - Bop Bop.mp3
+Aug 09 15:33 : update: updating Y-music/twenty one pilots - Heathens.mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo Grasu XXLZhao-Bi tch Please   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/اقوى ريمكس اجنبي في 2020 _ حماسي جدا - مطلوب اكثر شي _ Such a Whore.mp3
+Aug 09 15:33 : update: updating Y-music/Lil Wayne, Wiz Khalifa & Imagine Dragons - Sucker for Pain.mp3
+Aug 09 15:33 : update: updating Y-music/Connect-R  BRUJA - Cantareti de Karaoke  Official Video.mp3
+Aug 09 15:33 : update: updating Y-music/Rick Ross-Hustlin.mp3
+Aug 09 15:33 : update: updating Y-music/Cassage-de-nuques-pt.-4.mp3
+Aug 09 15:33 : update: updating Y-music/Perreito Remix - Mariah ft Jon Z, Wisin & Don Chezina.mp3
+Aug 09 15:33 : update: updating Y-music/NANE - MI-E DOR (video_ mixtape _DE-ALE MELE__ 2008).mp3
+Aug 09 15:33 : update: updating Y-music/R. Kelly - Thoia Thoing.mp3
+Aug 09 15:33 : update: updating Y-music/Fk Music - Gta San Andreas.mp3
+Aug 09 15:33 : update: updating Y-music/Jianu feat. Mihai Margineanu - Luxandra _ Audio.mp3
+Aug 09 15:33 : update: updating Y-music/Mr. Criminal & 2Pac - Side 2 Side (D-Ace Remix).mp3
+Aug 09 15:33 : update: updating Y-music/Irina Rimes x Cris Cab - Your Love _ Official Video.mp3
+Aug 09 15:33 : update: updating Y-music/Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO].mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo - Definitia 24378.mp3
+Aug 09 15:33 : update: updating Y-music/SAINt JHN - ROSES & TUJAMO & PLASTIK FUNK - WHO.mp3
+Aug 09 15:33 : update: updating Y-music/Delia x Grasu XXL - Despablito (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Ultimul buletin de stiri de la ora 5.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3
+Aug 09 15:33 : update: updating Y-music/DELIRIC - ASAP (feat. VLAD FLUERARU).mp3
+Aug 09 15:33 : update: updating Y-music/Dr. Dre - Still D.R.E. (Remix) ft. Snoop Dogg, 2Pac, Eminem, 50 Cent, Eazy E, Method Man, BIG L.mp3
+Aug 09 15:33 : update: updating Y-music/Jay-Z & Kanye West - Niggas in Paris - Watch the Throne.mp3
+Aug 09 15:33 : update: updating Y-music/Real Sobrino - Plata O Plomo.mp3
+Aug 09 15:33 : update: updating Y-music/MC Hammer - U Can't Touch This (HQ).mp3
+Aug 09 15:33 : update: updating Y-music/Paraschiva.mp3
+Aug 09 15:33 : update: updating Y-music/All The Way Up - Fat Joe, Remy Ma ft. French Montana (izo Lyrics).mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Sange de porc _feat. Nwanda, Aforic, DOC.mp3
+Aug 09 15:33 : update: updating Y-music/Imagine Dragons - Believer.mp3
+Aug 09 15:33 : update: updating Y-music/De Jezzz - OBOY - Cabeza.mp3
+Aug 09 15:33 : update: updating Y-music/Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3
+Aug 09 15:33 : update: updating Y-music/13 Organisé - Je suis Marseille -Akhenaton_Shurik’n_ L’Algérino_Sch_Jul_Alonzo_Fahar_Le Rat Luciano_.mp3
+Aug 09 15:33 : update: updating Y-music/Paraziții - Violent.mp3
+Aug 09 15:33 : update: updating Y-music/Yo Soy Pablo Emilio Escobar Gaviria [tiktok] canción completa.mp3
+Aug 09 15:33 : update: updating Y-music/Corina feat. Dorian Popa - Nimeni altcineva (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Ombladon - Panarame (feat. Bitza).mp3
+Aug 09 15:33 : update: updating Y-music/Grasu XXL - Evident.mp3
+Aug 09 15:33 : update: updating Y-music/Cedry2k - Mai mult decât magic (cu Deliric si Connect-R).mp3
+Aug 09 15:33 : update: updating Y-music/Ombladon - Nu mi-e frică.mp3
+Aug 09 15:33 : update: updating Y-music/Tomi Dj - Twerk Brasilero 2.mp3
+Aug 09 15:33 : update: updating Y-music/Mandi ft. Fabio, Mikel & Ilir Tironsi - Nishtulla City (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/Silent Child - Fuck You.mp3
+Aug 09 15:33 : update: updating Y-music/Vlad Dobrescu - Trei Cadavre.mp3
+Aug 09 15:33 : update: updating Y-music/Mitza feat. DOC - Bag.mp3
+Aug 09 15:33 : update: updating Y-music/Jos cenzura! (Radio Edit).mp3
+Aug 09 15:33 : update: updating Y-music/Vlad Dobrescu - Insomnii (feat. Deliric) _VIDEO_.mp3
+Aug 09 15:33 : update: updating Y-music/Mohamed Ramadan - BUM BUM.mp3
+Aug 09 15:33 : update: updating Y-music/A$AP Ferg - New Level (feat. Future).mp3
+Aug 09 15:33 : update: updating Y-music/Eve_Gwen Stefani - Let Me Blow Ya Mind.mp3
+Aug 09 15:33 : update: updating Y-music/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3
+Aug 09 15:33 : update: updating Y-music/Mike WiLL Made-It - 23 ft. Miley Cyrus, Wiz Khalifa, Juicy J (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Redman - Slap Da Shit Outcha _Official Music Video.mp3
+Aug 09 15:33 : update: updating Y-music/Dr. Dre - Still D.R.E. ft. Snoop Dogg (SkennyBeatz Remix).mp3
+Aug 09 15:33 : update: updating Y-music/Parov Stelar - Libella Swing (Extended).mp3
+Aug 09 15:33 : update: updating Y-music/2Pac, Dr. Dre & Roger Troutman - California Love.mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Apa in vin (nr3).mp3
+Aug 09 15:33 : update: updating Y-music/Decât Să Minți.mp3
+Aug 09 15:33 : update: updating Y-music/Dillon Francis & DJ Snake - Get Low (feat. Rae Sremmurd).mp3
+Aug 09 15:33 : update: updating Y-music/Cedry2k - Sacrificii.mp3
+Aug 09 15:33 : update: updating Y-music/Jon Lajoie – Regular Everyday Normal MotherFucker )).mp3
+Aug 09 15:33 : update: updating Y-music/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3
+Aug 09 15:33 : update: updating Y-music/Mory Kanté & Loverush UK! - Yeke Yeke 2010.mp3
+Aug 09 15:33 : update: added Y-music/Don Baxter - Show-Bizz feat. Codu' Penal.mp3
+Aug 09 15:33 : update: updating Y-music/Dopebwoy - Cartier ft. Chivv & 3robi.mp3
+Aug 09 15:33 : update: updating Y-music/Marea Vaccinare - Pamflet (Cipuri si 5G).mp3
+Aug 09 15:33 : update: updating Y-music/B.U.G. Mafia - La Greu (Prod. Tata Vlad).mp3
+Aug 09 15:33 : update: added Y-music/Cheloo - Toate Nevestele [ Hidden Track ].mp3
+Aug 09 15:33 : update: updating Y-music/Dabro Remix - Улетай на крыльях ветра.mp3
+Aug 09 15:33 : update: updating Y-music/Faust x Nechifor - Fără panică (feat. Vlad Dobrescu).mp3
+Aug 09 15:33 : update: updating Y-music/Bad Bunny - Yo Perreo Sola.mp3
+Aug 09 15:33 : update: updating Y-music/F.Charm - Egalitate feat. Nea Fane (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Y-music/Cardi B - WAP (feat. Megan Thee Stallion).mp3
+Aug 09 15:33 : update: updating Y-music/Speak feat. Brighi & Cabron - Prada de razboi (Lyric Video).mp3
+Aug 09 15:33 : update: updating Y-music/Kalinka (AdryxG Bounce Remix).mp3
+Aug 09 15:33 : update: updating Y-music/Bad Bunny - Yo Perreo Sola (1).mp3
+Aug 09 15:33 : update: updating Y-music/JoeVille - Sexy.mp3
+Aug 09 15:33 : update: updating Y-music/Puri-x-Jhorrmountain-x-Adje-Co-o-Bass-Boosted-ytmp3.com.mp3
+Aug 09 15:33 : update: updating Y-music/Purple Lamborghini - Skrillex & Rick Ross - Purple Lamborghini.mp3
+Aug 09 15:33 : update: updating Y-music/F.Charm - Pan La Fund (feat. Mike Diamondz).mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo - Daca eram....mp3
+Aug 09 15:33 : update: updating Y-music/Tyga- Nigo in Beverly Hills- Well Done Fever.mp3
+Aug 09 15:33 : update: updating Y-music/Chris Brown - Look at Me Now (Official Video) ft. Lil Wayne, Busta Rhymes.mp3
+Aug 09 15:33 : update: updating Y-music/Fly Project - Mandala.mp3
+Aug 09 15:33 : update: updating Y-music/Alfons - Ganjaman.mp3
+Aug 09 15:33 : update: updating Y-music/Regina Balului.mp3
+Aug 09 15:33 : update: updating Y-music/Ceilalti - Orasul Suceava II ft ArTiStul si Kontra.mp3
+Aug 09 15:33 : update: updating Y-music/Funk Love.mp3
+Aug 09 15:33 : update: updating Y-music/M.O.P. - Cold As Ice (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown.mp3
+Aug 09 15:33 : update: updating Y-music/Vlad Dobrescu - Globul De Cristal.mp3
+Aug 09 15:33 : update: updating Y-music/Ganjaman - Alfons - Ganjaman.mp3
+Aug 09 15:33 : update: updating Y-music/K CAMP - Lottery (Renegade).mp3
+Aug 09 15:33 : update: updating Y-music/Eminem - Without Me (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Din 94 _feat. Mike Diamondz.mp3
+Aug 09 15:33 : update: updating Y-music/Arsonists - Pyromaniax.mp3
+Aug 09 15:33 : update: updating Y-music/TA PA PERREAR  Locura Mix Alan Gomez  Deejay Maquina Oficial Video Remix .mp3
+Aug 09 15:33 : update: updating Y-music/F.Charm - Lăcomia (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Y-music/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3
+Aug 09 15:33 : update: updating Y-music/Nicki Minaj - Anaconda.mp3
+Aug 09 15:33 : update: updating Y-music/Dr. Dre feat. Snoop Dogg - Still D.R.E. (Dj Dark & Mentol Remix).mp3
+Aug 09 15:33 : update: updating Y-music/Pump It Up _ Tik Tok 抖音 - Remix _ _ You Got To Sing Along _.mp3
+Aug 09 15:33 : update: updating Y-music/KILLA FONIC - Miami Bici (OST).mp3
+Aug 09 15:33 : update: updating Y-music/Cedry2K - Derobotizare.mp3
+Aug 09 15:33 : update: updating Y-music/Cătălina Solomac  - Dă mai tare muzica.mp3
+Aug 09 15:33 : update: added Y-music/Parazitii - Din coltul Blocului.mp3
+Aug 09 15:33 : update: updating Y-music/Cedry2k - Actiune de Noapte.mp3
+Aug 09 15:33 : update: updating Y-music/Tujamo & Plastik Funk - Dr. Who! (UK Radio Edit) [feat. Sneakbo].mp3
+Aug 09 15:33 : update: updating Y-music/Drumatic - You And Me.mp3
+Aug 09 15:33 : update: updating Y-music/Lorna - Papi Chulo... Te Traigo El Mmmm (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii feat  Spike - Rau sau bun (nr.40).mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Pe Limba Lumii (prod. de Phane) (#Leapsa).mp3
+Aug 09 15:33 : update: updating Y-music/INNA - Cola Song (feat. J Balvin) _ Official Music Video.mp3
+Aug 09 15:33 : update: updating Y-music/Eminem - Must Be The Ganja.mp3
+Aug 09 15:33 : update: updating Y-music/Nimeni Altu' - Nopţi prea lungi.mp3
+Aug 09 15:33 : update: updating Y-music/Ricky Desktop - The Banjo Beat, Pt. 1.mp3
+Aug 09 15:33 : update: updating Y-music/OBOY - Cabeza (Clip officiel).mp3
+Aug 09 15:33 : update: updating Y-music/Ultradiox - Walked In.mp3
+Aug 09 15:33 : update: updating Y-music/DELIRIC - ASPIRINA _ HOME DELIVERY #1.mp3
+Aug 09 15:33 : update: updating Y-music/Emy Alupei, Theo Rose & What's Up - Scandal.mp3
+Aug 09 15:33 : update: updating Y-music/Doc - Vecinii Mei.mp3
+Aug 09 15:33 : update: updating Y-music/Arabeasca-Super-Tare.mp3
+Aug 09 15:33 : update: updating Y-music/Vladone x Papa Urban ft. Pietonu', Lecsick - Asta Inseamna Sa NU Fi(i) Mafiot _ VIDEO.mp3
+Aug 09 15:33 : update: updating Y-music/Baboi - Doamna Mea.mp3
+Aug 09 15:33 : update: updating Y-music/DELIRIC - TANC _ HOME DELIVERY - 2.mp3
+Aug 09 15:33 : update: updating Y-music/Jamie Berry - Who's That.mp3
+Aug 09 15:33 : update: updating Y-music/LMFAO - Sexy and I Know It (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/Vecinii Mei.mp3
+Aug 09 15:33 : update: updating Y-music/Hippie Sabotage - Devil Eyes.mp3
+Aug 09 15:33 : update: updating Y-music/Killa Fonic - Dvns.mp3
+Aug 09 15:33 : update: updating Y-music/Sapte x Azteca - BOB (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/Jennifer Lopez - Jenny from the Block.mp3
+Aug 09 15:33 : update: updating Y-music/Bro Safari - Scumbag [FREE DL].mp3
+Aug 09 15:33 : update: updating Y-music/MOUNT WESTMORE – Big Subwoofer (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Necomercial (nr.48).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Ce n-avem acasa.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Sah mat [feat. DOC, Vlad Dobrescu].mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo - Apel la sinceritate (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Y-music/Bhayanak Atma feat. Gagan Mudgal.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - SEfu.mp3
+Aug 09 15:33 : update: updating Y-music/Ja Rule - I'm Real (feat. Jennifer Lopez).mp3
+Aug 09 15:33 : update: updating Y-music/Adio, da' ma intorc.mp3
+Aug 09 15:33 : update: updating Y-music/Yo Perreo Sola - Bad Bunny ( Video Oficial ).mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Linii De Tramvai (feat. DOC) (Videoclip).mp3
+Aug 09 15:33 : update: updating Y-music/Jack Harlow - WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) _Official Visualizer_.mp3
+Aug 09 15:33 : update: updating Y-music/John Cena & Tha Trademarc - WWE The Time Is Now (John Cena).mp3
+Aug 09 15:33 : update: updating Y-music/B.U.G. Mafia - Dupa Blocuri (Prod. Tata Vlad) (Videoclip).mp3
+Aug 09 15:33 : update: updating Y-music/The Prince Karma - Later Bitches (Official Lyrics Video).mp3
+Aug 09 15:33 : update: updating Y-music/Bitza - Bagaboanta.mp3
+Aug 09 15:33 : update: updating Y-music/F.Charm - Nimic nu-i întâmplător (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Y-music/Echo feat. Codrin - Sub Chiuvetă (Oficial).mp3
+Aug 09 15:33 : update: updating Y-music/Cabron & Don Baxter - Femei _Official track HQ.mp3
+Aug 09 15:33 : update: updating Y-music/Spike - Tango.mp3
+Aug 09 15:33 : update: updating Y-music/Deliric - Mahmur.mp3
+Aug 09 15:33 : update: updating Y-music/Azeri Bass - Avara Avara (2018-2020).mp3
+Aug 09 15:33 : update: updating Y-music/Endor - Pump It Up.mp3
+Aug 09 15:33 : update: updating Y-music/Ceilalti cu Brugner - Ce-a mai ramas din oameni.avi.mp3
+Aug 09 15:33 : update: updating Y-music/Cedry2k - Una Din Doua (feat. Jianu & F.Charm).mp3
+Aug 09 15:33 : update: updating Y-music/PITBULL - I know you want me (calle ocho) _Official video HD.mp3
+Aug 09 15:33 : update: updating Y-music/Spike - Iti pare rau (feat Dan Spataru).mp3
+Aug 09 15:33 : update: updating Y-music/Corina & Tony Cottura - Quieres Una Aventura.mp3
+Aug 09 15:33 : update: updating Y-music/Eve - Let Me Blow Your Mind (Biggie Mashup).mp3
+Aug 09 15:33 : update: updating Y-music/DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/El Desorden - Ozuna Ft. Plan B (video).mp3
+Aug 09 15:33 : update: updating Y-music/Angelo Ferreri & Hatiras - In the House.mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Degeneratia urmatoare.mp3
+Aug 09 15:33 : update: updating Y-music/Axel Thesleff - Bad Karma (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Shaggy - Angel ft. Rayvon (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Angelo Ferreri - When I See You.mp3
+Aug 09 15:33 : update: updating Y-music/Warren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video - rren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video.mp3
+Aug 09 15:33 : update: updating Y-music/Ginuwine - Pony.mp3
+Aug 09 15:33 : update: updating Y-music/Gojira & Planet H feat ALAN & KEPA - Beau Beau.mp3
+Aug 09 15:33 : update: updating Y-music/Lil Nas X - Old Town Road.mp3
+Aug 09 15:33 : update: updating Y-music/Becky G, Natti Natasha - Sin Pijama (Official Video).mp3
+Aug 09 15:33 : update: updating Y-music/The Black Eyed Peas - Where Is The Love_ (Official Music Video).mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii - Degeneratia urmatoare - Remix.mp3
+Aug 09 15:33 : update: updating Y-music/Ride Or Die.mp3
+Aug 09 15:33 : update: updating Y-music/Sub Sonik - Go FCk Yourself (Digital Punk Remix).mp3
+Aug 09 15:33 : update: updating Y-music/Kanye West - Mercy (Explicit) ft. Big Sean, Pusha T, 2 Chainz.mp3
+Aug 09 15:33 : update: updating Y-music/Jennifer Lopez  ft. Ja Rule - I'm Real (Remix) _Official Video_.mp3
+Aug 09 15:33 : update: updating Y-music/Parazitii Alan & Kepa Dr Dre Snoop Dogg - Mi se rupe   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/ALL STAR - Lasa sa curga,sticla sa planga   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/Sisu Puya - Adevarul Gol Golut   Deejay Killer Remix.mp3
+Aug 09 15:33 : update: updating Y-music/Paraziții - Hash Thug Rezist.mp3
+Aug 09 15:33 : update: updating Y-music/Piesa mea preferata.mp3
+Aug 09 15:33 : update: updating Y-music/Cheloo & Lazar – Opus 1 (Killing The Classics) - Videoclip Oficial.mp3
+Aug 09 15:33 : update: updating Y-music/FUNK RKTERO - (Brasilero) ✘ Liam DJ ✘ Deejay Maquina Video Remix ✘.mp3
+Aug 09 15:33 : update: updating Y-music/Andreea D - Rompedon.mp3
+Aug 09 15:33 : update: updating Y-music/Eve ft. Gwen Stefani - Let Me Blow Ya Mind (Official Video).mp3
+Aug 09 15:33 : update: updating Petrecere/❌ Ramona de la Clejani ❌ Dragostea fir-ar sa fie ❌.mp3
+Aug 09 15:33 : update: updating Petrecere/Subcarpati - Doina spiritului.mp3
+Aug 09 15:33 : update: updating Petrecere/🤣AM O PULĂ,CÂT UN PRUN🤣BEBE DE LA TARGOVISTE PARDODIEEEEE🤣🤣🤣.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Club Mix 2020 l Muzica Romaneasca De Petrecere 2020 l Mixed by Dj Slp  ❌▲.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-11.mp3
+Aug 09 15:33 : update: updating Petrecere/La pantofi si la sandale -  Madalina Meicu si Autentic Tulcea ( Cover Vioras Milan ).mp3
+Aug 09 15:33 : update: updating Petrecere/Sesiune de Folclor Romanesc 2021 _ Folclor Romanesc Remix.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-02.mp3
+Aug 09 15:33 : update: updating Petrecere/Bebe de la Targoviste-Zice lumea ca sparg casa, daca-i fut si eu nevasta.mp3
+Aug 09 15:33 : update: updating Petrecere/Mix Folclor Romanesc  Muzica Noua Romaneasca de Petrecere.mp3
+Aug 09 15:33 : update: updating Petrecere/Alex Bradatan Ovidiu Lupu - Dragu-mi-i in sat la joc (Remix).mp3
+Aug 09 15:33 : update: updating Petrecere/O fata hoinara 2020 Super instrumental Muzica de petrecere 2020.mp3
+Aug 09 15:33 : update: updating Petrecere/CARMEN CHINDRIȘ - Ziua în care tu m-ai sărutat  (cover by Alexia Nicole Alb).mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-01.mp3
+Aug 09 15:33 : update: updating Petrecere/Ancuta Anghel - Astai jocul lui Petrica Remix.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-10.mp3
+Aug 09 15:33 : update: updating Petrecere/Taraful de la Varbilău – În pădure la Băneasa (@Politică şi delicateţuri).mp3
+Aug 09 15:33 : update: updating Petrecere/Ancuța Anghel - Până-i verde frunza-n codru - petrecere la moroseni 3.mp3
+Aug 09 15:33 : update: updating Petrecere/LIVIA POP & FORMATIA - AM O FUSTĂ CREAȚĂ, CREAȚĂ 2020.mp3
+Aug 09 15:33 : update: updating Petrecere/Florentina Vlad, Maria Luiza & Vladuta Lupau - DJ Petre Remix..mp3
+Aug 09 15:33 : update: updating Petrecere/Laura Cazac & MD Dj - Opa Opa (Remaster 2019).mp3
+Aug 09 15:33 : update: updating Petrecere/DJ Tyger - Colaj Maramures Remixuri 2019.mp3
+Aug 09 15:33 : update: updating Petrecere/Diana Cârlig și Ionuț Bledea -  Veselie la Moroșeni 2021 Remix by DJ Petre.mp3
+Aug 09 15:33 : update: updating Petrecere/Taraful de la Varbilău - Mi-a plecat nevasta iar (@Politică şi delicateţuri).mp3
+Aug 09 15:33 : update: updating Petrecere/Calin Crisan, Amalia Ursu si Vasilica Ceterasu' - Jura mandro (videoclip original).mp3
+Aug 09 15:33 : update: updating Petrecere/Alexunder -  Hai Mai Dor (Bootleg 2k17).mp3
+Aug 09 15:33 : update: updating Petrecere/Ancuta Anghel   La crasma unde vand eu.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-04.mp3
+Aug 09 15:33 : update: updating Petrecere/Florentina Vlad, Maria Luiza & Vladuta Lupau - DJ Petre Remix-Edit..mp3
+Aug 09 15:33 : update: updating Petrecere/Calin Crisan - Cucuruzu'.mp3
+Aug 09 15:33 : update: updating Petrecere/SĂRACĂ BARBĂ CĂRUNTĂ-NIMENI NU TE MAI SĂRUTĂ-COVER CRISTIAN POMOHACI-LIVE BEBE DE LA TARGOVISTE🙏😪.mp3
+Aug 09 15:33 : update: updating Petrecere/COLAJ ETNO-ARDEAL-LIVE COVER-BEBE DE LA TARGOVISTE-LIVE COVER-❤❤.mp3
+Aug 09 15:33 : update: updating Petrecere/Alex de la Orastie   - Am sa te prind eu odata _Video oficial 2021.mp3
+Aug 09 15:33 : update: updating Petrecere/Nelu Popa - Manea Sax  _ H I T _ 2022.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-03.mp3
+Aug 09 15:33 : update: updating Petrecere/Ramona de la Clejani -  Mandru-i tata cand ma vede.mp3
+Aug 09 15:33 : update: updating Petrecere/Super Remix Maramures.mp3
+Aug 09 15:33 : update: updating Petrecere/Taraful din Clejani - Alo Hawaii.mp3
+Aug 09 15:33 : update: updating Petrecere/Calin Crisan, Amalia Ursu & Vasilica Ceterasu' - Doamne, faina esti mai fina (NOU 2018).mp3
+Aug 09 15:33 : update: updating Petrecere/Nelu Popa - Manea SAX 4K NOU.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Club Mix 2021 l Muzica Romaneasca de Petrecere l by Dj Drink.mp3
+Aug 09 15:33 : update: updating Petrecere/Live Acasă-i România 2020 Instrumental.mp3
+Aug 09 15:33 : update: updating Petrecere/Pustoaico cu par roscat 2020 Ce bine arata fata Instrumentala belea 2020.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-16.mp3
+Aug 09 15:33 : update: updating Petrecere/Muzica de Petrecere Februarie ( Club Mix).mp3
+Aug 09 15:33 : update: updating Petrecere/Dj Vianu x Angelica Flutur - Dupa Fluieras De Fag (Bootleg).mp3
+Aug 09 15:33 : update: updating Petrecere/Viorica si Ionita din Clejani - Mandrelele.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-08.mp3
+Aug 09 15:33 : update: updating Petrecere/SORINEL DE LA PLOPENI    MADALINA.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-15.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor românesc Elena de cinci ani remix.mp3
+Aug 09 15:33 : update: updating Petrecere/Marius Zgaianu şi Străjerii Bucovinei - Pojorâta (URSUL).mp3
+Aug 09 15:33 : update: updating Petrecere/Vasilica Ceterasu, Maria Chira si Mihai Gheban - Te-o lasat puterile.mp3
+Aug 09 15:33 : update: updating Petrecere/Dj Vianu x Surorile Osoianu - Bine-i Șade Mesei Mele (Bootleg).mp3
+Aug 09 15:33 : update: updating Petrecere/Selena Anghel - Când beu și mă vesălesc.mp3
+Aug 09 15:33 : update: updating Petrecere/Colaj Muzica de Petrecere NOU 2022 CEL MAI BUN COLAJ - MUZICA DE PETRECERE.mp3
+Aug 09 15:33 : update: updating Petrecere/Sonia Ratiu- Maramures Club Mix 2020 by DJ Petre.mp3
+Aug 09 15:33 : update: updating Petrecere/Dj Vianu x Plăieșii - La Omul Care Mi-i Drag.mp3
+Aug 09 15:33 : update: updating Petrecere/Karina Petrovici - Saraca barba carunta COVER.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-14.mp3
+Aug 09 15:33 : update: updating Petrecere/DJ Tyger   Colaj Maramures Remixuri 2020.mp3
+Aug 09 15:33 : update: updating Petrecere/Mix Folclor Romanesc Muzica Noua Romaneasca.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-09.mp3
+Aug 09 15:33 : update: updating Petrecere/Vlăduța Lupau Rapsozii Maramureșului și Bogdan Bizău - colaj etno 2019.mp3
+Aug 09 15:33 : update: updating Petrecere/Nu ma bate vantule & Gigolo & Tigane tu ai amanta - Cover by Iulia Dumitrache & Band COLAJ 2020.mp3
+Aug 09 15:33 : update: updating Petrecere/Dj Rynno feat Sylvia - Constantine Remix.mp3
+Aug 09 15:33 : update: updating Petrecere/Dj NeXi- Frunza verde lin pelin {bootleg}.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-05.mp3
+Aug 09 15:33 : update: updating Petrecere/Viața și sexul la țară - Bea Gheorghe și Kalu' lui.mp3
+Aug 09 15:33 : update: updating Petrecere/Ionut Chis, Bogdan Bizau & Ionut Bledea - Joc si Voie Buna - Dance Remix by DJ Petre.mp3
+Aug 09 15:33 : update: updating Petrecere/Amalia Ursu si Vasilica Ceterasu - De-ai sti mintea la barbat (video oficial).mp3
+Aug 09 15:33 : update: updating Petrecere/Sesiune de Folclor Romanesc 2016  Club Mix.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-13.mp3
+Aug 09 15:33 : update: updating Petrecere/Vladuta Lupau - Lasa-ma sa beau (Cover - Puiu Codreanu) 2020.mp3
+Aug 09 15:33 : update: updating Petrecere/Dj Criswell - O mandra ca o floare (Bootleg).mp3
+Aug 09 15:33 : update: updating Petrecere/Nelu Popa - ❌ live 🎷 NOU 2021 ❌.mp3
+Aug 09 15:33 : update: updating Petrecere/Remix_Dj Criswell - Mi-au mancat fetili banii (Bootleg).mp3
+Aug 09 15:33 : update: updating Petrecere/Taraful din Clejani - La Bolintinu din Vale.mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-12.mp3
+Aug 09 15:33 : update: updating Petrecere/Mix Folclor - Colinde 2020-01.mp3
+Aug 09 15:33 : update: updating Petrecere/Gavrilă feat Alex Martari - Vorbe bune.mp3
+Aug 09 15:33 : update: updating Petrecere/Colaj  Maramures   ( Remix  2020 ) Colaj  Nicola   Muzica Noua( Remix 2020).mp3
+Aug 09 15:33 : update: updating Petrecere/Ramona de la Clejani  -  Roata vietii se invarteste Muzica de Petrecere.mp3
+Aug 09 15:33 : update: updating Petrecere/Fir-Ai Să Fii Băutură (feat. Rapsozii Maramureșului).mp3
+Aug 09 15:33 : update: updating Petrecere/Folclor Romanesc CLUB MIX _ 2020-07.mp3
+Aug 09 15:33 : update: updating Petrecere/DJ Criswell - Prăvălita (Bootleg).mp3
+Aug 09 15:33 : update: removing Oriental/Adrian Minune-Rachi tachi tarara.mp3
+Aug 09 15:33 : update: removing Oriental/Dani Mocanu - Doar Dumnezeu ma poate judeca  _ Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/Cristi Mega  Hazul si figurile (Official Video)  Kim Kardashian.mp3
+Aug 09 15:33 : update: removing Oriental/Costel Biju - Para Paralizez _ Official Video 2022.mp3
+Aug 09 15:33 : update: removing Oriental/Am Citit in Horoscop.mp3
+Aug 09 15:33 : update: removing Oriental/ALEX BOTEA❎MANA STANGA SUS 2022❎Botez Joachim Gabriel.mp3
+Aug 09 15:33 : update: removing Oriental/Alex Botea ❌ Mana stanga sus 🙋‍♀️ (Official Video).mp3
+Aug 09 15:33 : update: removing Oriental/Nicolae Guta - Adio Plictiseala (Video Oficial 2014) Hit.mp3
+Aug 09 15:33 : update: removing Oriental/Miraj Tzunami - N-ai talent tu n-ai.mp3
+Aug 09 15:33 : update: removing Oriental/Miraj Tzunami - Ma uit la voi cu lupa.mp3
+Aug 09 15:33 : update: removing Oriental/Miraj Tzunami - Asu nr 5 (Manele noi ) 2021.mp3
+Aug 09 15:33 : update: removing Oriental/Mihaita Piticu - Tradatorii Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/LeLe - O noapte in Medellin _ Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/Iuly Neamtu - Cand rupi patu’  ( Video Oficial ).mp3
+Aug 09 15:33 : update: removing Oriental/Florin Cercel - La mine vin doar bogatii _Official Video_ 2021.mp3
+Aug 09 15:33 : update: removing Oriental/Florin Cercel  Am O Gagica Nebuna Official Video @cristina Pucean.mp3
+Aug 09 15:33 : update: removing Oriental/Eu As Da Zilele Mele.mp3
+Aug 09 15:33 : update: removing Oriental/Denis Nuca - Wella, Wella (Official Video).mp3
+Aug 09 15:33 : update: removing Oriental/Dani Mocanu 💉Acidul și Siliconul _ Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/Kristiyana Music - Costel Biju Kristiyana - Cu Mine Te Stie Lumea ♫ Hit 2021.mp3
+Aug 09 15:33 : update: removing Oriental/Stefan De La Barbulesti - Ce Sa-Ti Fac Ce Sa-Ti Dau.mp3
+Aug 09 15:33 : update: removing Oriental/Sorin Talent - Vai Vai (Remix).mp3
+Aug 09 15:33 : update: removing Oriental/Mi-Am Facut Rutina in Tara.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu Vali Vijelie  - Tu ma duci cu zaharelu 2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu Si Miraj Tzunami - Legendele Videoclip Oficial_2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Surubu Hit 2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Havana _videoclip oficial_ 2022.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Hai ca m-ai sedus _Manele noi_ 2022.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Buzele Cu Rosu Inchis Oficial Video_2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Banii _ Manele Mentolate.mp3
+Aug 09 15:33 : update: removing Oriental/Tudor Cioara  Lasa-Mi Romanca in Pace Guest - Florin & Brigitte Pastrama Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/Pitutza ❌ Nikolas Sax ❌ Ali Sultanul - Figa Party  🎉  Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/PITUTZA ❌ DeSanto ✔ CUM TE EU _ Oficial Video 2021.mp3
+Aug 09 15:33 : update: removing Oriental/PITUTZA - SA MOARA VETA _ Vand Golf 4 _ 2021 _ Maria Georgiana.mp3
+Aug 09 15:33 : update: removing Oriental/Pitutza - Hei ciorico (te dau o tura cu Tico).mp3
+Aug 09 15:33 : update: removing Oriental/Pe Mine Banii Nu Ma Fac.mp3
+Aug 09 15:33 : update: removing Oriental/Nu Mai Stiu De Mine.mp3
+Aug 09 15:33 : update: removing Oriental/Nicolae Guta - Voi Veni La Usa Ta Oficial Video_2018.mp3
+Aug 09 15:33 : update: removing Oriental/Nicolae Guta - Vine Garda (Live).mp3
+Aug 09 15:33 : update: removing Oriental/Nicolae Guta - Cerul Are Multe Stele Super Hit 2015.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Noptile Albastre ( Oficial Video 2018 ).mp3
+Aug 09 15:33 : update: removing Oriental/Petruta - Ba La Mine,ba La Ea Video Official_.mp3
+Aug 09 15:33 : update: removing Oriental/Petrica Cercel - Am 5 Stele Pe Un Umar (Oficial Video) 2019.mp3
+Aug 09 15:33 : update: removing Oriental/Mihaita Piticu & Tzanca Uraganu - Una La O Mie Official Video_2020.mp3
+Aug 09 15:33 : update: removing Oriental/Jador Lino Golden - Dau Moda Official Video.mp3
+Aug 09 15:33 : update: removing Oriental/Ionut De La Constanta - Te-As Iubi O Noapte Videoclip Official 2020_Cover.mp3
+Aug 09 15:33 : update: removing Oriental/Dani Mocanu - Tigan Infractor ( Oficial Video ) 2018.mp3
+Aug 09 15:33 : update: removing Oriental/Afaceri Ilegale.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu Si Costel Biju - E Buna Rau Pe Basi Videoclip Oficial_2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu Nr.1 E Femeia.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Noaptea Golanii Videoclip Oficial_.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - Am Luat Cina Cu Vecina Videoclip Oficial_.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu  Nikolas - Zeita Din Olimp Videoclip Oficial_2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu  Faceti Ca Locomotiva Videoclip Oficial_2021.mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu  - Meka Meka (Videoclip Oficial 2021).mp3
+Aug 09 15:33 : update: removing Oriental/Sorinel De La Plopeni Bat Dusamnii Mei Pe Rand.mp3
+Aug 09 15:33 : update: removing Oriental/Nikolas Sax & Sake - Amame 4k 2020.mp3
+Aug 09 15:33 : update: removing Oriental/Nicolae Guta - Perechea Mea Potrivita.mp3
+Aug 09 15:33 : update: removing Oriental/Live Florin Salam Intr O Zi Am Sa Ma Fac.mp3
+Aug 09 15:33 : update: removing Oriental/Jador  Emilia Dodo  Jay Maly  Costi - Jale (Djeale Romanian Remix).mp3
+Aug 09 15:33 : update: removing Oriental/Iuly Neamtu - Un Frate Mai Mare ( Video Oficial ).mp3
+Aug 09 15:33 : update: removing Oriental/Costel Biju - Ridica Fusta Mai Sus  Baga Bine Mai Marine  Oficial Remix 2020.mp3
+Aug 09 15:33 : update: removing Oriental/Costel Biju  Raki Taki Tanana Edit-CIP).mp3
+Aug 09 15:33 : update: removing Oriental/Costel Biju  Alex Botea - Iar Mi-Am Suparat Iubita (Official Video).mp3
+Aug 09 15:33 : update: removing Oriental/Ai O Fusta Creata  Focu Focu  ( Oficial Remix 2020 ) .mp3
+Aug 09 15:33 : update: removing Oriental/Tzanca Uraganu - De-as avea smecherometru _videoclip oficial_ 2021.mp3
+Aug 09 15:33 : update: added Oriental/ELYS ❌️ Susanu - N-am leafa de fotbalist [Video Oficial] 2023.mp3
+Aug 09 15:33 : update: added Oriental/Dacă n-ai bani (feat. Beach, Please!).mp3
+Aug 09 15:33 : update: added Oriental/Florin Bora❌S.O.S. ｜ Official Video 2023.mp3
+Aug 09 15:33 : update: added Oriental/Lele - Adrenalina - Official Video (2023).mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Fetele matinale [video oficial] HIT 2023.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Trotinete (Romina VTM OST) ｜ Manele Mentolate.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Va dati la Doberman [Videoclip Oficial] 2023 ft. Nikolas Olandezu.mp3
+Aug 09 15:33 : update: added Oriental/Dani Mocanu © Oficial - Dani Mocanu - Doar Dumnezeu ma poate judeca.mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Perechea mea potrivita.mp3
+Aug 09 15:33 : update: added Oriental/Stefan De La Barbulesti - Stefan De La Barbulesti - Ce Sa-Ti Fac Ce Sa-Ti Dau.mp3
+Aug 09 15:33 : update: added Oriental/Costel Biju Alex Botea - Iar MI-Am Suparat Iubita (Official Video).mp3
+Aug 09 15:33 : update: added Oriental/Florin Peste Records - LeLe - O noapte in Medellin.mp3
+Aug 09 15:33 : update: added Oriental/Costel Biju Kristiyana - Costel Biju Kristiyana - Cu Mine Te Stie Lumea ÃÂÂ« Hit 2021.mp3
+Aug 09 15:33 : update: added Oriental/FLORIN PESTE & PLAY AJ - Beau, beau, beau.mp3
+Aug 09 15:33 : update: added Oriental/Edy Talent - Elys - Un frate ti-e frate 2022.mp3
+Aug 09 15:33 : update: added Oriental/FLORIN CERCEL❎AM FACUT BANI TOATA VIATA MEA 2022❎@ClubTranquila - FLORIN CERCEL.mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Aurul Atarna Greu.mp3
+Aug 09 15:33 : update: added Oriental/FLORIN CERCEL❎SUNT CA SCHIMBUL VALUTAR 2022❎@ClubTranquila - FLORIN CERCEL.mp3
+Aug 09 15:33 : update: updating Oriental/Bogdan de la Cluj - Steluta mea (video oficial).mp3
+Aug 09 15:33 : update: added Oriental/Costel Biju - Costel Biju  Raki Taki Tanana Edit-CIP).mp3
+Aug 09 15:33 : update: added Oriental/Jador & Lino Golden - Dau Moda.mp3
+Aug 09 15:33 : update: added Oriental/Nek Music Tv - Tzanca Uraganu  Vali Vijelie  - Tu ma duci cu zaharelu 2021.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Am Luat Cina Cu Vecina Videoclip Oficial.mp3
+Aug 09 15:33 : update: added Oriental/CostelBijuOficial -  Ce femeie ｜ Official video ｜.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Bat la 6 buci [video oficial].mp3
+Aug 09 15:33 : update: updating Oriental/Mihaita Piticu - Ma Vazut Lumea.mp3
+Aug 09 15:33 : update: added Oriental/Florin Peste, Cristian Rizescu si Play Aj - Stai asa sa beau.mp3
+Aug 09 15:33 : update: added Oriental/Liviu Guta, Florin Peste, Costelino & Play AJ - Cand pisica nu-i acasa {Manele Tari}.mp3
+Aug 09 15:33 : update: added Oriental/NIKOLAS - Eleva de la liceu [Videoclip Oficial] 2023.mp3
+Aug 09 15:33 : update: added Oriental/Sorinel Pustiu  💥 Doamna Profesoara 💥 Manele Noi 2023 💥 Videoclip Oficial 2023 - Doamna Profesoara.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Eu sunt mereu pe primul loc [video oficial] 2023.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Formula 1[videoclip oficial] 2023.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu ❌️❎️Gagica de Dorobanti❎️ - Gagica de Dorobanti.mp3
+Aug 09 15:33 : update: updating Oriental/Tzanca Uraganu - Cand Va Vad M-Apuca Mila (Official Video 2020).mp3
+Aug 09 15:33 : update: updating Oriental/Tzanca Uraganu - Bagabond Asa Ma Vrea [Video Oficial] 2021.mp3
+Aug 09 15:33 : update: updating Oriental/Adrian Minune - Nu Am Doua Vieti (Video).mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Hai Cu Maneaua.mp3
+Aug 09 15:33 : update: added Oriental/HOOD Famous - Johny Romano ❌ @Connect-R. - Politai.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu Si Costel Biju - E Buna Rau Pe Basi Videoclip Oficial 2021.mp3
+Aug 09 15:33 : update: added Oriental/Miraj Tzunami - Miraj Tzunami - Asu nr 5 2021.mp3
+Aug 09 15:33 : update: updating Oriental/Tzanca Uraganu - Fake-Urile.mp3
+Aug 09 15:33 : update: updating Oriental/Nicky Yaya Si Valentino - Fata Lu' Tata.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Tzanca Uraganu - Surubu Hit 2021.mp3
+Aug 09 15:33 : update: added Oriental/Cristi Mega - Cristi Mega Hazul si figurile Kim Kardashian.mp3
+Aug 09 15:33 : update: updating Oriental/Ionut De La Fagaras - M -Am Jurat Ca Nu Mai Joc K-Play.mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Am Citit in Horoscop.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Tzanca Uraganu Nr.1 E Femeia.mp3
+Aug 09 15:33 : update: added Oriental/Florin Cercel - Am O Gagica Nebuna Cristina Pucean.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Noptile Albastre Live (Feat. Tzanca Uraganu).mp3
+Aug 09 15:33 : update: added Oriental/Rares x Gheboasa - Inima de aur (Romina VTM).mp3
+Aug 09 15:33 : update: added Oriental/Adi De La Valcea - Pe Mine Banii Nu Ma Fac.mp3
+Aug 09 15:33 : update: updating Oriental/Dani Mocanu - Campion Official Video.mp3
+Aug 09 15:33 : update: added Oriental/Alex Botea❎mana Stanga Sus 2022❎botez Joachim Gabriel - Mana Stanga Sus.mp3
+Aug 09 15:33 : update: added Oriental/Nikolas Sax & Sake - Amame.mp3
+Aug 09 15:33 : update: updating Oriental/Babi Minune - Destinatia Ibiza (Manele 2019).mp3
+Aug 09 15:33 : update: added Oriental/Costel Biju - Ai O Fusta Creata Focu Focu (Oficial Remix).mp3
+Aug 09 15:33 : update: added Oriental/Made in Romania by Amma - Toni de la Brasov 💥  Calu  💥 Joc NOU tiganesc 2023.mp3
+Aug 09 15:33 : update: updating Oriental/Costel Biju - Rolul principal (MuzicaLive.com).mp3
+Aug 09 15:33 : update: added Oriental/Nek Music Tv - Costel Biju ❌ Tzanca Uraganu - Boierul asta nu cumpara nici nu vinde.mp3
+Aug 09 15:33 : update: updating Oriental/Dani Mocanu - Voi Nu Ma Haliti Official Video.mp3
+Aug 09 15:33 : update: added Oriental/X-pert Production - Alex Botea ❌ Mana stanga sus 🙋‍♀️.mp3
+Aug 09 15:33 : update: updating Oriental/Tzanca Uraganu - Se Misca Pe Beat( 2020 ).mp3
+Aug 09 15:33 : update: updating Oriental/Dani Mocanu - Tot Ce Am Avut Official Video.mp3
+Aug 09 15:33 : update: added Oriental/Babi Minune - Cât e smecherul de mare.mp3
+Aug 09 15:33 : update: added Oriental/Dani Mocanu © Oficial - Afaceri Ilegale.mp3
+Aug 09 15:33 : update: added Oriental/Club Tranquila - FLORIN CERCEL❌Decat Sa-mi Numar Dusmanii Mai Bine Imi Numar Banii 2022❌ONOMASTICA MANU BOMBARDIERU.mp3
+Aug 09 15:33 : update: added Oriental/Luxor Music Studio - Fratii Damian - Colaj Manele Vechi✅ #LuxorMusicStudio.mp3
+Aug 09 15:33 : update: added Oriental/DeSanto Music - Pitutza ❌ Nikolas Sax ❌ Ali Sultanul - Figa Party.mp3
+Aug 09 15:33 : update: updating Oriental/Carmen de la Salciua - Tu esti fata de oras (Originala) 2021.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Tzanca Uraganu - Havana 2022.mp3
+Aug 09 15:33 : update: added Oriental/Tudor Cioara - Tudor Cioara  Lasa-Mi Romanca in Pace Guest - Florin & Brigitte Pastrama.mp3
+Aug 09 15:33 : update: added Oriental/Manele Mentolate - IULY NEAMTU - TIGANCA DE BUCURESTI - MANELE MENTOLATE.mp3
+Aug 09 15:33 : update: added Oriental/Dani Mocanu - Tigan Infractor ( Oficial Video ) 2019.mp3
+Aug 09 15:33 : update: updating Oriental/Robert Din Aparatori - Pariez Cu Tine.mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Chiar Si O Suta De Lei.mp3
+Aug 09 15:33 : update: added Oriental/CEA MAI FRUMOASA MANEA E PENTRU GAGICA MEA - NICOLAE GUTA si SUSANU.mp3
+Aug 09 15:33 : update: added Oriental/CrewetzelEvents - FLORIN CERCEL❎Duc O Viata Smechera 2022❎MANU BOMBARDIERU.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Tzanca Uraganu Si Miraj Tzunami - Legendele 2021.mp3
+Aug 09 15:33 : update: added Oriental/Mocanu Top Romania - Dani Mocanu 💉Acidul și Siliconul.mp3
+Aug 09 15:33 : update: updating Oriental/Miraj Tzunami - Iar da Bossu de malai.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Tzanca Uraganu - Hai ca m-ai sedus 2022.mp3
+Aug 09 15:33 : update: added Oriental/Alex Cereale - Adrian Minune-Rachi tachi tarara.mp3
+Aug 09 15:33 : update: added Oriental/Petruta - Ba La Mine,ba La Ea Video Official.mp3
+Aug 09 15:33 : update: added Oriental/Costel Biju - Ridica Fusta Mai Sus Baga Bine Mai Marine.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Tzanca Uraganu Faceti Ca Locomotiva 2021.mp3
+Aug 09 15:33 : update: added Oriental/Live Florin Salam - Live Florin Salam Intr O Zi Am Sa Ma Fac.mp3
+Aug 09 15:33 : update: updating Oriental/Sandu Ciorba - Batranu'.mp3
+Aug 09 15:33 : update: added Oriental/Mihaita Piticu - Mihaita Piticu - Tradatorii Official Video.mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Nicolae Guta - Adio Plictiseala (Video Oficial 2014) Hit.mp3
+Aug 09 15:33 : update: updating Oriental/Tzanca Uraganu Si Narcisa - Am in Capul Meu Doar Fantezii.mp3
+Aug 09 15:33 : update: updating Oriental/Luis Gabriel - Toate Diamantele Official Video.mp3
+Aug 09 15:33 : update: added Oriental/Sorin Talent - Sorin Talent - Vai Vai (Remix).mp3
+Aug 09 15:33 : update: updating Oriental/Alex de la Cluj - Cate zile are omu' ( Videoclip oficial ).mp3
+Aug 09 15:33 : update: updating Oriental/Petrica Cercel - Platesc Pentru Placerea Mea (Video Oficial).mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Nicolae Guta - Cerul Are Multe Stele Super Hit 2015.mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Nu Mai Stiu De Mine.mp3
+Aug 09 15:33 : update: updating Oriental/Bogdan De La Ploiesti - Brr Official Video 2020.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Noaptea Golanii Videoclip Oficial.mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Tu Esti Zana Din Povesti @ Imuzica.Com.mp3
+Aug 09 15:33 : update: added Oriental/Sorinel De La Plopeni - Sorinel De La Plopeni Bat Dusamnii Mei Pe Rand.mp3
+Aug 09 15:33 : update: updating Oriental/Costel Biju - Am Platit Sa-Mi Duc Regina.mp3
+Aug 09 15:33 : update: updating Oriental/Florin Cercel - Cand Se Aduna Fratii (Oficial Video) 2018.mp3
+Aug 09 15:33 : update: added Oriental/DeSanto Music - PITUTZA - SA MOARA VETA - Vand Golf 4 - 2021 - Maria Georgiana.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - De-as avea smecherometru  videoclip oficial  2021.mp3
+Aug 09 15:33 : update: added Oriental/Big Man Romania - Florin Cercel - La mine vin doar bogatii 2021.mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Dragostea Mea.mp3
+Aug 09 15:33 : update: updating Oriental/Susanu - La Lautari.mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Sa Nu Imi Iei Dragostea.mp3
+Aug 09 15:33 : update: updating Oriental/Alex de la Cluj - Grofoii (VIDEO NOU 2014).mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu  Nikolas - Zeita Din Olimp Videoclip Oficial 2021 - Zeita Din Olimp Videoclip Oficial 2021.mp3
+Aug 09 15:33 : update: added Oriental/Petrica Cercel - Petrica Cercel - Am 5 Stele Pe Un Umar (Oficial Video) 2019.mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Eu As Da Zilele Mele.mp3
+Aug 09 15:33 : update: added Oriental/Miraj Tzunami - Miraj Tzunami - N-ai talent tu n-ai.mp3
+Aug 09 15:33 : update: added Oriental/Nicolae Guta - Nicolae Guta - Vine Garda.mp3
+Aug 09 15:33 : update: updating Oriental/Nicolae Guta - Nu M-Am Schimbat.mp3
+Aug 09 15:33 : update: added Oriental/Iuly Neamtu Oficial - Iuly Neamtu - Cand rupi patu'.mp3
+Aug 09 15:33 : update: updating Oriental/LeLe x Ork Regalii - Ma vede tiganii (Cover) (MuzicaLive.com).mp3
+Aug 09 15:33 : update: added Oriental/Miraj Tzunami - Miraj Tzunami - Ma uit la voi cu lupa.mp3
+Aug 09 15:33 : update: updating Oriental/Marius De La Focsani - Patru Puncte Cardinale.mp3
+Aug 09 15:33 : update: added Oriental/Mihaita Piticu & Tzanca Uraganu - Una La O Mie Official Video 2020.mp3
+Aug 09 15:33 : update: updating Oriental/Dani Mocanu - Vulturul Official Audio.mp3
+Aug 09 15:33 : update: added Oriental/Mi-Am Facut Rutina in Tara - Nicolae Guta.mp3
+Aug 09 15:33 : update: added Oriental/Ionut De La Constanta - Te-As Iubi O Noapte Videoclip Official 2020 Cover.mp3
+Aug 09 15:33 : update: updating Oriental/Dani Mocanu - Evaziune Fiscala Official Audio.mp3
+Aug 09 15:33 : update: added Oriental/Next Studio - Denis Nuca - Wella, Wella.mp3
+Aug 09 15:33 : update: updating Oriental/Florin Cercel - De Talie Mondiala Official Video.m4a
+Aug 09 15:33 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 09 15:33 : update: added Oriental/Playone - Pitutza - Hei ciorico.mp3
+Aug 09 15:33 : update: added Oriental/DeSanto Music - PITUTZA ❌ DeSanto ✔ CUM TE EU - Oficial 2021.mp3
+Aug 09 15:33 : update: added Oriental/Manele Mentolate - Tzanca Uraganu - Banii - Manele Mentolate.mp3
+Aug 09 15:33 : update: added Oriental/Tzanca Uraganu - Meka Meka.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Stop To Do It.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Umana.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Jamaica Funk.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Freiboitar - Nobody Dance.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - You Can Do.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Change My Skin.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Big Fun.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Purple Disco Machine - Drumatic - Original Mix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Izinque.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Does Me.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - I Wanna Party.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - That Funky Music.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Sandy Rivera - So Good.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Trouble.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Piano Forte.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Postive Humour.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - The Rule.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - He Needs You.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Charles J - Charles J.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - End Of Street.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Michele Chiavarini - Let Me See You (Clap Your Hands).mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Magic Rhodes.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Alexz - That's The Way - Angelo Ferreri Remix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - First Question.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Rock It.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Get It.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Can't Get Enough.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - MuSeek - Original 'Madness' Mix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - That Soul - Original 'Super' Mix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/DJ Mes - Feel Like Getting Down - Angelo Ferreri Remix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - You Give Me.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Houseless.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Housettone.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - I'm Surprise.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Because It's For Me.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Johnick - One Dollar - Angelo Ferreri Remix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Everybody's Funk.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Job Created.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - No Mame.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - To Have The Music.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Mr Trammps.mp3
+Aug 09 15:33 : update: updating Mx-Bass/DJ Dan - Wanna Dance Dirty Disco - Angelo Ferreri 'Jackin Dope' Mix.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Baby OOOH.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Lonely Ghost.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - When I See You.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Man In Soul.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - Saxeggiare.mp3
+Aug 09 15:33 : update: updating Mx-Bass/Angelo Ferreri - So Hard.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Si Vox - Saruta-ma Viata Mea,ca Nu-mi Ajunge  - Live 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Mihaita Piticu -Te Iubesc Ca Un Nebun [Cover Djadja] 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta 2018 - Iara Beau Ca Nebunu' - Manele 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Fantastick - Carolina.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florinel - Ma Insor La Anu-n Mai.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Cu Tine Sau Fara Tine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - Cand Se Aduna Toti Baieti.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Super Arabeasca Allah Allah Ya Baba !!!.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Si Nicoleta Guta Cu Mr Juve - Te Iert Fata Mea.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Blondu De La Timisoara -  La Naiba Cu Dragostea (Oficial Video) 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Alessio - Misc-o Misc-o  [Oficial Video] Hit 2014.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Geany Morandi - Tu Esti Dorul Meu Live 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Tzanca Uraganu - Sistemul Lamborghini 2020.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Catalin De La Alexandria - Tu Ai Ceva Ce Mi Place (Video Manele 2015).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Culita Sterp  - Fata Cu Parfum De Floare _ Oficial Video 4K 2019 _ Roxana Buzoiu _ Sterp Iancu.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Marsul De Intampinare Al Armatei Romane.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Cristi Mega - Nu Suport Miros De Fraier (Official Video).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta  Toate Pozele Cu Tine - Manele Vechi.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ionut Cercel - Femeia Care Ma Face Sa Mor (Oficial Video Live).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Fratii Roman - La Mandruta In Gradina ( Sarba Live ).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - Marea Mea Placere (Feat Play Aj).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Razvan De La Pitesti - Pe O Insula Pustie [Oficial Video] Hit 2016.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Haide La Dans.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Geany Morandi - Fac Bani Si In Himalaya [Oficial Video] 2016.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Vrei Si Bani Vrei Si Iubire.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Calin Toader - Cine Se Gandea [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Pustiu - Daca Dragostea Ta Moare.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Ionut De La Constanta  - De La,de La [Oficial Video] 2015.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Alo Alo Ambulanta.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Roxana Printesa Ardealului - Lume Rea.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Stau Ca Vulturul Pe Stanca [Oficial Video] 2015.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Ori N-ai Vrut Ori N-ai Stiut.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florinel - Nu E Ora  Zii Sau Noapte (Feat Ioana).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta, Asu Si Ticy - Caterinca La Obor.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - Am O Poza De A Ta.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Peste - Viata E Facuta S-o Traiesti.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Claudia & Asu - Foarte Tare Foarte Fain.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Pustiu - Eu Sunt Rolul Principal.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - De Aia Mai Beau Cateodata   Remix 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Te Uiti Pe Mine Nasol Ca Ai Buzunarul Gol.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Printesa De Aur - Unii Se Lauda (Spiros Galati).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ionut Cercel & Petrica Cercel - Omul Cu Valoare {Oficial Video}.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Denisa - Inima Mea.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta Cristi Dules Si Brazilianu - Si Cand Mor Am Valoare.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Mihaita Piticu - Fac Afaceri De Tot Felul - 2016 ( Oficial Video ) Hit.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Cristi Dules - Viata Mea Langa Tine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Tzanca Uraganul - Cine Nu Are Valoare Sa Se Duca La Culcare - H.i.t 2017.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ionut Manelistu - Cand Eram La Londra, Fratepentru Cine Arunc Milioane, Live (Club La Lautari).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Printesa De Aur - Dau Cu O Mana Iau Cu Alta.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ionut De La Fagaras - M -Am Jurat Ca Nu Mai Joc K-play.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Gipsy Casual - Kelushka (Dj Rynno & Dj Bonne Remix) _ Official Video.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Cristi Dules - Banii Mei De Buzunar.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Sa Nu Ma Lasi Iubirea Mea   Remix 2K19.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Nicodata In Viata (Ruleta).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Petrica , Florin Si Ionut Cercel - Noi Dam Inainte , Voi Dati Inapoi (Oficial Video 2017).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Mihaita Piticu & Adrian Minune - Am Sa Bag Doua Ziare ( Oficial Audio ).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Brandy - Sunt Conectat La Internet.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Viata Asta Fara Tine (My Life Without You).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Peste - Hai Sa O Facem Lata.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Domnul Politai.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Claudia Si Florin Salam - Ce Bine Ne Sta Impreuna Super Hit.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Baboi - Harap Alb.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Blondu De La Timisoara - Paradise.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Bogdan Artistu & Roxelana - Saruta-ma, Sufoca-ma (Oficial Video).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Cercel - De Talie Mondiala ( Oficial Video ).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta & Susanu - Vreau Sa Beau Cu Fratii Mei.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Pustiu - Iti Dau Sufletul In Dar.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Cu Cartile Pe Fata.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florinel - De-as Pune Pret Pe Iubirea Ta (Feat Ioana).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Laura Olteanu-acasa-i Romania  -Acompaniaza Orchestra Fratilor Advahov.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - E Scris Undeva.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Claudia Si Florin Salam Ce Frumoasa E Dragostea Clip Original.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam,tzanca Uraganu' Si Mr Juve - Bine Ma...[oficial Video] Hit 2016.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Cristi Dules  - Bautura Si Manele.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Foc  Foc Dupa Foc.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Denisa - Hai Spune-mi Zodia Ta.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Numai Dau Bani La Dusmani.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adi De La Valcea - Cel Mai Bun Prieten (Feat Oana).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Iti Mananc Buzele.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Romeo Fantastick - Suparat.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Minodora - De Tine Imi Amintesc.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Susanu - Esti Bomba (Feat Florin Salam).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Pentru Inima Mea.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Leo De La Kuweit & Marinica Namol - Imi Duc Cu Mandrie Steagul ( Oficial Video ) Hit 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Costel Biju & Geany Morandi Viata De Imparat  ( Official  ) Hit 2016.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Vreau Sa-mi Fac Statuie.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Buzunarul Meu Vorbeste [Oficial Video] 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Brandy - Codul Puk Si Codul Pin.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Tzanca Uraganu - A Urcat Numele Meu [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ioana - Of Ce Dragoste Nebuna.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Susanu - Ia Sistem Turbat Chak Thak (Feat. Babi Minune).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Grad De Smecherie (Feat Modjo).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Si Vox - Cine Face Legile La Mine-n Familie - Live Cover 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Peste - Esti Trandafirul Intre Flori.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ionut Manelistu - Si Cu Buzunarul Gol, Mix 2017.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Pustiu - Stai Ca Dau Cu Banii.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - De Ce Te Feresti, Daca Ma Iubesti (Dj Magic Remix).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - Iar M-am Imbatat.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sandu Ciorba - Piratu' (Nou 2015).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - O Sticla Doua Trei.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Fara Tine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Campionii Cu Machiala (Feat Modjo).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Din Zi In Zi _ Casa Manelelor Mamaia .mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Tzanca Uraganu - Eu Fac Banii Ca Un Domn [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Geany Morandi - Nu E Vorba De Valoare [Oficial Video] 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Costel Biju - Hai Iubi Iubi ( Oficial Video ) Tel +40763999986.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Laura - Ce-as Putea Sa Fac Cu Banii (Oficial Video) 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Arabeasca Super Tare  Cel Mai Mișto Bass.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Biju Si Alin Diamantul - Haide,haide La Petrecere [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Hai Saruta-ma O Data (Video - Best Of Hits 2015).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adriana Drenea - Daca Ochii Mei.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Am O Singura Intrebare.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Bem Si Bem.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Geany Morandi - Ai Gesturi Senzuale ( Official Video ) Hit 2016.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Desanto - Valoare , Valoare ( Feat. Nelson Mondial ) Hit Manele 2016.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Denisa - Daca Tu Nu Ai Fi.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Hussain Al Jassmi - Boshret Kheir _ 2014.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Cristi Dorel - Lasa Figurile.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Brazilianu - Daca Ma Iubesti Asa Cum Spui.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/A-tentat - Se Intreaba Dusmanii Mei (Feat Kartel).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Soarta Si Destinul Omului (Feat Stefan De La Barbulesti).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Ionut De La Constanta - Da Pe-afara Buzunarul [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Catalin De La Buzau - Of Iubirea Mea - Oh My Love.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Culita Sterp - Amor, Amor _ Oficial Video 4K 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adrian Minune & Nicolae Guță - Ce Mor Dusmanii Mei.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicu Cioanca - Am Sa Plec Pe Jos Acasa [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Eu Sunt Bomba Nucleara.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - Anii Frumosi.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Sunt Barbat De Calitate.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Bogdan Artistu - Kana Jambe.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Andrada - Esti Baiatul Potrivit.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Jean De La Craiova & Roxana - Am Gagica Cea Mai Tare ( Official Video ).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Doru Tranca -  Daca Ploua, Nu Ma Ploua (Video) Turta - Stoienest 18.05.2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Sa Ma Ia Politia [Oficial Video] Hit 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Peste - Cand Pisica Nu-i Acasa (Feat Liviu Guta  Play Aj).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adrian Minune - Am Si Bani Am Si Putere.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Eu Nu Sunt Smecher Pentru O Zi - New Live By Antipiraterie1.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Nici Madona Nici Shakira.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Jean De La Craiova & Susanu - Beat De Dragoste [ Oficial Video ] 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Dorel De La Popesti - Eu Sarac Si Tu Bogata.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - La Mamaia.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Vrei bani sau dragoste, iti ofer orice (Dj Magic Remix).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Denisa - Fara Tine Noptile.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Cuba,cuba [Oficial Video] Hit 2015.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Aurul Atarna Greu   By Xsupradozax.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Fara Tine Sunt Ok (Video Oficial).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adrian-Nu mai cred in nimenea Live.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Alessio - Ochii Tai [Oficial Video] 2015.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Mr Juve - Fata De Pe Scara  [Oficial Video].mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Sac Sac Dusmane Sac (Feat Genove  Brazilianu).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorin Copilul De Aur - Nu Voi Renunta.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Cristi Dules - Si Soarele E Gelos.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Denisa - Eu Bogata Tu Sarac (1).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam Si Susanu - Se-nvarte Casa (Live).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Alin Dimantul - M-am Nascut Sa Fiu Fenomenal.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorin Copilul De Aur - Fie Rau Sau Fie Bine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Petrica Cercel - Platesc Pentru Placerea Mea (Video Oficial).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Baiatu' Maluma #Noapteatârziu (Cover Amuzant Pedro Capó, Farruko - Calma).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adi De La Valcea - Langa Cine, Langa Tine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Alex De La Caracal  Pacanele Invartitoare 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Adi De La Valcea - Prietenii Mei.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Vali Vijelie - Mai Stai (Feat Asu'  Bobby).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ovidiu Rusu Live - As Pleca Cu Tine-n Lume (Raki Taki Ta Ra Ra).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Susanu Si Liviu Pustiu - Tu Romanca , Eu Tigan.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Vali Vijelie - Nici O Suta Nici O Mie.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Daca Ma Enervez (Manele Vechi).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Susanu Si Nicolae Guta- Chel Tu Chel (Motoare Motoare)full Video 2015.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Cristian Rizescu - Spune-mi Ce Stea.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta - Smecher Ca Mine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Tzanca Uraganul - Sus Pe Camila.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Susanu - La Lautari.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Petrica Cercel - Am 5 Stele Pe Un Umar (Oficial Video) 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Petrica Si Ionut Cercel - Fratii Care Se Iubesc {Oficial Video} 2014.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Geany Morandi - Fac Bani Dintr-o Lovitura [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - De-ar Avea Dusmani Putere ( By Yonutz Slm ).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Leo De La Kuweit Si Marinica Namol - Amor Amor ( Oficial Video ) Hit 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Noi Bem Spargem Pahare.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Iulian Puiu - E Greu Sa Ai Caracter [Oficial Video] 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Joaca Boiereste Doamna Mea [ Oficial Video ] 2017.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Petrica Cercel - Daca Ploua , Nu Ma Ploua (Oficial Video) 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta Si Laura - Tu Esti Raza Mea De Soare [Oficial Video].mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Florin Salam - Ne Poarta Lumea Respectu' (Casa Manelelor Mamaia).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta - Pe Banii Lu' Tata.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Sa Vina Banii La Mine.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Vali Vijelie Si Liviu Pustiu - Mare Petrecere 4K 2018.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Claudia - 7 Zile (Feat. Danny).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ionut Cercel - Cainii Latra Ursul Merge {Oficial Video} 2014.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Nicolae Guta Stefan De La Barbulesti - Lume Dusmanoasa - The Bad World.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sunt Un Cocalar (Cover J Balvin - Tranquila).mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Guta, Florin Peste Si Mr Juve - Iara Beau - Hit.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Liviu Pustiu - Iar O Pun De Un Chef.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Sorinel Pustiu - Eu Port Stelele Lui Tata [ Oficial Video ] 2017.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Culita Sterp - Ma Saruta Frantuzeste (Oficial Video) 4K 2019.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Tzanca Uraganu' - Cea Mai Tare Mireasa [Oficial Video] Hit 2017.mp3
+Aug 09 15:33 : update: updating Manele-Tanga/Ciordelina.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Deceneu - 7 Zile (Necenzurat).mp3
+Aug 09 15:33 : update: updating Hip-Hop/B.u.g. Mafia - Muzica De Noapte (Feat. M&g).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Drumatic - You And Me.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Fcharm - Fcharm - Mi-e Dor (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k -  Bum (Intro 'România Furată').mp3
+Aug 09 15:33 : update: updating Hip-Hop/Didaia (Tralala) (Feat. Maximilian & Spike).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Antimilitie.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Skrillex - First Of The Year (Equinox) [Official Music Video].mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Imi Pare Rau (Nr.72).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Vlad Dobrescu - Oameni Ca Mine.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Grasu Xxl - Turbofin.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Faust - Legea Legilor Ft Tesla Cilum (Prod. Bluu).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Junky - Cum Dansezi (Feat. Mefx Si Mitza).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bbno$, Y2k - Lalala (Lyrics).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Probleme De Mandibula.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k - România Furată.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Made In Romania.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cretzu - Sfidând Soarta.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Lino Golden - 'Shoturi' _ Official Video.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bitza - All Star Part Ii (Cu Brugner, L. Doc, Deliric 1, Carbon).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Grasu Xxl - 'Da-te Mai Asa' (Videoclip).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Skrillex & Damian 'Jr Gong' Marley - 'Make It Bun Dem' [Audio].mp3
+Aug 09 15:33 : update: updating Hip-Hop/Nimeni Altu'- Trecând Peste Toate.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Dj Snake - Taki Taki (Feat. Selena Gomez, Ozuna & Cardi B).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Codu' Penal, Puya & Sharky - Pentru Cine Se Simte (Cenzurat).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Faust - Ceva Real Ft. Dj Sfera (Prod. Manafique).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bitza - Pasiunile Inving Legi.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - O Alta Zi (Feat Guesswho).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Suma Defectelor (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Asta E Rap.mp3
+Aug 09 15:33 : update: updating Hip-Hop/F.charm - Coroana (Feat. Oana Marinescu).mp3
+Aug 09 15:33 : update: updating Hip-Hop/The Commodores - Still.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Sub Influenta Feat Raku (Nr.69).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Camila Cabello - Havana (Bass Boosted).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - F''.mp3
+Aug 09 15:33 : update: updating Hip-Hop/La Familia - Dulce Razbunare (Feat. M3taphour).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Poliția Trece.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Mambo Nr 9.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Lasa-ma Sa Beau (Nr11).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ludacris - Act A Fool (Official Video).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Sau.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - O Chema (Nr.7).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bug Mafia - Zi De Zi (Feat Villy) (Prod Tata Vlad).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bug Mafia - Poveste Fara Sfarsit (Feat Jasmine) (Prod Tata Vlad).mp3
+Aug 09 15:33 : update: updating Hip-Hop/F.charm - Fala (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii-jos Cenzura.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon   Verdele Meu.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Carbon As Narcobranco - Introspectii.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Ultimul Tren.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k - Acelasi Joc.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Spike - Litoral.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Roddy Ricch - Bacc Seat (Feat. Ty Dolla $Ign) _Official Audio_.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Snoop Dogg,50 Cent & Univers Din Mizil -Cine A Pus Carciuma-n Drum (Mix) _Dj Nardy_.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cristian Poe - Poe X Tony P - Banii.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Sisu Tudor Cu Rashid - Lumina De La Capat.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cabron - Parap.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - O Zi Ca Oricare Alta.mp3
+Aug 09 15:33 : update: updating Hip-Hop/50 Cent Vs. Liviu Vasilica Vs. Gojira Vs. Snoop Dogg- Robot Armasar Attack (Reman Mashup).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Junky - Nimeni, Niciodata (Feat. Deliric).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Praf (Nr.34).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Future - Crushed Up.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Noapte Buna Bucuresti (Cu Guess Who).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Cheia De Sub Pres.mp3
+Aug 09 15:33 : update: updating Hip-Hop/B.u.g. Mafia - Un 2 Si Trei De 0 (Feat. Villy) (Prod. Tata Vlad).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cantecul Si Povestea Lui.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Capitane Raportez.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Spike - Ramanem Prieteni.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Dopebwoy - Cartier (Feat. Chivv & 3Robi).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k - Prometeu (Videoclip Oficial).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Spike Feat Dj Undoo - Cine Yo.mp3
+Aug 09 15:33 : update: updating Hip-Hop/2Pac - Hit 'Em Up (Dirty) (Official Video) Hd.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Ente.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bibanu Mixxl - 1000 De Regrete   Videoclip Oficial.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Catalin Man - Cedry2k - Berceni Progresu (Produs De Sez).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Arma Secreta.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii- Degeneratia Urmatoare.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Grasu Xxl - Fără Filtru (Feat. Paco 10 Grei, Maximilian & Mari) [Remix].mp3
+Aug 09 15:33 : update: updating Hip-Hop/Klandestin (Dollar Bill) Official Video.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Jon Baiat Bun - Mutre Vechi.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Nu Mi-e Frică.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Lino Golden - 'Shoturi'   Official Video.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Skrillex & Rick Ross - Purple Lamborghini [Official Video].mp3
+Aug 09 15:33 : update: updating Hip-Hop/Dragos Miron - Intre Bare [Videoclip Oficial].mp3
+Aug 09 15:33 : update: updating Hip-Hop/Deliric - Stiu Pe Cineva [Feat. Vlad Dobrescu].mp3
+Aug 09 15:33 : update: updating Hip-Hop/Paraziții - Valoarea Unei Vieti.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Statul E Tarfa Cu Care Esti Obligat Sa Te-nsori.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k - John Mcclane.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cia - Rutiere.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bug Mafia - Nimic Mai Presus (Prod Tata Vlad).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Spike - Mama, Mama.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Asa Cum Vreau.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cia - Alo Europa.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Carbon As Narcobranco - 4La Verde.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Doc - Sud.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cabron - Gust Amar (Official Track).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Eli Feat George Hora - Studenta (Audio).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Estradda - O Viata Ai.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Tot Noi (Feat Motzu).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Inutilitati.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k - Paznic Carpatic (Cu Dj Grigo).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii-probleme De Mandibula (Nr.81).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bitza Ombladon   Verdele Meu.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Nimeni Altu' - Vremuri Grele  Feat. Ombladon Şi Dj Faibo X.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii-orice Ar Fi (Nr.78).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Am Comis-o Din Nou (Nr.64).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Cronica Unei Senilitati Premature.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Sisu Tudor - Sisu Tudor - Partea Insorita A Strazii (Feat Super Ed).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Bibanu - Bibanu Mixxl  Camuflaj - Cu Ochelari De Soare  Videoclip Oficial.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Sa Nu Ma Iubesti.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Strange-ti Bucile.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo Feat Margineanu - O Zi Ca Oricare Alta.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cedry2k - Prizonier Ilegal.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - 5432.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Raperi` De Cacat ... Rastatzman.mp3
+Aug 09 15:33 : update: updating Hip-Hop/G-unit - Poppin' Them Thangs.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Mitza - Mersu' Pe Jos.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Parazitii - Emotii.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Aya Nakamura - Djadja.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon - Muie Garda.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Rick Ross - Born To Kill (Teaser).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Gani & Liry - Intrinsec (Feat. Cedry2k).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ctc - Scandaaal (Feat. Cedry2k).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Dragonu - Mai Mult Ca Sigur.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Contra Cronometru.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Major Lazer, J Balvin - Que Calor (Official Video) Ft. El Alfa.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Alan - Vorba Aia (Feat Ombladonfdd).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Spike - Ca Pe Vremuri.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Nimeni Altu' - Fii Ai Bravilor Soldaţi  Feat Dj Dox.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Ombladon Feat Bitza - Jumatatea Goala.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Og Ron C – Act A Fool.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Rick Ross - Hustlin' (Official Video).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Doc & Motzu - Baiatul Bun, Baiatul Rau (Feat. Ana Maria Alexie & Vlad Munteanu).mp3
+Aug 09 15:33 : update: updating Hip-Hop/B.u.g. Mafia - Hai Sa Fim High (Feat. Jasmine) (Prod. Tata Vlad).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Nimeni Altu' - Frunze Diferite Feat. Aforic , Sek93 Şi Dj Sonia (Versuri).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cheloo - Fara Pic De Regie.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Faust - La Buton Ft. Phunk B (Prod.  Manafique).mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cabron - Sufleteste.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Cally Roda X El Nino - Foc.mp3
+Aug 09 15:33 : update: updating Hip-Hop/Metro Boomin - Space Cadet Ft. Gunna.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Mix Nou Decembrie 2020 L Muzica Club De Petrecere L Party Mix L By Dj Drink - Mix Nou Decembrie 2020 L Muzica Club De Petrecere L Party Mix L By Dj Drink.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Dr. dre - The next episode (remix) ft. snoop dogg, nate dogg, eazy e, busta rhymes, 2pac, eminem.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Muzica Club Mix 2020 L Best Party Dance Music L Super Piese De Petrecere 2020 L Mixed By Dj Slp - Muzica Club Mix 2020 L Best Party Dance Music L Super Piese De Petrecere 2020 L Mixed By Dj Slp.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Muzica veche club mix 2020 l super party de petrecere 2020 by dj drink - Muzica veche club mix 2020 l super party de petrecere 2020 by dj drink.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Club arabesti-manele 2020 l music party arabesc-manele 2020 l mixed by dj slp & dj drink - Club Arabesti-Manele 2020 l Music Party Arabesc-Manele 2020 l Mixed By Dj Slp & Dj Drink.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Super club mix reggaeton - manele - folclor 2020 l best party dance l mixed by dj slp - Super Club Mix Reggaeton - Manele - Folclor 2020 l Best Party Dance l Mixed by Dj Slp.mp3
+Aug 09 15:33 : update: updating Colaje-Mix/Dr. dre - still d.r.e - Dr. dre - still d.r.e. (remix) ft. snoop dogg, 2pac, eminem, 50 cent, eazy e, method man, big l.mp3
+Aug 09 15:33 : update: added Colaje-Mix/Manele Club MIX Autumn L Muzica De Petrecere 2020 L Mixed By Dj Slp & Dj Drink - Manele Club MIX Autumn L Muzica De Petrecere 2020 L Mixed By Dj Slp & Dj Drink.mp3
+Aug 09 15:33 : update: added Colaje-Mix/Club Session Deep January 2023 L Romanian Party MIX L Vol 16 🎶❌▲.mp3
+Aug 09 15:33 : update: added Colaje-Mix/Club Session House April 2023 L Old Music L Romanian House Party MIX L Vol 5 🎶❌▲.mp3
+Aug 09 15:33 : update: added Colaje-Mix/Club Session Old Music January 2022 L Romanian House Party MIX L Vol 3 🎶❌▲.mp3
+Aug 09 15:33 : update: added Colaje-Mix/Club Session April 2023 l Romanian Party Mix l Vol 17 🎶❌▲.mp3
+Aug 09 15:37 : player: played "Y-music/B.U.G. Mafia - La Greu (Prod. Tata Vlad).mp3"
+Aug 09 15:38 : player: played "Y-music/Lil Wayne - A Milli.mp3"
+Aug 09 15:42 : player: played "Y-music/Lil Wayne - A Milli.mp3"
+Aug 09 15:45 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 15:46 : player: played "Y-music/Delia x Grasu XXL - Despablito (Official Video).mp3"
+Aug 09 15:49 : player: played "Y-music/Warren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video - rren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video.mp3"
+Aug 09 15:53 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 15:54 : player: played "Y-music/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3"
+Aug 09 15:56 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 15:56 : player: played "Y-music/Deliric - Pe Limba Lumii (prod. de Phane) (#Leapsa).mp3"
+Aug 09 16:00 : player: played "Y-music/Cassage-de-nuques-pt.-4.mp3"
+Aug 09 16:03 : player: played "Y-music/Spike - Tango.mp3"
+Aug 09 16:06 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:06 : player: played "Y-music/Funk Love.mp3"
+Aug 09 16:10 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:10 : player: played "Y-music/F.Charm - Pan La Fund (feat. Mike Diamondz).mp3"
+Aug 09 16:16 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:16 : player: played "Y-music/Ceilalti cu Brugner - Ce-a mai ramas din oameni.avi.mp3"
+Aug 09 16:20 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:20 : player: played "Y-music/Pump It Up _ Tik Tok 抖音 - Remix _ _ You Got To Sing Along _.mp3"
+Aug 09 16:23 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:23 : player: played "Y-music/اقوى ريمكس اجنبي في 2020 _ حماسي جدا - مطلوب اكثر شي _ Such a Whore.mp3"
+Aug 09 16:25 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:25 : player: played "Y-music/Parazitii - Ce n-avem acasa.mp3"
+Aug 09 16:28 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:28 : player: played "Y-music/INNA - Cola Song (feat. J Balvin) _ Official Music Video.mp3"
+Aug 09 16:33 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:33 : player: played "Y-music/Killa Fonic - Dvns.mp3"
+Aug 09 16:36 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:36 : player: played "Y-music/Jon Lajoie – Regular Everyday Normal MotherFucker )).mp3"
+Aug 09 16:40 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:40 : player: played "Y-music/G-Unit - Poppin' Them Thangs (Explicit Version).mp3"
+Aug 09 16:44 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:44 : player: played "Y-music/Shaggy - Angel ft. Rayvon (Official Music Video).mp3"
+Aug 09 16:48 : player: played "Y-music/Baboi - Doamna Mea.mp3"
+Aug 09 16:52 : player: played "Y-music/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3"
+Aug 09 16:56 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:56 : player: played "Y-music/LMFAO - Sexy and I Know It (Official Video).mp3"
+Aug 09 16:58 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 16:59 : player: played "Y-music/Ride Or Die.mp3"
+Aug 09 17:02 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 17:02 : player: played "Y-music/Parazitii❌La Familia❌The Game❌Biggie - Let's Play A Game _ Deejay Killer Remix.mp3"
+Aug 09 17:06 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 17:06 : player: played "Y-music/Dr. Dre - Bang Bang (feat. Knoc-turn'al & Hittman).mp3"
+Aug 09 17:11 : player: played "Y-music/Vladone x Papa Urban ft. Pietonu', Lecsick - Asta Inseamna Sa NU Fi(i) Mafiot _ VIDEO.mp3"
+Aug 09 17:15 : player: played "Y-music/Vlad Dobrescu - Trei Cadavre.mp3"
+Aug 09 17:17 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 17:17 : player: played "Y-music/Fresh.mp3"
+Aug 09 17:22 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 17:22 : player: played "Y-music/Corina feat. Dorian Popa - Nimeni altcineva (Official Music Video).mp3"
+Aug 09 17:25 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 17:25 : player: played "Y-music/John Cena & Tha Trademarc - WWE The Time Is Now (John Cena).mp3"
+Aug 09 17:28 : player: played "Y-music/Real Sobrino - Plata O Plomo.mp3"
+Aug 09 17:54 : player: played "Colaje-Mix/Club Session April 2023 l Romanian Party Mix l Vol 17 🎶❌▲.mp3"
+Aug 09 17:59 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 09 17:59 : player: played "Colaje-Mix/Club Session April 2023 l Romanian Party Mix l Vol 17 🎶❌▲.mp3"
+Aug 10 13:01 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:01 : player: played "Colaje-Mix/Club Session Deep January 2023 L Romanian Party MIX L Vol 16 🎶❌▲.mp3"
+Aug 10 13:13 : player: played "Colaje-Mix/Muzica Club Mix 2020 L Best Party Dance Music L Super Piese De Petrecere 2020 L Mixed By Dj Slp - Muzica Club Mix 2020 L Best Party Dance Music L Super Piese De Petrecere 2020 L Mixed By Dj Slp.mp3"
+Aug 10 13:17 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:17 : player: played "Y-music/Cheloo - Toate Nevestele [ Hidden Track ].mp3"
+Aug 10 13:21 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:21 : player: played "Y-music/Beware_ - Rap Freestyle Type Beat _ Hard Underground Boom Bap Type Beat _ Anabolic Beatz.mp3"
+Aug 10 13:24 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:24 : player: played "Y-music/Deliric - Linii De Tramvai (feat. DOC) (Videoclip).mp3"
+Aug 10 13:26 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:27 : player: played "Y-music/Jos cenzura! (Radio Edit).mp3"
+Aug 10 13:30 : player: played "Y-music/LMFAO - Sexy and I Know It (Official Video).mp3"
+Aug 10 13:34 : player: played "Y-music/Deliric - SEfu.mp3"
+Aug 10 13:37 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:37 : player: played "Y-music/Spike - Iti pare rau (feat Dan Spataru).mp3"
+Aug 10 13:40 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:40 : player: played "Y-music/Yo Soy Pablo Emilio Escobar Gaviria [tiktok] canción completa.mp3"
+Aug 10 13:43 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:43 : player: played "Y-music/Lorna - Papi Chulo... Te Traigo El Mmmm (Official Video).mp3"
+Aug 10 13:46 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:46 : player: played "Y-music/Cedry2k - Una Din Doua (feat. Jianu & F.Charm).mp3"
+Aug 10 13:48 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:48 : player: played "Y-music/Doc - Vecinii Mei.mp3"
+Aug 10 13:52 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 13:52 : player: played "Y-music/Decât Să Minți.mp3"
+Aug 10 17:50 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 17:50 : player: played "Y-music/Deliric - Negru (feat. Silent Strike).mp3"
+Aug 10 18:50 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 18:50 : player: played "Y-music/Alfons - Ganjaman.mp3"
+Aug 10 18:53 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 18:53 : player: played "Y-music/Cardi B - WAP (feat. Megan Thee Stallion).mp3"
+Aug 10 18:56 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 18:56 : player: played "Y-music/Dr. Dre - Still D.R.E. ft. Snoop Dogg (SkennyBeatz Remix).mp3"
+Aug 10 19:00 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:00 : player: played "Y-music/Purple Lamborghini - Skrillex & Rick Ross - Purple Lamborghini.mp3"
+Aug 10 19:03 : player: played "Y-music/Corina & Tony Cottura - Quieres Una Aventura.mp3"
+Aug 10 19:11 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:11 : player: played "Y-music/Cheloo - Toate Nevestele [ Hidden Track ].mp3"
+Aug 10 19:14 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:14 : player: played "Y-music/Lorna - Papi Chulo... Te Traigo El Mmmm (Official Video).mp3"
+Aug 10 19:17 : player: played "Y-music/Jianu feat. Mihai Margineanu - Luxandra _ Audio.mp3"
+Aug 10 19:21 : player: played "Y-music/Lil Wayne - A Milli.mp3"
+Aug 10 19:23 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:24 : player: played "Y-music/Cheloo - Sindromul Tourette (feat. Guess Who).mp3"
+Aug 10 19:27 : player: played "Y-music/ALL STAR - Lasa sa curga,sticla sa planga   Deejay Killer Remix.mp3"
+Aug 10 19:30 : player: played "Y-music/Parazitii-Te sparg la buci (nr.82).mp3"
+Aug 10 19:34 : player: played "Y-music/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3"
+Aug 10 19:37 : player: played "Y-music/DELIRIC - TANC _ HOME DELIVERY - 2.mp3"
+Aug 10 19:44 : player: played "Y-music/Vlad Dobrescu - Globul De Cristal.mp3"
+Aug 10 19:47 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:47 : player: played "Y-music/Bhayanak Atma feat. Gagan Mudgal.mp3"
+Aug 10 19:50 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:50 : player: played "Y-music/Irina Rimes x Cris Cab - Your Love _ Official Video.mp3"
+Aug 10 19:54 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 19:54 : player: played "Y-music/Chris Brown - Look at Me Now (Official Video) ft. Lil Wayne, Busta Rhymes.mp3"
+Aug 10 19:57 : player: played "Y-music/Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3"
+Aug 10 20:24 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 20:25 : player: played "Y-music/Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3"
+Aug 10 20:27 : player: played "Y-music/FUNK RKTERO - (Brasilero) ✘ Liam DJ ✘ Deejay Maquina Video Remix ✘.mp3"
+Aug 10 20:32 : player: played "Y-music/Vlad Dobrescu - Globul De Cristal.mp3"
+Aug 10 20:36 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 20:36 : player: played "Y-music/Piesa mea preferata.mp3"
+Aug 10 20:38 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 20:39 : player: played "Y-music/Cheloo - Toate Nevestele [ Hidden Track ].mp3"
+Aug 10 20:41 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 20:41 : player: played "Y-music/Vecinii Mei.mp3"
+Aug 10 20:44 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 20:44 : player: played "Y-music/Tomi Dj - Twerk Brasilero 2.mp3"
+Aug 10 22:45 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 22:45 : player: played "Y-music/Eve_Gwen Stefani - Let Me Blow Ya Mind.mp3"
+Aug 10 22:49 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 22:49 : player: played "Y-music/Paraziții - Violent.mp3"
+Aug 10 22:53 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 22:53 : player: played "Y-music/Warren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video - rren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video.mp3"
+Aug 10 22:56 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 22:56 : player: played "Y-music/Jamie Berry - Who's That.mp3"
+Aug 10 22:59 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 22:59 : player: played "Y-music/Silent Child - Fuck You.mp3"
+Aug 10 23:03 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 23:03 : player: played "Y-music/Parazitii Guess Who Adrian Despot - O stare de spirit cu flori ilegale   Deejay Killer Remix.mp3"
+Aug 10 23:05 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 23:05 : player: played "Y-music/Dabro Remix - Улетай на крыльях ветра.mp3"
+Aug 10 23:09 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 23:09 : player: played "Y-music/Corina feat. Dorian Popa - Nimeni altcineva (Official Music Video).mp3"
+Aug 10 23:12 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 10 23:12 : player: played "Y-music/ALL STAR - Lasa sa curga,sticla sa planga   Deejay Killer Remix.mp3"
+Aug 10 23:16 : player: played "Y-music/Baboi - Doamna Mea.mp3"
+Aug 10 23:19 : player: played "Y-music/Parazitii-Te sparg la buci (nr.82).mp3"
+Aug 11 11:03 : player: played "Y-music/Deliric - Sange de porc _feat. Nwanda, Aforic, DOC.mp3"
+Aug 11 11:07 : player: played "Y-music/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3"
+Aug 11 11:13 : player: played "Y-music/Drumatic - You And Me.mp3"
+Aug 11 11:16 : player: played "Y-music/Vlad Dobrescu - Trei Cadavre.mp3"
+Aug 11 11:19 : player: played "Y-music/Deliric - SEfu.mp3"
+Aug 11 11:23 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:23 : player: played "Y-music/DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video).mp3"
+Aug 11 11:27 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:27 : player: played "Y-music/F.Charm - Pan La Fund (feat. Mike Diamondz).mp3"
+Aug 11 11:30 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:31 : player: played "Y-music/Jack Harlow - WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) _Official Visualizer_.mp3"
+Aug 11 11:33 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:33 : player: played "Y-music/Ombladon - Nu mi-e frică.mp3"
+Aug 11 11:36 : player: played "Y-music/TJR & VINAI & TURBOTRONIC - WE WANNA PARTY (PARTY ROCKZZ MASHUP).mp3"
+Aug 11 11:43 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:43 : player: played "Y-music/Cabron & Don Baxter - Femei _Official track HQ.mp3"
+Aug 11 11:46 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:46 : player: played "Y-music/F.Charm - Egalitate feat. Nea Fane (Videoclip Oficial).mp3"
+Aug 11 11:50 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:50 : player: played "Y-music/The Prince Karma - Later Bitches (Official Lyrics Video).mp3"
+Aug 11 11:53 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:53 : player: played "Y-music/Deliric - Negru (feat. Silent Strike).mp3"
+Aug 11 11:56 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 11:56 : player: played "Y-music/Cedry2K - Derobotizare.mp3"
+Aug 11 12:00 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:00 : player: played "Y-music/Speak feat. Brighi & Cabron - Prada de razboi (Lyric Video).mp3"
+Aug 11 12:02 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:03 : player: played "Y-music/Tujamo & Plastik Funk ft. Sneakbo - Dr. Who! (Official Video) HD.mp3"
+Aug 11 12:06 : player: played "Y-music/Paraziții - Hash Thug Rezist.mp3"
+Aug 11 12:11 : player: played "Y-music/Eminem - Without Me (Official Music Video).mp3"
+Aug 11 12:14 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:14 : player: played "Y-music/Parazitii - Din coltul Blocului.mp3"
+Aug 11 12:15 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:16 : player: played "Y-music/SAINt JHN - ROSES & TUJAMO & PLASTIK FUNK - WHO.mp3"
+Aug 11 12:18 : player: played "Y-music/Sub Sonik - Go FCk Yourself (Digital Punk Remix).mp3"
+Aug 11 12:20 : player: played "Y-music/Emy Alupei, Theo Rose & What's Up - Scandal.mp3"
+Aug 11 12:25 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:25 : player: played "Y-music/Arsonists - Pyromaniax.mp3"
+Aug 11 12:28 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:28 : player: played "Y-music/INNA - Cola Song (feat. J Balvin) _ Official Music Video.mp3"
+Aug 11 12:31 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:31 : player: played "Y-music/Cardi B - WAP (feat. Megan Thee Stallion).mp3"
+Aug 11 12:34 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:34 : player: played "Y-music/Gojira & Planet H feat ALAN & KEPA - Beau Beau.mp3"
+Aug 11 12:36 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:36 : player: played "Y-music/TA PA PERREAR  Locura Mix Alan Gomez  Deejay Maquina Oficial Video Remix .mp3"
+Aug 11 12:39 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:39 : player: played "Y-music/Dillon Francis & DJ Snake - Get Low (feat. Rae Sremmurd).mp3"
+Aug 11 12:42 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:43 : player: played "Y-music/Grasu XXL  2Pac - Puterea   Deejay Killer Remix.mp3"
+Aug 11 12:45 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:45 : player: played "Y-music/Doc - Vecinii Mei.mp3"
+Aug 11 12:48 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:48 : player: played "Y-music/اقوى ريمكس اجنبي في 2020 _ حماسي جدا - مطلوب اكثر شي _ Such a Whore.mp3"
+Aug 11 12:52 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:52 : player: played "Y-music/Mory Kanté & Loverush UK! - Yeke Yeke 2010.mp3"
+Aug 11 12:54 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:54 : player: played "Y-music/DELIRIC - ASPIRINA _ HOME DELIVERY #1.mp3"
+Aug 11 12:58 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 12:58 : player: played "Y-music/Dr. Dre - Bang Bang (feat. Knoc-turn'al & Hittman).mp3"
+Aug 11 13:01 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:01 : player: played "Y-music/Funk Love.mp3"
+Aug 11 13:05 : player: played "Y-music/Sisu Puya - Adevarul Gol Golut   Deejay Killer Remix.mp3"
+Aug 11 13:08 : player: played "Y-music/Aya Nakamura - Djadja.mp3"
+Aug 11 13:11 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:11 : player: played "Y-music/R. Kelly - Thoia Thoing.mp3"
+Aug 11 13:13 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:14 : player: played "Y-music/Cheloo - Definitia 24378.mp3"
+Aug 11 13:16 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:17 : player: played "Y-music/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3"
+Aug 11 13:22 : player: played "Y-music/Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown.mp3"
+Aug 11 13:28 : player: played "Y-music/Mike WiLL Made-It - 23 ft. Miley Cyrus, Wiz Khalifa, Juicy J (Official Music Video).mp3"
+Aug 11 13:34 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:34 : player: played "Y-music/Fk Music - Gta San Andreas.mp3"
+Aug 11 13:41 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:41 : player: played "Y-music/Axel Thesleff - Bad Karma (Official Music Video).mp3"
+Aug 11 13:44 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:44 : player: played "Y-music/Alfons - Ganjaman.mp3"
+Aug 11 13:47 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:47 : player: played "Y-music/Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO].mp3"
+Aug 11 13:50 : player: played "Y-music/OBOY - Cabeza (Clip officiel).mp3"
+Aug 11 13:54 : player: played "Y-music/Eminem - Must Be The Ganja.mp3"
+Aug 11 13:56 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 13:56 : player: played "Y-music/DELIRIC - TANC _ HOME DELIVERY - 2.mp3"
+Aug 11 14:00 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 14:00 : player: played "Y-music/Regina Balului.mp3"
+Aug 11 14:03 : player: played "Y-music/Delia x Grasu XXL - Despablito (Official Video).mp3"
+Aug 11 17:51 : player: played "Y-music/Spike   Realitate (Videoclip Oficial).mp3"
+Aug 11 17:54 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 17:54 : player: played "Y-music/Lil Nas X - Old Town Road.mp3"
+Aug 11 17:55 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 17:55 : player: played "Y-music/Ricky Desktop - The Banjo Beat, Pt. 1.mp3"
+Aug 11 17:59 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 17:59 : player: played "Y-music/Deliric - Din 94 _feat. Mike Diamondz.mp3"
+Aug 11 18:01 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:01 : player: played "Y-music/Ultradiox - Walked In.mp3"
+Aug 11 18:02 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:02 : player: played "Y-music/Tyga- Nigo in Beverly Hills- Well Done Fever.mp3"
+Aug 11 18:05 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:05 : player: played "Y-music/Marea Vaccinare - Pamflet (Cipuri si 5G).mp3"
+Aug 11 18:08 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:08 : player: played "Y-music/Cătălina Solomac  - Dă mai tare muzica.mp3"
+Aug 11 18:13 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:13 : player: played "Y-music/Lil Wayne, Wiz Khalifa & Imagine Dragons - Sucker for Pain.mp3"
+Aug 11 18:18 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:18 : player: played "Y-music/2Pac, Dr. Dre & Roger Troutman - California Love.mp3"
+Aug 11 18:20 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:20 : player: played "Y-music/Paraschiva.mp3"
+Aug 11 18:24 : cross_fade: audio_buffer_size too small for computed MixRamp overlap
+Aug 11 18:24 : player: played "Y-music/Adio, da' ma intorc.mp3"
+Aug 11 18:32 : player: played "Y-music/DOC - Praf.mp3"
+Aug 11 18:40 : player: played "Y-music/DOC - Praf.mp3"
+Aug 11 19:14 : player: played "Y-music/DOC - Praf.mp3"

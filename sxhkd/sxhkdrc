@@ -78,7 +78,7 @@ ctrl + alt + r
 
 # st-256color
 ctrl + alt + s 
-     st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
+     st -t "Simple Terminal" -f "Hack:style=Regular:size=12"
 #      st -t "Simple Terminal"
       
 #Urxvt

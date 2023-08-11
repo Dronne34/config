@@ -1,9 +1,9 @@
-sw_volume: 68
+sw_volume: 80
 audio_device_state:1:Pulse
 audio_device_state:1:Visualizer
 state: pause
-current: 137
-time: 90.456000
+current: 120
+time: 55.728000
 random: 1
 repeat: 1
 single: 0
@@ -14,257 +14,226 @@ mixrampdelay: 35.000000
 playlist_begin
 0:Y-music/Adio, da' ma intorc.mp3
 1:Y-music/Becky G, Natti Natasha - Sin Pijama (Official Video).mp3
-2:Y-music/Beware - Rap Freestyle Type Beat _ Hard Underground Boom Bap Type Beat _ Anabolic Beatz.mp3
+2:Y-music/Beware_ - Rap Freestyle Type Beat _ Hard Underground Boom Bap Type Beat _ Anabolic Beatz.mp3
 3:Y-music/Bhayanak Atma feat. Gagan Mudgal.mp3
-4:Y-music/Cătălina Solomac  - Dă mai tare muzica.mp3
-5:Y-music/Cedry2k - Actiune de Noapte.mp3
-6:Y-music/Cedry2K - Derobotizare.mp3
-7:Y-music/Cedry2k - Fapte (videoclip oficial).mp3
-8:Y-music/Cedry2k - Mai mult decât magic (cu Deliric si Connect-R).mp3
-9:Y-music/Cedry2k ‑ Partea întunecată a lumii  (cu Pietonu).mp3
-10:Y-music/Cheloo & Lazar – Opus 1 (Killing The Classics) - Videoclip Oficial.mp3
-11:Y-music/Cheloo Grasu XXLZhao-Bi tch Please   Deejay Killer Remix.mp3
-12:Y-music/Cheloo❌Delia❌Grasu XXL-Apel La Despablito _ Deejay Killer Remix.mp3
-13:Y-music/Decât Să Minți.mp3
-14:Y-music/DELIRIC - ASAP (feat. VLAD FLUERARU).mp3
-15:Y-music/Deliric - Cu de toate feat. _Motzu, DOC, Maximilian, Junky.mp3
-16:Y-music/Deliric - Din 94 _feat. Mike Diamondz.mp3
-17:Y-music/Deliric - Fraiere _feat. High Jet.mp3
-18:Y-music/Deliric - In legea mea _feat. Grigo.mp3
-19:Y-music/Deliric - Negru (feat. Silent Strike).mp3
-20:Y-music/Deliric - Pe Limba Lumii (prod. de Phane) (#Leapsa).mp3
-21:Y-music/Deliric - Sange de porc _feat. Nwanda, Aforic, DOC.mp3
-22:Y-music/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3
-23:Y-music/DELIRIC - TANC _ HOME DELIVERY - 2.mp3
-24:Y-music/Deliric - Te stiu de-o viata _feat. FreakaDaDisk_.mp3
-25:Y-music/Deliric - Varfu' Omu (prod. Silent Strike).mp3
-26:Y-music/Deliric x Silent Strike - Independent (Video).mp3
-27:Y-music/DOC - STAI CĂ-ȚI ZIC EU (feat. VLAD DOBRESCU & DELIRIC).mp3
-28:Y-music/F.Charm - Egalitate feat. Nea Fane (Videoclip Oficial).mp3
-29:Y-music/F.Charm - Lăcomia (Videoclip Oficial).mp3
-30:Y-music/F.Charm - Nimic nu-i întâmplător (Videoclip Oficial).mp3
-31:Y-music/Freestyle Rap Beat (Hard Boom Bap Type Beat Hip Hop -Notion-).mp3
-32:Y-music/Guess Who - Unu Altu (videoclip).mp3
-33:Y-music/INNA - Bop Bop.mp3
-34:Y-music/Katy Perry - Dark Horse (Official) ft. Juicy J.mp3
-35:Y-music/Mandi ft. Fabio, Mikel & Ilir Tironsi - Nishtulla City (Official Video).mp3
-36:Y-music/Mitza feat. DOC - Bag.mp3
-37:Y-music/Mr. Criminal & 2Pac - Side 2 Side (D-Ace Remix).mp3
-38:Y-music/NANE - MI-E DOR (video_ mixtape _DE-ALE MELE__ 2008).mp3
-39:Y-music/Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown.mp3
-40:Y-music/Nimeni Altu' - Nopţi prea lungi.mp3
-41:Y-music/Ovidiu Lupu ✘ N.O.H.A  - TU CAFE  (Original Mix).mp3
-42:Y-music/Parazitii - Categoria Grea feat Aliosha (nr.71).mp3
-43:Y-music/Parazitii-Te sparg la buci (nr.82).mp3
-44:Y-music/Parazitii❌La Familia❌The Game❌Biggie - Let's Play A Game _ Deejay Killer Remix.mp3
-45:Y-music/Piesa mea preferata.mp3
-46:Y-music/Puri-x-Jhorrmountain-x-Adje-Co-o-Bass-Boosted-ytmp3.com.mp3
-47:Y-music/Regina Balului.mp3
-48:Y-music/Ride Or Die.mp3
-49:Y-music/Speak feat. Brighi & Cabron - Prada de razboi (Lyric Video).mp3
-50:Y-music/Spike   Realitate (Videoclip Oficial).mp3
-51:Y-music/Spike - Iti pare rau (feat Dan Spataru).mp3
-52:Y-music/Vecinii Mei.mp3
-53:Y-music/Vladone x Papa Urban ft. Pietonu', Lecsick - Asta Inseamna Sa NU Fi(i) Mafiot _ VIDEO.mp3
-54:Y-music/FUNK RKTERO - (Brasilero) ✘ Liam DJ ✘ Deejay Maquina Video Remix ✘.mp3
-55:Y-music/TA PA PERREAR  Locura Mix Alan Gomez  Deejay Maquina Oficial Video Remix .mp3
-56:Y-music/Funk Love.mp3
-57:Y-music/Dr. Dre - Bang Bang (feat. Knoc-turn'al & Hittman).mp3
-58:Y-music/Dr. Dre - Still D.R.E. (feat. Snoop Dogg).mp3
-59:Y-music/Dr. Dre feat. Snoop Dogg - Still D.R.E. (Dj Dark & Mentol Remix).mp3
-60:Y-music/Cardi B, Bad Bunny & J Balvin - I Like It.mp3
-61:Y-music/Jennifer Lopez & Styles P & Jadakiss   Jenny From The Block.mp3
-62:Y-music/Cassage-de-nuques-pt.-4.mp3
-63:Y-music/Redman - Slap Da Shit Outcha _Official Music Video.mp3
-64:Y-music/Lil Nas X - Old Town Road.mp3
-65:Y-music/Ganjaman - Alfons - Ganjaman.mp3
-66:Y-music/2Pac, Dr. Dre & Roger Troutman - California Love.mp3
-67:Y-music/A$AP Ferg - New Level (feat. Future).mp3
-68:Y-music/Cheloo - Apel la sinceritate (Videoclip Oficial).mp3
-69:Y-music/Paraziții - Hash Thug Rezist.mp3
-70:Y-music/Ashanti - Happy ft. Ja Rule (Official Music Video).mp3
-71:Y-music/Travis Scott - SICKO MODE ft. Drake (Official Video).mp3
-72:Y-music/Axel Thesleff - Bad Karma (Official Music Video).mp3
-73:Y-music/G-Unit - Poppin' Them Thangs (Explicit Version).mp3
-74:Y-music/Imagine Dragons - Believer.mp3
-75:Y-music/Shaggy - Angel ft. Rayvon (Official Music Video).mp3
-76:Y-music/Boier Bibescu  Cabron Rashid - Boier Bibescu  Cabron Rashid Medellin.mp3
-77:Y-music/Mohamed Ramadan - BUM BUM.mp3
-78:Y-music/Enur - Calabria 2008 (feat. MIMS & Natasja).mp3
-79:Y-music/DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video).mp3
-80:Y-music/Parazitii - Ce n-avem acasa.mp3
-81:Y-music/Maître Gims - Laissez-moi tranquille.mp3
-82:Y-music/Cheloo - Paranoia E Mare.mp3
-83:Y-music/INNA - Cola Song (feat. J Balvin) _ Official Music Video.mp3
-84:Y-music/Paraziții - Violent.mp3
-85:Y-music/Parazitii & Spike - Rau sau bun (Instrumental).mp3
-86:Y-music/Parazitii feat  Spike - Rau sau bun (nr.40).mp3
-87:Y-music/Corina & Tony Cottura - Quieres Una Aventura.mp3
-88:Y-music/CULO - Ghetto Kids ft RD Maravilla _ Choreography by YUR AULAR.mp3
-89:Y-music/Ghetto Kids, RD Maravilla - CULO.mp3
-90:Y-music/DALE AGACHADITA (Como en las Clases de Twerk) _ DJ Bryanflow (Remix) TIK TOK.mp3
-91:Y-music/Fly Project - Mandala.mp3
-92:Y-music/Deliric - SEfu.mp3
-93:Y-music/Delia x Grasu XXL - Despablito (Official Video).mp3
-94:Y-music/Baboi - Doamna Mea.mp3
-95:Y-music/Tujamo & Plastik Funk - Dr. Who! (UK Radio Edit) [feat. Sneakbo].mp3
-96:Y-music/B.U.G. Mafia - Cartieru' Pantelimon (feat. Nico) (Prod. Tata Vlad).mp3
-97:Y-music/Killa Fonic - Dvns.mp3
-98:Y-music/El Desorden - Ozuna Ft. Plan B (video).mp3
-99:Y-music/Ozuna x Daddy Yankee x Plan B - El Desorden _Lyric Video_.mp3
-100:Y-music/The Black Eyed Peas - Where Is The Love_ (Official Music Video).mp3
-101:Y-music/Chris Brown - Look at Me Now (Official Video) ft. Lil Wayne, Busta Rhymes.mp3
-102:Y-music/Fresh.mp3
-103:Y-music/Cabron & Don Baxter - Femei _Official track HQ.mp3
-104:Y-music/Silent Child - Fuck You.mp3
-105:Y-music/Alfons - Ganjaman.mp3
-106:Y-music/50 Cent - In da Club.mp3
-107:Y-music/Ginuwine - Pony.mp3
-108:Y-music/Sub Sonik - Go FCk Yourself (Digital Punk Remix).mp3
-109:Y-music/Angelo Ferreri & Hatiras - In the House.mp3
-110:Y-music/Pacha Man - Gurile rele (Prod by Lion Riddims).mp3
-111:Y-music/Ceilalti - Orasul Suceava II ft ArTiStul si Kontra.mp3
-112:Y-music/Cedry2k - Sacrificii.mp3
-113:Y-music/DELIRIC - ASPIRINA _ HOME DELIVERY #1.mp3
-114:Y-music/Deliric - Sah mat [feat. DOC, Vlad Dobrescu].mp3
-115:Y-music/Faust x Nechifor - Fără panică (feat. Vlad Dobrescu).mp3
-116:Y-music/PITBULL - I know you want me (calle ocho) _Official video HD.mp3
-117:Y-music/Parazitii - Degeneratia urmatoare - Remix.mp3
-118:Y-music/Parazitii - Degeneratia urmatoare.mp3
-119:Y-music/Vlad Dobrescu - Globul De Cristal.mp3
-120:Y-music/Vlad Dobrescu - Trei Cadavre.mp3
-121:Y-music/Cardi B, Bad Bunny & J Balvin - I Like It _Official Music Video_.mp3
-122:Y-music/Jennifer Lopez  ft. Ja Rule - I'm Real (Remix) _Official Video_.mp3
-123:Y-music/Angelo Ferreri - When I See You.mp3
-124:Y-music/Jos cenzura! (Radio Edit).mp3
-125:Y-music/Kalinka (AdryxG Bounce Remix).mp3
-126:Y-music/Kanye West - Mercy (Explicit) ft. Big Sean, Pusha T, 2 Chainz.mp3
-127:Y-music/Gangsta - Kehlani - Gangsta.mp3
-128:Y-music/Parov Stelar - Libella Swing (Extended).mp3
-129:Y-music/Otis McDonald NotForNothing.mp3
-130:Y-music/Arsonists - Pyromaniax.mp3
-131:Y-music/K CAMP - Lottery (Renegade).mp3
-132:Y-music/Shaggy - Hey Sexy Lady ft. Brian & Tony Gold (Official Music Video).mp3
-133:Y-music/Doc - Vecinii Mei.mp3
-134:Y-music/MC Hammer - U Can't Touch This (HQ).mp3
-135:Y-music/KILLA FONIC - Miami Bici (OST).mp3
-136:Y-music/Bad Bunny - Yo Perreo Sola (1).mp3
-137:Y-music/Bad Bunny - Yo Perreo Sola.mp3
-138:Y-music/Dillon Francis & DJ Snake - Get Low (feat. Rae Sremmurd).mp3
-139:Y-music/ALL STAR - Lasa sa curga,sticla sa planga   Deejay Killer Remix.mp3
-140:Y-music/Deliric - Bine Crescuta _feat. Flou Rege, Vlad Dobrescu_.mp3
-141:Y-music/Deliric - Linii De Tramvai (feat. DOC) (Videoclip).mp3
-142:Y-music/Deliric - Mahmur.mp3
-143:Y-music/DOC - Praf.mp3
-144:Y-music/Dr Dre Parazitii Grasu Xxl - Romanian Still   Deejay Killer Remix.mp3
-145:Y-music/Grasu XXL  2Pac - Puterea   Deejay Killer Remix.mp3
-146:Y-music/NANE - B.M.V.  (video oficial).mp3
-147:Y-music/Parazitii Alan & Kepa Dr Dre Snoop Dogg - Mi se rupe   Deejay Killer Remix.mp3
-148:Y-music/Parazitii Guess Who Adrian Despot - O stare de spirit cu flori ilegale   Deejay Killer Remix.mp3
-149:Y-music/Sapte x Azteca - BOB (Official Video).mp3
-150:Y-music/Sisu Puya - Adevarul Gol Golut   Deejay Killer Remix.mp3
-151:Y-music/Vlad Dobrescu - Insomnii (feat. Deliric) _VIDEO_.mp3
-152:Y-music/Aya Nakamura - Djadja.mp3
-153:Y-music/Grasu XXL - Evident.mp3
-154:Y-music/De Jezzz - OBOY - Cabeza.mp3
-155:Y-music/Ultradiox - Walked In.mp3
-156:Y-music/Ja Rule - I'm Real (feat. Jennifer Lopez).mp3
-157:Y-music/F.Charm - Pan La Fund (feat. Mike Diamondz).mp3
-158:Y-music/Ombladon - Panarame (feat. Bitza).mp3
-159:Y-music/Lorna - Papi Chulo... Te Traigo El Mmmm (Official Video).mp3
-160:Y-music/Perreito Remix - Mariah ft Jon Z, Wisin & Don Chezina.mp3
-161:Y-music/Real Sobrino - Plata O Plomo.mp3
-162:Y-music/Rick Ross-Hustlin.mp3
-163:Y-music/Endor - Pump It Up.mp3
-164:Y-music/Spike - Tango.mp3
-165:Y-music/Eminem - Must Be The Ganja.mp3
-166:Y-music/Andreea D - Rompedon.mp3
-167:Y-music/Emy Alupei, Theo Rose & What's Up - Scandal.mp3
-168:Y-music/Cedry2k - Una Din Doua (feat. Jianu & F.Charm).mp3
-169:Y-music/Eve_Gwen Stefani - Let Me Blow Ya Mind.mp3
-170:Y-music/Bitza - Bagaboanta.mp3
-171:Y-music/JoeVille - Sexy.mp3
-172:Y-music/Bro Safari - Scumbag [FREE DL].mp3
-173:Y-music/Paraschiva.mp3
-174:Y-music/Cheloo - Daca eram....mp3
-175:Y-music/Cheloo - Definitia 24378.mp3
-176:Y-music/Cheloo - Sindromul Tourette (feat. Guess Who).mp3
-177:Y-music/DripReport - Skechers (Official Music Video) Prod. OUHBOY.mp3
-178:Y-music/LMFAO - Sexy and I Know It (Official Video).mp3
-179:Y-music/Purple Lamborghini - Skrillex & Rick Ross - Purple Lamborghini.mp3
-180:Y-music/Parazitii - Goana dupa iluzii.mp3
-181:Y-music/Jon Lajoie – Regular Everyday Normal MotherFucker )).mp3
-182:Y-music/Ombladon - Nu mi-e frică.mp3
-183:Y-music/Dr. Dre - Still D.R.E. (Remix) ft. Snoop Dogg, 2Pac, Eminem, 50 Cent, Eazy E, Method Man, BIG L.mp3
-184:Y-music/Kehlani - Gangsta.mp3
-185:Y-music/Lil Wayne, Wiz Khalifa & Imagine Dragons - Sucker for Pain.mp3
-186:Y-music/twenty one pilots - Heathens.mp3
-187:Y-music/Jack Harlow - WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) _Official Visualizer_.mp3
-188:Y-music/Lil Wayne - A Milli.mp3
-189:Y-music/BLACKPINK - How You Like That.mp3
-190:Y-music/Ricky Desktop - The Banjo Beat, Pt. 1.mp3
-191:Y-music/R. Kelly - Thoia Thoing.mp3
-192:Y-music/Nicki Minaj - Anaconda.mp3
-193:Y-music/Jennifer Lopez - Jenny from the Block.mp3
-194:Y-music/Jamie Berry - Who's That.mp3
-195:Y-music/Robert Cristian & Dayana - The Sweetest Ass in the World.mp3
-196:Y-music/Yo Soy Pablo Emilio Escobar Gaviria [tiktok] canción completa.mp3
-197:Y-music/Boier Bibescu  Stres  Jianu  El Nino - Toata Harta  _ Videoclip Oficial.mp3
-198:Y-music/Jay-Z & Kanye West - Niggas in Paris - Watch the Throne.mp3
-199:Y-music/Tomi Dj - Twerk Brasilero 2.mp3
-200:Y-music/TWERK BRASILERO - ( REMIX 2018 ✘ TOMI DJ ).mp3
-201:Y-music/Tyga- Nigo in Beverly Hills- Well Done Fever.mp3
-202:Y-music/B.U.G. Mafia - Dupa Blocuri (Prod. Tata Vlad) (Videoclip).mp3
-203:Y-music/Cardi B - WAP (feat. Megan Thee Stallion).mp3
-204:Y-music/M.O.P. - Cold As Ice (Official Music Video).mp3
-205:Y-music/All The Way Up - Fat Joe, Remy Ma ft. French Montana (izo Lyrics).mp3
-206:Y-music/Azeri Bass - Avara Avara (2018-2020).mp3
-207:Y-music/B.U.G. Mafia - 5000 De Zile (Prod. Tata Vlad).mp3
-208:Y-music/B.U.G. Mafia - La Greu (Prod. Tata Vlad).mp3
-209:Y-music/Busta Rhymes - Touch It (Deep Remix) _ AMG Showtime _ TikTok.mp3
-210:Y-music/Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO].mp3
-211:Y-music/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3
-212:Y-music/Ceilalti cu Brugner - Ce-a mai ramas din oameni.avi.mp3
-213:Y-music/Christu - Neah feat  Doc, Cedry2k, J Yolo ( TV Version ).mp3
-214:Y-music/Connect-R  BRUJA - Cantareti de Karaoke  Official Video.mp3
-215:Y-music/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3
-216:Y-music/Dopebwoy - Cartier ft. Chivv & 3robi.mp3
-217:Y-music/Dr. Dre - Still D.R.E. ft. Snoop Dogg (Bruno Be & Lazy Bear Remix) (Bass Boosted).mp3
-218:Y-music/Dr. Dre - Still D.R.E. ft. Snoop Dogg (SkennyBeatz Remix).mp3
-219:Y-music/Dr. Dre - The Next Episode (Remix) ft. Snoop Dogg, Nate Dogg, Eazy E, Busta Rhymes, 2Pac, Eminem.mp3
-220:Y-music/Eminem - Without Me (Official Music Video).mp3
-221:Y-music/Eve - Let Me Blow Your Mind (Biggie Mashup).mp3
-222:Y-music/Eve ft. Gwen Stefani - Let Me Blow Ya Mind (Official Video).mp3
-223:Y-music/Gojira & Planet H feat ALAN & KEPA - Beau Beau.mp3
-224:Y-music/Hippie Sabotage - Devil Eyes.mp3
-225:Y-music/Irina Rimes x Cris Cab - Your Love _ Official Video.mp3
-226:Y-music/Jianu feat. Mihai Margineanu - Luxandra _ Audio.mp3
-227:Y-music/Marea Vaccinare - Pamflet (Cipuri si 5G).mp3
-228:Y-music/Mike WiLL Made-It - 23 ft. Miley Cyrus, Wiz Khalifa, Juicy J (Official Music Video).mp3
-229:Y-music/MOUNT WESTMORE – Big Subwoofer (Official Music Video).mp3
-230:Y-music/NANE - COCKTAIL.mp3
-231:Y-music/OBOY - Cabeza (Clip officiel).mp3
-232:Y-music/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3
-233:Y-music/Parazitii - Apa in vin (nr3).mp3
-234:Y-music/Parazitii - Necomercial (nr.48).mp3
-235:Y-music/Parazitii - Ultimul buletin de stiri de la ora 5.mp3
-236:Y-music/Pump It Up _ Tik Tok 抖音 - Remix _ _ You Got To Sing Along _.mp3
-237:Y-music/The Prince Karma - Later Bitches (Official Lyrics Video).mp3
-238:Y-music/TJR & VINAI & TURBOTRONIC - WE WANNA PARTY (PARTY ROCKZZ MASHUP).mp3
-239:Y-music/Tujamo & Plastik Funk ft. Sneakbo - Dr. Who! (Official Video) HD.mp3
-240:Y-music/اقوى ريمكس اجنبي في 2020 _ حماسي جدا - مطلوب اكثر شي _ Such a Whore.mp3
-241:Y-music/13 Organisé - Je suis Marseille -Akhenaton_Shurik’n_ L’Algérino_Sch_Jul_Alonzo_Fahar_Le Rat Luciano_.mp3
-242:Y-music/Corina feat. Dorian Popa - Nimeni altcineva (Official Music Video).mp3
-243:Y-music/Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3
-244:Y-music/Echo feat. Codrin - Sub Chiuvetă (Oficial).mp3
-245:Y-music/John Cena & Tha Trademarc - WWE The Time Is Now (John Cena).mp3
-246:Y-music/Warren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video - rren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video.mp3
-247:Y-music/Arabeasca-Super-Tare.mp3
-248:Y-music/SAINt JHN - ROSES & TUJAMO & PLASTIK FUNK - WHO.mp3
-249:Y-music/Mory Kanté & Loverush UK! - Yeke Yeke 2010.mp3
-250:Y-music/Yo Perreo Sola - Bad Bunny ( Video Oficial ).mp3
-251:Y-music/Drumatic - You And Me.mp3
-252:Y-music/Still DRE   Maschine Live - Traktor Scratch Pro and Maschine.mp3
-253:Y-music/Dabro Remix - Улетай на крыльях ветра.mp3
-254:Y-music/Fk Music - Gta San Andreas.mp3
+4:Y-music/Cedry2k - Actiune de Noapte.mp3
+5:Y-music/Cedry2K - Derobotizare.mp3
+6:Y-music/Cedry2k - Mai mult decât magic (cu Deliric si Connect-R).mp3
+7:Y-music/Cheloo & Lazar – Opus 1 (Killing The Classics) - Videoclip Oficial.mp3
+8:Y-music/Cheloo Grasu XXLZhao-Bi tch Please   Deejay Killer Remix.mp3
+9:Y-music/Decât Să Minți.mp3
+10:Y-music/DELIRIC - ASAP (feat. VLAD FLUERARU).mp3
+11:Y-music/Deliric - Din 94 _feat. Mike Diamondz.mp3
+12:Y-music/Deliric - Negru (feat. Silent Strike).mp3
+13:Y-music/Deliric - Pe Limba Lumii (prod. de Phane) (#Leapsa).mp3
+14:Y-music/Deliric - Sange de porc _feat. Nwanda, Aforic, DOC.mp3
+15:Y-music/Deliric - Stiu pe cineva _feat. Vlad Dobrescu.mp3
+16:Y-music/DELIRIC - TANC _ HOME DELIVERY - 2.mp3
+17:Y-music/Deliric - Varfu' Omu (prod. Silent Strike).mp3
+18:Y-music/Deliric x Silent Strike - Independent (Video).mp3
+19:Y-music/F.Charm - Egalitate feat. Nea Fane (Videoclip Oficial).mp3
+20:Y-music/F.Charm - Lăcomia (Videoclip Oficial).mp3
+21:Y-music/F.Charm - Nimic nu-i întâmplător (Videoclip Oficial).mp3
+22:Y-music/Freestyle Rap Beat (Hard Boom Bap Type Beat Hip Hop -Notion-).mp3
+23:Y-music/Guess Who - Unu Altu (videoclip).mp3
+24:Y-music/INNA - Bop Bop.mp3
+25:Y-music/Katy Perry - Dark Horse (Official) ft. Juicy J.mp3
+26:Y-music/Mandi ft. Fabio, Mikel & Ilir Tironsi - Nishtulla City (Official Video).mp3
+27:Y-music/Mitza feat. DOC - Bag.mp3
+28:Y-music/Mr. Criminal & 2Pac - Side 2 Side (D-Ace Remix).mp3
+29:Y-music/NANE - MI-E DOR (video_ mixtape _DE-ALE MELE__ 2008).mp3
+30:Y-music/Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown.mp3
+31:Y-music/Nimeni Altu' - Nopţi prea lungi.mp3
+32:Y-music/Ombladon - Trei agenti (cu Cheloo si FDD).mp3
+33:Y-music/Parazitii-Te sparg la buci (nr.82).mp3
+34:Y-music/Parazitii❌La Familia❌The Game❌Biggie - Let's Play A Game _ Deejay Killer Remix.mp3
+35:Y-music/Piesa mea preferata.mp3
+36:Y-music/Puri-x-Jhorrmountain-x-Adje-Co-o-Bass-Boosted-ytmp3.com.mp3
+37:Y-music/Regina Balului.mp3
+38:Y-music/Ride Or Die.mp3
+39:Y-music/San Andreas Cover Remake - 200K Subs Special!.mp3
+40:Y-music/Speak feat. Brighi & Cabron - Prada de razboi (Lyric Video).mp3
+41:Y-music/Spike   Realitate (Videoclip Oficial).mp3
+42:Y-music/Spike - Iti pare rau (feat Dan Spataru).mp3
+43:Y-music/Vecinii Mei.mp3
+44:Y-music/Vladone x Papa Urban ft. Pietonu', Lecsick - Asta Inseamna Sa NU Fi(i) Mafiot _ VIDEO.mp3
+45:Y-music/FUNK RKTERO - (Brasilero) ✘ Liam DJ ✘ Deejay Maquina Video Remix ✘.mp3
+46:Y-music/TA PA PERREAR  Locura Mix Alan Gomez  Deejay Maquina Oficial Video Remix .mp3
+47:Y-music/Funk Love.mp3
+48:Y-music/Dr. Dre - Bang Bang (feat. Knoc-turn'al & Hittman).mp3
+49:Y-music/Dr. Dre - Still D.R.E. (feat. Snoop Dogg).mp3
+50:Y-music/Dr. Dre feat. Snoop Dogg - Still D.R.E. (Dj Dark & Mentol Remix).mp3
+51:Y-music/Cassage-de-nuques-pt.-4.mp3
+52:Y-music/Redman - Slap Da Shit Outcha _Official Music Video.mp3
+53:Y-music/Lil Nas X - Old Town Road.mp3
+54:Y-music/Ganjaman - Alfons - Ganjaman.mp3
+55:Y-music/2Pac, Dr. Dre & Roger Troutman - California Love.mp3
+56:Y-music/A$AP Ferg - New Level (feat. Future).mp3
+57:Y-music/Cheloo - Apel la sinceritate (Videoclip Oficial).mp3
+58:Y-music/Paraziții - Hash Thug Rezist.mp3
+59:Y-music/Ashanti - Happy ft. Ja Rule (Official Music Video).mp3
+60:Y-music/Travis Scott - SICKO MODE ft. Drake (Official Video).mp3
+61:Y-music/Axel Thesleff - Bad Karma (Official Music Video).mp3
+62:Y-music/G-Unit - Poppin' Them Thangs (Explicit Version).mp3
+63:Y-music/Imagine Dragons - Believer.mp3
+64:Y-music/Shaggy - Angel ft. Rayvon (Official Music Video).mp3
+65:Y-music/Mohamed Ramadan - BUM BUM.mp3
+66:Y-music/DJ Snake - Taki Taki ft. Selena Gomez, Ozuna, Cardi B (Official Music Video).mp3
+67:Y-music/Parazitii - Ce n-avem acasa.mp3
+68:Y-music/Cheloo - Paranoia E Mare.mp3
+69:Y-music/INNA - Cola Song (feat. J Balvin) _ Official Music Video.mp3
+70:Y-music/Paraziții - Violent.mp3
+71:Y-music/Parazitii feat  Spike - Rau sau bun (nr.40).mp3
+72:Y-music/Corina & Tony Cottura - Quieres Una Aventura.mp3
+73:Y-music/Fly Project - Mandala.mp3
+74:Y-music/Deliric - SEfu.mp3
+75:Y-music/Delia x Grasu XXL - Despablito (Official Video).mp3
+76:Y-music/Baboi - Doamna Mea.mp3
+77:Y-music/Tujamo & Plastik Funk - Dr. Who! (UK Radio Edit) [feat. Sneakbo].mp3
+78:Y-music/B.U.G. Mafia - Cartieru' Pantelimon (feat. Nico) (Prod. Tata Vlad).mp3
+79:Y-music/Killa Fonic - Dvns.mp3
+80:Y-music/El Desorden - Ozuna Ft. Plan B (video).mp3
+81:Y-music/The Black Eyed Peas - Where Is The Love_ (Official Music Video).mp3
+82:Y-music/Chris Brown - Look at Me Now (Official Video) ft. Lil Wayne, Busta Rhymes.mp3
+83:Y-music/Fresh.mp3
+84:Y-music/Cabron & Don Baxter - Femei _Official track HQ.mp3
+85:Y-music/Silent Child - Fuck You.mp3
+86:Y-music/Alfons - Ganjaman.mp3
+87:Y-music/50 Cent - In da Club.mp3
+88:Y-music/Ginuwine - Pony.mp3
+89:Y-music/Sub Sonik - Go FCk Yourself (Digital Punk Remix).mp3
+90:Y-music/Angelo Ferreri & Hatiras - In the House.mp3
+91:Y-music/Ceilalti - Orasul Suceava II ft ArTiStul si Kontra.mp3
+92:Y-music/Cedry2k - Sacrificii.mp3
+93:Y-music/DELIRIC - ASPIRINA _ HOME DELIVERY #1.mp3
+94:Y-music/Deliric - Sah mat [feat. DOC, Vlad Dobrescu].mp3
+95:Y-music/Faust x Nechifor - Fără panică (feat. Vlad Dobrescu).mp3
+96:Y-music/PITBULL - I know you want me (calle ocho) _Official video HD.mp3
+97:Y-music/Parazitii - Degeneratia urmatoare - Remix.mp3
+98:Y-music/Parazitii - Degeneratia urmatoare.mp3
+99:Y-music/Vlad Dobrescu - Globul De Cristal.mp3
+100:Y-music/Vlad Dobrescu - Trei Cadavre.mp3
+101:Y-music/Jennifer Lopez  ft. Ja Rule - I'm Real (Remix) _Official Video_.mp3
+102:Y-music/Angelo Ferreri - When I See You.mp3
+103:Y-music/Jos cenzura! (Radio Edit).mp3
+104:Y-music/Kalinka (AdryxG Bounce Remix).mp3
+105:Y-music/Kanye West - Mercy (Explicit) ft. Big Sean, Pusha T, 2 Chainz.mp3
+106:Y-music/Parov Stelar - Libella Swing (Extended).mp3
+107:Y-music/Otis McDonald NotForNothing.mp3
+108:Y-music/Arsonists - Pyromaniax.mp3
+109:Y-music/K CAMP - Lottery (Renegade).mp3
+110:Y-music/Shaggy - Hey Sexy Lady ft. Brian & Tony Gold (Official Music Video).mp3
+111:Y-music/Doc - Vecinii Mei.mp3
+112:Y-music/MC Hammer - U Can't Touch This (HQ).mp3
+113:Y-music/KILLA FONIC - Miami Bici (OST).mp3
+114:Y-music/Bad Bunny - Yo Perreo Sola (1).mp3
+115:Y-music/Bad Bunny - Yo Perreo Sola.mp3
+116:Y-music/Dillon Francis & DJ Snake - Get Low (feat. Rae Sremmurd).mp3
+117:Y-music/ALL STAR - Lasa sa curga,sticla sa planga   Deejay Killer Remix.mp3
+118:Y-music/Deliric - Linii De Tramvai (feat. DOC) (Videoclip).mp3
+119:Y-music/Deliric - Mahmur.mp3
+120:Y-music/DOC - Praf.mp3
+121:Y-music/Dr Dre Parazitii Grasu Xxl - Romanian Still   Deejay Killer Remix.mp3
+122:Y-music/Grasu XXL  2Pac - Puterea   Deejay Killer Remix.mp3
+123:Y-music/Parazitii Alan & Kepa Dr Dre Snoop Dogg - Mi se rupe   Deejay Killer Remix.mp3
+124:Y-music/Parazitii Guess Who Adrian Despot - O stare de spirit cu flori ilegale   Deejay Killer Remix.mp3
+125:Y-music/Sapte x Azteca - BOB (Official Video).mp3
+126:Y-music/Sisu Puya - Adevarul Gol Golut   Deejay Killer Remix.mp3
+127:Y-music/Vlad Dobrescu - Insomnii (feat. Deliric) _VIDEO_.mp3
+128:Y-music/Aya Nakamura - Djadja.mp3
+129:Y-music/Grasu XXL - Evident.mp3
+130:Y-music/De Jezzz - OBOY - Cabeza.mp3
+131:Y-music/Ultradiox - Walked In.mp3
+132:Y-music/Ja Rule - I'm Real (feat. Jennifer Lopez).mp3
+133:Y-music/F.Charm - Pan La Fund (feat. Mike Diamondz).mp3
+134:Y-music/Ombladon - Panarame (feat. Bitza).mp3
+135:Y-music/Lorna - Papi Chulo... Te Traigo El Mmmm (Official Video).mp3
+136:Y-music/Perreito Remix - Mariah ft Jon Z, Wisin & Don Chezina.mp3
+137:Y-music/Real Sobrino - Plata O Plomo.mp3
+138:Y-music/Rick Ross-Hustlin.mp3
+139:Y-music/Endor - Pump It Up.mp3
+140:Y-music/Spike - Tango.mp3
+141:Y-music/Eminem - Must Be The Ganja.mp3
+142:Y-music/Andreea D - Rompedon.mp3
+143:Y-music/Emy Alupei, Theo Rose & What's Up - Scandal.mp3
+144:Y-music/Cedry2k - Una Din Doua (feat. Jianu & F.Charm).mp3
+145:Y-music/Eve_Gwen Stefani - Let Me Blow Ya Mind.mp3
+146:Y-music/Bitza - Bagaboanta.mp3
+147:Y-music/JoeVille - Sexy.mp3
+148:Y-music/Bro Safari - Scumbag [FREE DL].mp3
+149:Y-music/Paraschiva.mp3
+150:Y-music/Cheloo - Daca eram....mp3
+151:Y-music/Cheloo - Definitia 24378.mp3
+152:Y-music/Cheloo - Sindromul Tourette (feat. Guess Who).mp3
+153:Y-music/LMFAO - Sexy and I Know It (Official Video).mp3
+154:Y-music/Purple Lamborghini - Skrillex & Rick Ross - Purple Lamborghini.mp3
+155:Y-music/Parazitii - Goana dupa iluzii.mp3
+156:Y-music/Jon Lajoie – Regular Everyday Normal MotherFucker )).mp3
+157:Y-music/Ombladon - Nu mi-e frică.mp3
+158:Y-music/Dr. Dre - Still D.R.E. (Remix) ft. Snoop Dogg, 2Pac, Eminem, 50 Cent, Eazy E, Method Man, BIG L.mp3
+159:Y-music/Lil Wayne, Wiz Khalifa & Imagine Dragons - Sucker for Pain.mp3
+160:Y-music/twenty one pilots - Heathens.mp3
+161:Y-music/Jack Harlow - WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) _Official Visualizer_.mp3
+162:Y-music/Lil Wayne - A Milli.mp3
+163:Y-music/Ricky Desktop - The Banjo Beat, Pt. 1.mp3
+164:Y-music/R. Kelly - Thoia Thoing.mp3
+165:Y-music/Nicki Minaj - Anaconda.mp3
+166:Y-music/Jennifer Lopez - Jenny from the Block.mp3
+167:Y-music/Jamie Berry - Who's That.mp3
+168:Y-music/Yo Soy Pablo Emilio Escobar Gaviria [tiktok] canción completa.mp3
+169:Y-music/Jay-Z & Kanye West - Niggas in Paris - Watch the Throne.mp3
+170:Y-music/Tomi Dj - Twerk Brasilero 2.mp3
+171:Y-music/Tyga- Nigo in Beverly Hills- Well Done Fever.mp3
+172:Y-music/B.U.G. Mafia - Dupa Blocuri (Prod. Tata Vlad) (Videoclip).mp3
+173:Y-music/Cardi B - WAP (feat. Megan Thee Stallion).mp3
+174:Y-music/M.O.P. - Cold As Ice (Official Music Video).mp3
+175:Y-music/All The Way Up - Fat Joe, Remy Ma ft. French Montana (izo Lyrics).mp3
+176:Y-music/Azeri Bass - Avara Avara (2018-2020).mp3
+177:Y-music/B.U.G. Mafia - La Greu (Prod. Tata Vlad).mp3
+178:Y-music/Cardi B - Bodak Yellow [OFFICIAL MUSIC VIDEO].mp3
+179:Y-music/Cardi B - WAP (Lyrics) feat. Megan Thee Stallion.mp3
+180:Y-music/Cătălina Solomac  - Dă mai tare muzica.mp3
+181:Y-music/Ceilalti cu Brugner - Ce-a mai ramas din oameni.avi.mp3
+182:Y-music/Cheloo - Toate Nevestele [ Hidden Track ].mp3
+183:Y-music/Christu - Neah feat  Doc, Cedry2k, J Yolo ( TV Version ).mp3
+184:Y-music/Connect-R  BRUJA - Cantareti de Karaoke  Official Video.mp3
+185:Y-music/Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3
+186:Y-music/Don Baxter - Show-Bizz feat. Codu' Penal.mp3
+187:Y-music/Dopebwoy - Cartier ft. Chivv & 3robi.mp3
+188:Y-music/Dr. Dre - Still D.R.E. ft. Snoop Dogg (SkennyBeatz Remix).mp3
+189:Y-music/Dr. Dre - The Next Episode (Remix) ft. Snoop Dogg, Nate Dogg, Eazy E, Busta Rhymes, 2Pac, Eminem.mp3
+190:Y-music/Eminem - Without Me (Official Music Video).mp3
+191:Y-music/Eve - Let Me Blow Your Mind (Biggie Mashup).mp3
+192:Y-music/Eve ft. Gwen Stefani - Let Me Blow Ya Mind (Official Video).mp3
+193:Y-music/Gojira & Planet H feat ALAN & KEPA - Beau Beau.mp3
+194:Y-music/Hippie Sabotage - Devil Eyes.mp3
+195:Y-music/Irina Rimes x Cris Cab - Your Love _ Official Video.mp3
+196:Y-music/Jianu feat. Mihai Margineanu - Luxandra _ Audio.mp3
+197:Y-music/Marea Vaccinare - Pamflet (Cipuri si 5G).mp3
+198:Y-music/Mike WiLL Made-It - 23 ft. Miley Cyrus, Wiz Khalifa, Juicy J (Official Music Video).mp3
+199:Y-music/MOUNT WESTMORE – Big Subwoofer (Official Music Video).mp3
+200:Y-music/OBOY - Cabeza (Clip officiel).mp3
+201:Y-music/Ombladon - Metode clasice de sinucidere (cu Carbon).mp3
+202:Y-music/Parazitii - Apa in vin (nr3).mp3
+203:Y-music/Parazitii - Din coltul Blocului.mp3
+204:Y-music/Parazitii - Necomercial (nr.48).mp3
+205:Y-music/Parazitii - Ultimul buletin de stiri de la ora 5.mp3
+206:Y-music/Pump It Up _ Tik Tok 抖音 - Remix _ _ You Got To Sing Along _.mp3
+207:Y-music/The Prince Karma - Later Bitches (Official Lyrics Video).mp3
+208:Y-music/TJR & VINAI & TURBOTRONIC - WE WANNA PARTY (PARTY ROCKZZ MASHUP).mp3
+209:Y-music/Tujamo & Plastik Funk ft. Sneakbo - Dr. Who! (Official Video) HD.mp3
+210:Y-music/اقوى ريمكس اجنبي في 2020 _ حماسي جدا - مطلوب اكثر شي _ Such a Whore.mp3
+211:Y-music/13 Organisé - Je suis Marseille -Akhenaton_Shurik’n_ L’Algérino_Sch_Jul_Alonzo_Fahar_Le Rat Luciano_.mp3
+212:Y-music/Corina feat. Dorian Popa - Nimeni altcineva (Official Music Video).mp3
+213:Y-music/Dan Balan - Chica Bomb Official Video HD Hype Williams.mp3
+214:Y-music/Echo feat. Codrin - Sub Chiuvetă (Oficial).mp3
+215:Y-music/John Cena & Tha Trademarc - WWE The Time Is Now (John Cena).mp3
+216:Y-music/Warren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video - rren G  Party We Will Throw Now  Ft. Nate Dogg & The Game   Official Music Video.mp3
+217:Y-music/Arabeasca-Super-Tare.mp3
+218:Y-music/SAINt JHN - ROSES & TUJAMO & PLASTIK FUNK - WHO.mp3
+219:Y-music/Mory Kanté & Loverush UK! - Yeke Yeke 2010.mp3
+220:Y-music/Yo Perreo Sola - Bad Bunny ( Video Oficial ).mp3
+221:Y-music/Drumatic - You And Me.mp3
+222:Y-music/Dabro Remix - Улетай на крыльях ветра.mp3
+223:Y-music/Fk Music - Gta San Andreas.mp3
 playlist_end

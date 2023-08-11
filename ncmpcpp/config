@@ -277,7 +277,7 @@ song_columns_list_format = "(60)[green]{t} (5)[cyan]{a}"
 ## Note: Custom command that will be executed each time song changes. Useful for
 ## notifications etc.
 ##
-execute_on_song_change = musnotify
+execute_on_song_change = ~/.local/bin/musnotify
 #execute_on_song_change = /bin/bash ~/.config/ncmpcpp/art.sh &  notify-send -h string:fgcolor:#E6FF08FF -i /tmp/cover.png "Now Playing" "$(mpc --host=localhost --port=6500 --format '%title% \n%artist% - %album%' current)"
 #
 ##
