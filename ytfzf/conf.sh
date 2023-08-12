@@ -61,11 +61,11 @@ pages_to_scrape="2"
 multi_search="0"
 pages_start="1"
 nsfw="false" 
-odysee_video_search_count="10"
+odysee_video_search_count="5"
 multi_search="0"
 custom_scrape_search_exclude="" 
 scrape_search_exclude=" youtube-subscriptions peertube odysee S SI SL T video-recommended  youtube-trending H history "
-max_thread_count="15"
+max_thread_count="5"
 fancy_subs="1" fancy_subs_left="-------------" 
 fancy_subs_right="${fancy_subs_right=$fancy_subs_left}"
 fzf_preview_side="left" 
@@ -97,7 +97,8 @@ show_link_only="1"
 #invidious-channel,
 #video-recommended,
 #playlist/json-file,
-
+ytdl_pref="22+bestaudio"
+# ytdl_pref="248+bestaudio/best/write-subs/sub-langs en ,--all-subs sub-format ass/srt/best"
 
 
 #variable for switching on sort (date)
@@ -121,6 +122,43 @@ show_link_only="1"
 
     # option parsing
     long_opt_char="-"
+
+## Shortcut
+
+
+download_shortcut=ctrl-d
+#The shortcut to download the selected videos.
+#default: alt-d
+
+video_shortcut=ctrl-v
+#The shortcut to watch the selected videos.
+#default: alt-v
+
+audio_shortcut=ctrl-a
+#The shortcut to listen to the selected videos.
+#default: alt-m
+
+detach_shortcut=ctrl-e
+#The shortcut to use the detach player.
+#default: alt-e
+
+print_link_shortcut=ctrl-l
+#The shortcut to use to print the link.
+#default: alt-l
+
+show_formats_shortcut=ctrl-f
+#The shortcut to show formats before playing the video.
+#default: alt-f
+
+info_shortcut=ctrl-i
+#The shortcut to get all info about the selected video.
+#default: alt-i
+
+search_again_shortcut=ctrl-s
+#The shortcut to make another search.
+#default: alt-s
+
+
 
     thumbnail_video_info_text () {
          printf "\n${c_cyan}%s" "$title"
