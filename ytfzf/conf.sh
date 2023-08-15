@@ -57,15 +57,15 @@ search_video_duration=""
 search_result_type="video" 
 search_result_features="" 
 search_region="US"
-pages_to_scrape="2" 
+pages_to_scrape="3" 
 multi_search="0"
 pages_start="1"
 nsfw="false" 
-odysee_video_search_count="5"
+odysee_video_search_count="10"
 multi_search="0"
 custom_scrape_search_exclude="" 
 scrape_search_exclude=" youtube-subscriptions peertube odysee S SI SL T video-recommended  youtube-trending H history "
-max_thread_count="5"
+max_thread_count="10"
 fancy_subs="1" fancy_subs_left="-------------" 
 fancy_subs_right="${fancy_subs_right=$fancy_subs_left}"
 fzf_preview_side="left" 
@@ -97,7 +97,7 @@ show_link_only="1"
 #invidious-channel,
 #video-recommended,
 #playlist/json-file,
-ytdl_pref="22+bestaudio"
+ytdl_pref="136+22+137+bestaudio/best/bestvideo"
 # ytdl_pref="248+bestaudio/best/write-subs/sub-langs en ,--all-subs sub-format ass/srt/best"
 
 
