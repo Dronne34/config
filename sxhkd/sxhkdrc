@@ -113,6 +113,10 @@ ctrl + alt + p
 ctrl + alt + m    
      sh ~/.local/bin/dm-mpd
 
+#dm-power     
+     ctrl + alt + w    
+     sh ~/.local/bin/dm-power
+
 #dm Run
 ctrl + alt + d  
      dmenu_run
