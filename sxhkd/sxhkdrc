@@ -155,7 +155,7 @@ ctrl + alt + KP_Insert
 
 #Wallpapers
 shift + super + c
-     feh -z --no-fehbg --bg-fill  ~/Google-Drive/wallpaper-backup/
+     feh -z --no-fehbg --bg-fill  ~/.config/screen/
 
 #qutebrowser
 #ctrl + super + g 
