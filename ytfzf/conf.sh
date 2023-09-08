@@ -97,7 +97,7 @@ show_link_only="1"
 #invidious-channel,
 #video-recommended,
 #playlist/json-file,
-ytdl_pref="136+22+137+bestaudio/best/bestvideo"
+ytdl_pref="137+22+299+bestaudio/best/bestvideo"
 # ytdl_pref="248+bestaudio/best/write-subs/sub-langs en ,--all-subs sub-format ass/srt/best"
 
 

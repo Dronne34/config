@@ -1,7 +1,6 @@
 
 #My custom key
-#------------------------------------------
-
+# Audio
 
 XF86AudioRaiseVolume
   pactl set-sink-volume @DEFAULT_SINK@ +5% &&  dunstify  -r 3456 -t 700 -i audio-volume-high "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" 
@@ -18,74 +17,56 @@ XF86AudioMute
 XF86AudioMicMute
    pactl set-source-mute @DEFAULT_SOURCE@ toggle &&  dunstify  -r 3456 -t 700 -i audio-volume-muted "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
 
-#MPC-PLAYER 
-#ctrl + alt + Right
+# MPC 
 XF86AudioNext
     mpc --host=localhost --port=6500 next
     
 
-#ctrl + alt + Left
 XF86AudioPrev
     mpc --host=localhost --port=6500 prev
 
-#ctrl + alt + Up
 XF86AudioPlay 
     mpc --host=localhost --port=6500 toggle  
 
-#ctrl + alt + Down
-#    mpc --host=localhost --port=6500 play   
 
-#Conky
+# Conky
 ctrl + alt + c
     killall conky   
 
 
-#sxhkd reload
+# sxhkd reload
 ctrl + alt + Escape
     pkill -USR1 -x sxhkd
 
-#Xterm
+# Xterm
 ctrl + alt + x 
    xterm -bw 0 
 
-#picom-trans transparency
+# picom-trans transparency
 super + alt + bracketleft
     picom-trans -c -10
 
 super + alt + bracketright
     picom-trans -c +10
     
-#system-monitor    
+# system-monitor    
 super + ctrl + m
     gnome-system-monitor
 
-#Browser    
+# Browser    
 super + alt + b
     brave --disable-features=ExtensionsToolbarMenu
 
-#Locker   
+# Locker   
 super + ctrl + l
     sh ~/.config/i3/scripts/lock
     
-#Polybar 
-ctrl + alt + Delete
-   killall polybar
-
-
-#Polybar-reload
-ctrl + alt + r
-    sh ~/.config/polybar/launch.sh
-
 # st-256color
 ctrl + alt + s 
      st -t "Simple Terminal" -f "Hack:style=Regular:size=12"
 #      st -t "Simple Terminal"
       
-#Urxvt
-ctrl + alt + u
-    urxvt
-
-#Touchpad-togle
+# Touchpad-togle
 super + ctrl + space
     sh ~/Google-Drive/shell-backup/touchpad.sh   
 
@@ -93,71 +74,64 @@ super + ctrl + space
 ctrl + alt + h
     sh ~/.local/bin/dm-manual  
 
-#dm Kill Process
+# dm Kill Process
 ctrl + alt + k
     sh ~/.local/bin/dm-kill-process
 
-#dm Open File
+# dm Open File
 ctrl + alt + o  
     sh ~/.local/bin/dm-open-file
 
-#dm Web Search  
+# dm Web Search  
 ctrl + alt + b   
     sh ~/.local/bin/dm-websearch
 
-#dm Places
+# dm Places
 ctrl + alt + p 
     sh ~/.local/bin/dm-places    
 
-#dm Mpd
+# dm Mpd
 ctrl + alt + m    
      sh ~/.local/bin/dm-mpd
 
-#dm-power     
+# dm-power     
      ctrl + alt + w    
      sh ~/.local/bin/dm-power
 
-#dm Run
+# dm Run
 ctrl + alt + d  
      dmenu_run
 
-#dm Power
+# dm Power
 ctrl + alt + q  
      dm-power
 
-#Brave
+# Brave
 shift + super + b  
      brave
 
-#Sublime Text
+# Sublime Text
 shift + super + s
      subl
 
-#Thunar
+# Thunar
 shift + super + t
-     thunar
+     pcmanfm
  
-#Gnome-System-Monitor
+# Gnome-System-Monitor
 shift + super + m 
      gnome-system-monitor
 
-#xkill
+# xkill
 shift + super + x
      xkill     
          
-#Workspace
-ctrl + alt + KP_Insert  
-     i3-msg workspace next
 
-#Workspace
-# ctrl + alt + Left  
-     # i3-msg workspace previw     
-
-#Wallpapers
+# Wallpapers
 shift + super + c
      feh -z --no-fehbg --bg-fill  ~/.config/screen/
 
-#qutebrowser
-#ctrl + super + g 
-     #qutebrowser
+# Ranger
+ctrl + alt + r 
+    alacritty -e ranger  
      
