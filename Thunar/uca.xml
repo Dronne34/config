@@ -14,7 +14,7 @@
 </action>
 <action>
 	<icon>org.gnome.Meld</icon>
-	<name>Compre</name>
+	<name>Compare</name>
 	<submenu></submenu>
 	<unique-id>1691597732286911-1</unique-id>
 	<command>meld %F</command>
