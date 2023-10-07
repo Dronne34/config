@@ -79,8 +79,8 @@ ctrl + alt + k
     sh ~/.local/bin/dm-kill-process
 
 # dm Open File
-ctrl + alt + o  
-    sh ~/.local/bin/dm-open-file
+ctrl + alt + l
+    sh ~/.local/bin/dm-live
 
 # dm Web Search  
 ctrl + alt + b   
