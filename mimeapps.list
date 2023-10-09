@@ -1,10 +1,15 @@
 [Added Associations]
-text/x-chdr=sublime_text.desktop;
 application/x-shellscript=sublime_text.desktop;
 text/x-makefile=sublime_text.desktop;
 text/x-csrc=sublime_text.desktop;
+text/x-chdr=sublime_text.desktop;
 
 [Default Applications]
-text/x-csrc=sublime_text.desktop
-text/plain=sublime_text.desktop
-inode/directory=pcmanfm.desktop
+text/x-csrc=sublime_text.desktop;
+text/plain=sublime_text.desktop;
+inode/directory=pcmanfm.desktop;
+image/jpeg=feh.desktop;org.xfce.ristretto.desktop;sxiv.desktop;
+image/jpg=feh.desktop;sxiv.desktop;
+image/png=feh.desktop;sxiv.desktop;
+image/x-bmp=feh.desktop;sxiv.desktop;
+image/x-png=feh.desktop;
