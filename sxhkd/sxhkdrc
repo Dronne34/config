@@ -63,9 +63,13 @@ super + ctrl + l
     
 # st-256color
 ctrl + alt + s 
-     st -t "Simple Terminal" -f "Hack:style=Regular:size=12"
-#      st -t "Simple Terminal"
+     st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
+     # st -t "Simple Terminal"
       
+# Alacritty
+ctrl + alt + a
+     alacritty
+           
 # Touchpad-togle
 super + ctrl + space
     sh ~/Google-Drive/shell-backup/touchpad.sh   
@@ -133,5 +137,5 @@ shift + super + c
 
 # Ranger
 ctrl + alt + r 
-    alacritty -e ranger  
+    st -n "ranger" -f "Hack:style=Regular:size=11" -e ranger  
      
