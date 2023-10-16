@@ -98,10 +98,6 @@ ctrl + alt + p
 ctrl + alt + m    
      sh ~/.local/bin/dm-mpd
 
-# dm-power     
-     ctrl + alt + w    
-     sh ~/.local/bin/dm-power
-
 # dm Run
 ctrl + alt + d  
      dmenu_run
@@ -118,7 +114,7 @@ shift + super + b
 shift + super + s
      subl
 
-# Thunar
+# Pcmanfm
 shift + super + t
      pcmanfm
  
@@ -139,3 +135,8 @@ shift + super + c
 ctrl + alt + r 
     st -n "ranger" -f "Hack:style=Regular:size=11" -e ranger  
      
+# Keybind-dwm
+ctrl + alt + o
+    st -n key  -e less ~/.config/keybind/dwm-key  
+
+
