@@ -3,6 +3,8 @@ application/x-shellscript=sublime_text.desktop;
 text/x-makefile=sublime_text.desktop;
 text/x-csrc=sublime_text.desktop;
 text/x-chdr=sublime_text.desktop;
+application/yaml=sublime_text.desktop;
+text/markdown=userapp-less-EOUPC2.desktop;
 
 [Default Applications]
 text/x-csrc=sublime_text.desktop;
@@ -13,3 +15,6 @@ image/jpg=feh.desktop;sxiv.desktop;
 image/png=feh.desktop;sxiv.desktop;
 image/x-bmp=feh.desktop;sxiv.desktop;
 image/x-png=feh.desktop;
+text/markdown=userapp-less-EOUPC2.desktop
+
+[Removed Associations]
