@@ -72,7 +72,7 @@ ctrl + alt + a
            
 # Touchpad-togle
 super + ctrl + space
-    sh ~/Google-Drive/shell-backup/touchpad.sh   
+    sh touchpad_toggle.sh     
 
 # dm Manual 
 ctrl + alt + h
@@ -88,11 +88,9 @@ ctrl + alt + l
 
 # dm Web Search  
 ctrl + alt + b   
-    sh ~/.local/bin/dm-websearch
 
 # dm Places
 ctrl + alt + p 
-    sh ~/.local/bin/dm-places    
 
 # dm Mpd
 ctrl + alt + m    
@@ -125,8 +123,7 @@ shift + super + m
 # xkill
 shift + super + x
      xkill     
-         
-
+        
 # Wallpapers
 shift + super + c
      feh -z --no-fehbg --bg-fill  ~/.config/screen/
@@ -137,6 +134,6 @@ ctrl + alt + r
      
 # Keybind-dwm
 ctrl + alt + o
-    st -n key  -e less ~/.config/keybind/dwm-key  
+    st -n key  -e less ~/.config/keybind/dwm-key
 
 
