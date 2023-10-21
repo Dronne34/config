@@ -134,6 +134,6 @@ ctrl + alt + r
      
 # Keybind-dwm
 ctrl + alt + o
-    st -n key  -e less ~/.config/keybind/dwm-key
+     st -n key  -e bat -l perl ~/.config/keybind/dwm-key
 
 
