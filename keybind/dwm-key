@@ -1,39 +1,39 @@
-    { ShiftMask|Mod4Mask,       XK_s,      spawn,          SHCMD("subl") },
-    { ShiftMask|Mod4Mask,       XK_t,      spawn,          SHCMD("thunar") },
-    { MODKEY,                   XK_p,      spawn,          {.v = dmenucmd } },
-    { MODKEY|ControlMask,       XK_f,      spawn,          {.v = browsercmd } },
-    { MODKEY|ShiftMask,         XK_Return, spawn,          {.v = termcmd } },
-    { MODKEY,                   XK_u,      spawn,          {.v = xranger } },
-    { MODKEY,                   XK_y,      spawn,          {.v = xst } },
-    { MODKEY|ShiftMask,         XK_f,      fullscreen,     {0} },
-    { MODKEY,                   XK_b,      togglebar,      {0} },
-    { MODKEY|ShiftMask,         XK_j,      rotatestack,    {.i = +1 } },
-    { MODKEY|ShiftMask,         XK_k,      rotatestack,    {.i = -1 } },
-    { MODKEY,                   XK_j,      focusstack,     {.i = +1 } },
-    { MODKEY,                   XK_k,      focusstack,     {.i = -1 } },
-    { MODKEY,                   XK_i,      incnmaster,     {.i = +1 } },
-    { MODKEY,                   XK_d,      incnmaster,     {.i = -1 } },
-    { MODKEY,                   XK_h,      setmfact,       {.f = -0.05} },
-    { MODKEY,                   XK_l,      setmfact,       {.f = +0.05} },
-    { MODKEY,                   XK_Return, zoom,           {0} },
-    { MODKEY,                   XK_Tab,    view,           {0} },
-    { MODKEY|ShiftMask,         XK_c,      killclient,     {0} },
-    { MODKEY,                   XK_t,      setlayout,      {.v = &layouts[0]} },
-    { MODKEY,                   XK_f,      setlayout,      {.v = &layouts[1]} },
-    { MODKEY,                   XK_m,      setlayout,      {.v = &layouts[2]} },
-    { MODKEY,                   XK_r,      setlayout,      {.v = &layouts[3]} },
-    { MODKEY|ShiftMask,         XK_r,      setlayout,      {.v = &layouts[4]} },
-    { MODKEY|ControlMask,	    XK_comma,  cyclelayout,    {.i = -1 } },
-    { MODKEY|ControlMask,       XK_period, cyclelayout,    {.i = +1 } },
-    { MODKEY,                   XK_space,  setlayout,      {0} },
-    { MODKEY|ShiftMask,         XK_space,  togglefloating, {0} },
-    { MODKEY,                   XK_0,      view,           {.ui = ~0 } },
-    { MODKEY|ShiftMask,         XK_0,      tag,            {.ui = ~0 } },
-    { MODKEY,                   XK_comma,  focusmon,       {.i = -1 } },
-    { MODKEY,                   XK_period, focusmon,       {.i = +1 } },
-    { MODKEY|ShiftMask,         XK_comma,  tagmon,         {.i = -1 } },
-    { MODKEY|ShiftMask,         XK_period, tagmon,         {.i = +1 } },
-    { MODKEY,                   XK_minus,  setgaps,        {.i = -5 } },
-    { MODKEY,                   XK_equal,  setgaps,        {.i = +5 } },
-    { MODKEY|ShiftMask,         XK_minus,  setgaps,        {.i = GAP_RESET } },
-    { MODKEY|ShiftMask,         XK_equal,  setgaps,        {.i = GAP_TOGGLE} },
+    ShiftMask + Mod4Mask +  XK_s       =>>  spawn           =>>    SHCMD("subl") 
+    ShiftMask + Mod4Mask +  XK_t       =>>  spawn           =>>    SHCMD("thunar") 
+    MODKEY               +  XK_p       =>>  spawn           =>>    = dmenu  
+    MODKEY + ControlMask +  XK_f       =>>  spawn           =>>    = firefox  
+    MODKEY + ShiftMask   +  XK_Return  =>>  spawn           =>>    = st-256color  
+    MODKEY               +  XK_u       =>>  spawn           =>>    = ranger  
+    MODKEY               +  XK_y       =>>  spawn           =>>    = st float 
+    MODKEY + ShiftMask   +  XK_f       =>>  fullscreen      =>>    = make fullscreen
+    MODKEY               +  XK_b       =>>  togglebar       =>>    = togle bar
+    MODKEY + ShiftMask   +  XK_j       =>>  rotatestack     =>>    = +1  
+    MODKEY + ShiftMask   +  XK_k       =>>  rotatestack     =>>    = -1  
+    MODKEY               +  XK_j       =>>  focusstack      =>>    = +1  
+    MODKEY               +  XK_k       =>>  focusstack      =>>    = -1  
+    MODKEY               +  XK_i       =>>  incnmaster      =>>    = +1  
+    MODKEY               +  XK_d       =>>  incnmaster      =>>    = -1  
+    MODKEY               +  XK_h       =>>  setmfact        =>>    = -0.05 
+    MODKEY               +  XK_l       =>>  setmfact        =>>    = +0.05 
+    MODKEY               +  XK_Return  =>>  zoom            =>>    = zoom
+    MODKEY               +  XK_Tab     =>>  view            =>>    = view
+    MODKEY + ShiftMask   +  XK_c       =>>  killclient      =>>    = kill focus client
+    MODKEY               +  XK_t       =>>  setlayout       =>>    = &layouts[0] 
+    MODKEY               +  XK_f       =>>  setlayout       =>>    = &layouts[1] 
+    MODKEY               +  XK_m       =>>  setlayout       =>>    = &layouts[2] 
+    MODKEY               +  XK_r       =>>  setlayout       =>>    = &layouts[3] 
+    MODKEY + ShiftMask   +  XK_r       =>>  setlayout       =>>    = &layouts[4] 
+    MODKEY + ControlMask +  K_comma    =>>  cyclelayout     =>>    = -1  
+    MODKEY + ControlMask +  XK_period  =>>  cyclelayout     =>>    = +1  
+    MODKEY               +  XK_space   =>>  setlayout       =>>    = change layouts
+    MODKEY + ShiftMask   +  XK_space   =>>  togglefloating  =>>    = togle float
+    MODKEY               +  XK_0       =>>  view            =>>    = ~0  
+    MODKEY + ShiftMask   +  XK_0       =>>  tag             =>>    = ~0  
+    MODKEY               +  XK_comma   =>>  focusmon        =>>    = -1  
+    MODKEY               +  XK_period  =>>  focusmon        =>>    = +1  
+    MODKEY + ShiftMask   +  XK_comma   =>>  tagmon          =>>    = -1  
+    MODKEY + ShiftMask   +  XK_period  =>>  tagmon          =>>    = +1  
+    MODKEY               +  XK_minus   =>>  setgaps         =>>    = -5  
+    MODKEY               +  XK_equal   =>>  setgaps         =>>    = +5  
+    MODKEY + ShiftMask   +  XK_minus   =>>  setgaps         =>>    = GAP_RESET  
+    MODKEY + ShiftMask   +  XK_equal   =>>  setgaps         =>>    = GAP_TOGGLE 
