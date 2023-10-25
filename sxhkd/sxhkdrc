@@ -54,8 +54,8 @@ super + ctrl + m
     gnome-system-monitor
 
 # Browser    
-super + alt + b
-    brave --disable-features=ExtensionsToolbarMenu
+super + alt + c
+    chromium --disable-features=ExtensionsToolbarMenu
 
 # Locker   
 super + ctrl + l
@@ -134,6 +134,6 @@ ctrl + alt + r
      
 # Keybind-dwm
 ctrl + alt + o
-     st -n key  -e bat -l perl ~/.config/keybind/dwm-key
+     st -n "key" -g "120x40" -f "Hack:style=Regular:size=11" -e bat -l perl ~/.config/keybind/dwm-key
 
 
