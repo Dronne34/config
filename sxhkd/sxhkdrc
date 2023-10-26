@@ -1,5 +1,6 @@
 
 #My custom key
+
 # Audio
 
 XF86AudioRaiseVolume
@@ -61,10 +62,6 @@ super + alt + c
 super + ctrl + l
     sh ~/.config/i3/scripts/lock
     
-# st-256color
-ctrl + alt + s 
-     st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
-     # st -t "Simple Terminal"
       
 # Alacritty
 ctrl + alt + a
@@ -116,10 +113,6 @@ shift + super + s
 shift + super + t
      pcmanfm
  
-# Gnome-System-Monitor
-shift + super + m 
-     gnome-system-monitor
-
 # xkill
 shift + super + x
      xkill     
@@ -136,4 +129,12 @@ ctrl + alt + r
 ctrl + alt + o
      st -n "key" -g "120x40" -f "Hack:style=Regular:size=11" -e bat -l perl ~/.config/keybind/dwm-key
 
+# Htop
+shift + super + m
+     st -n "x_mem" -g "120x40" -f "Hack:style=Regular:size=11" -e htop    
+
+# st-256color
+ctrl + alt + s 
+     st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
+     # st -t "Simple Terminal"
 
