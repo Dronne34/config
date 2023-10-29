@@ -13,6 +13,17 @@
 	<directories/>
 </action>
 <action>
+	<icon>application-vnd.comicbook+zip</icon>
+	<name>Extract here (bzip2)</name>
+	<submenu></submenu>
+	<unique-id>1698604470216538-1</unique-id>
+	<command>file-roller  -h %F</command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<other-files/>
+</action>
+<action>
 	<icon>org.gnome.Meld</icon>
 	<name>Compare</name>
 	<submenu></submenu>
@@ -29,7 +40,7 @@
 	<name>Chmod</name>
 	<submenu></submenu>
 	<unique-id>1691597945585238-1</unique-id>
-	<command>chmod +x  %f</command>
+	<command>chmod u+x  %f</command>
 	<description></description>
 	<range>*</range>
 	<patterns>*</patterns>
