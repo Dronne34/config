@@ -40,7 +40,7 @@
 	<name>Chmod</name>
 	<submenu></submenu>
 	<unique-id>1691597945585238-1</unique-id>
-	<command>chmod +x  %f</command>
+	<command>chmod u+x  %f</command>
 	<description></description>
 	<range>*</range>
 	<patterns>*</patterns>
