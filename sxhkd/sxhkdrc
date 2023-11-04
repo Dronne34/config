@@ -4,19 +4,27 @@
 # Audio
 
 XF86AudioRaiseVolume
-  pactl set-sink-volume @DEFAULT_SINK@ +5% &&  dunstify  -r 3456 -t 700 -i audio-volume-high "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" 
+  pactl set-sink-volume @DEFAULT_SINK@ +5% &&  dunstify  -r 3456 -t 700 \
+  -i audio-volume-high -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
+  "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" 
 
 
 XF86AudioLowerVolume
-  pactl set-sink-volume @DEFAULT_SINK@ -5% &&  dunstify  -r 3456 -t 700 -i audio-volume-medium "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+  pactl set-sink-volume @DEFAULT_SINK@ -5% &&  dunstify  -r 3456 -t 700 \
+  -i audio-volume-medium -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
+  "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
 
 
 XF86AudioMute
-   pactl set-sink-mute @DEFAULT_SINK@ toggle &&  dunstify  -r 3456 -t 700 -i audio-volume-muted "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+   pactl set-sink-mute @DEFAULT_SINK@ toggle &&  dunstify  -r 3456 -t 700 \
+   -i audio-volume-muted -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
+   "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
 
 
 XF86AudioMicMute
-   pactl set-source-mute @DEFAULT_SOURCE@ toggle &&  dunstify  -r 3456 -t 700 -i audio-volume-muted "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+   pactl set-source-mute @DEFAULT_SOURCE@ toggle &&  dunstify  -r 3456 -t 700 \
+   -i audio-volume-muted -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
+   "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
 
 # MPC 
 XF86AudioNext
@@ -30,6 +38,14 @@ XF86AudioPlay
     mpc --host=localhost --port=6500 toggle  
 
 
+    # Xbacklight
+XF86MonBrightnessUp
+    light -A 10 && backlight
+
+XF86MonBrightnessDown 
+    light -U 10 && backlight
+
+
 # Conky
 ctrl + alt + c
     killall conky   
@@ -37,7 +53,8 @@ ctrl + alt + c
 
 # sxhkd reload
 ctrl + alt + Escape
-    pkill -USR1 -x sxhkd
+    pkill -USR1 -x sxhkd && dunstify -t 3000 -h string:bgcolor:#2B323A -h string:fgcolor:#ff4444 -h string:frcolor:#44ff44 "Sxhkd Reload!"
+
 
 # Xterm
 ctrl + alt + x 
@@ -95,7 +112,7 @@ ctrl + alt + m
 
 # dm Run
 ctrl + alt + d  
-     dmenu_run
+     reload_dunst
 
 # dm Power
 ctrl + alt + q  
@@ -123,7 +140,7 @@ shift + super + c
 
 # Ranger
 ctrl + alt + r 
-    st -n "ranger" "Hack:style=Regular:size=11" -e ranger  
+    st -n "ranger" -f "Hack:style=Regular:size=11" -e ranger  
      
 # Keybind-dwm
 ctrl + alt + o
