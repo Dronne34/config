@@ -1,5 +1,5 @@
 [Added Associations]
-application/x-shellscript=sublime_text.desktop;
+application/x-shellscript=org.xfce.mousepad.desktop;sublime_text.desktop;
 text/x-makefile=sublime_text.desktop;
 text/x-csrc=sublime_text.desktop;
 text/x-chdr=sublime_text.desktop;
@@ -9,7 +9,7 @@ text/markdown=userapp-less-EOUPC2.desktop;
 [Default Applications]
 text/x-csrc=sublime_text.desktop;
 text/plain=sublime_text.desktop;
-inode/directory=pcmanfm.desktop;
+inode/directory=thunar.desktop;
 image/jpeg=feh.desktop;org.xfce.ristretto.desktop;sxiv.desktop;
 image/jpg=feh.desktop;sxiv.desktop;
 image/png=feh.desktop;sxiv.desktop;
