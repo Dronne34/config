@@ -1,12 +1,48 @@
 {
     "terminal.external.linuxExec": "st",
     "terminal.integrated.fontFamily": "Fontawesome,'hack'",
-    "editor.fontFamily": "'Droid Sans Mono', 'hack', monospace ",
+    "editor.fontFamily": "'Droid Sans Mono', 'hack', Fontawesome ",
     "git.confirmSync": false,
     "git.autofetch": true,
     "git.enableSmartCommit": true,
     "workbench.iconTheme": "file-icons",
     "workbench.colorTheme": "Dracula",
     "editor.fontSize": 13,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "files.associations": {
+        "*.h": "cpp"
+    },
+    "diffEditor.maxComputationTime": 0,
+    "terminal.integrated.tabs.defaultIcon": "file-directory",
+    "workbench.startupEditor": "none",
+    "terminal.integrated.cwd": "${workspaceFolder}",
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "icon": "terminal-bash"
+        },
+        "zsh": {
+            "path": "zsh"
+        },
+        "fish": {
+            "path": "fish"
+        },
+        "tmux": {
+            "path": "tmux",
+            "icon": "terminal-tmux"
+        },
+        "pwsh": {
+            "path": "pwsh",
+            "icon": "terminal-powershell"
+        },
+        "git-shell": {
+            "path": "/usr/bin/git-shell"
+        }
+    },
+    "terminal.explorerKind": "external",
+    "terminal.integrated.automationProfile.linux": {
+    
+    },
+    "editor.fontLigatures": true,
+    "editor.fontVariations": true
 }
