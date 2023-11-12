@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 1,
+    "terminal.external.linuxExec": "st",
+    "terminal.integrated.fontFamily": "Fontawesome,'hack'",
+    "editor.fontFamily": "'Droid Sans Mono', 'hack', monospace ",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true
+}
