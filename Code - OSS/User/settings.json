@@ -16,33 +16,15 @@
     "terminal.integrated.tabs.defaultIcon": "file-directory",
     "workbench.startupEditor": "none",
     "terminal.integrated.cwd": "${workspaceFolder}",
-    "terminal.integrated.profiles.linux": {
-        "bash": {
-            "path": "bash",
-            "icon": "terminal-bash"
-        },
-        "zsh": {
-            "path": "zsh"
-        },
-        "fish": {
-            "path": "fish"
-        },
-        "tmux": {
-            "path": "tmux",
-            "icon": "terminal-tmux"
-        },
-        "pwsh": {
-            "path": "pwsh",
-            "icon": "terminal-powershell"
-        },
-        "git-shell": {
-            "path": "/usr/bin/git-shell"
-        }
-    },
-    "terminal.explorerKind": "external",
-    "terminal.integrated.automationProfile.linux": {
-    
-    },
+    // editor
     "editor.fontLigatures": true,
-    "editor.fontVariations": true
+    "editor.fontVariations": true,
+    "color-highlight.languages": [
+        "*"
+    ],
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.env.linux": {
+        
+    },
+    "terminal.integrated.defaultProfile.linux": "zsh"
 }
