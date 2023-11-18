@@ -11,6 +11,7 @@
 	<patterns>*</patterns>
 	<startup-notify/>
 	<directories/>
+	<other-files/>
 </action>
 <action>
 	<icon>application-vnd.comicbook+zip</icon>
