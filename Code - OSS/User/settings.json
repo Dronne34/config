@@ -26,5 +26,22 @@
     "terminal.integrated.env.linux": {
         
     },
-    "terminal.integrated.defaultProfile.linux": "zsh"
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.hideOnStartup": "always",
+    "terminal.integrated.ignoreProcessNames": [
+        "starship",
+        "oh-my-posh",
+        "bash",
+        "zsh",
+        "powerline-shell"
+    ],
+    "git.confirmNoVerifyCommit": false,
+    "git.confirmEmptyCommits": false,
+    "git.ignoreMissingGitWarning": true,
+    "git.postCommitCommand": "sync",
+    "git.promptToSaveFilesBeforeStash": "never",
+    "git.showPushSuccessNotification": true
 }
