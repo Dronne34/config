@@ -122,14 +122,6 @@ ctrl + alt + q
 shift + super + b  
      brave
 
-# Sublime Text
-shift + super + s
-     subl
-
-# Pcmanfm
-shift + super + t
-     thunar
- 
 # xkill
 shift + super + x
      xkill     
