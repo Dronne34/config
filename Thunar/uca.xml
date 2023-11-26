@@ -1,52 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?>
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <actions>
 <action>
-	<icon>utilities-terminal</icon>
-	<name>Open Terminal Here</name>
-	<submenu></submenu>
-	<unique-id>1691574995189998-1</unique-id>
-	<command>st</command>
-	<description>Example for a custom action</description>
-	<range></range>
-	<patterns>*</patterns>
-	<startup-notify/>
-	<directories/>
-	<other-files/>
+<icon>utilities-terminal</icon>
+<name>Open Terminal Here</name>
+<submenu/>
+<unique-id>1691574995189998-1</unique-id>
+<command>st</command>
+<description>Example for a custom action</description>
+<range/>
+<patterns>*</patterns>
+<startup-notify/>
+<directories/>
+<audio-files/>
+<image-files/>
+<other-files/>
+<text-files/>
+<video-files/>
 </action>
 <action>
-	<icon>application-vnd.comicbook+zip</icon>
-	<name>Extract here (bzip2)</name>
-	<submenu></submenu>
-	<unique-id>1698604470216538-1</unique-id>
-	<command>file-roller  -h %F</command>
-	<description></description>
-	<range>*</range>
-	<patterns>*</patterns>
-	<other-files/>
+<icon>org.gnome.FileRoller</icon>
+<name>Extract here (bzip2)</name>
+<submenu/>
+<unique-id>1698604470216538-1</unique-id>
+<command>file-roller -h %F</command>
+<description/>
+<range>*</range>
+<patterns>*</patterns>
+<other-files/>
 </action>
 <action>
-	<icon>org.gnome.Meld</icon>
-	<name>Compare</name>
-	<submenu></submenu>
-	<unique-id>1691597732286911-1</unique-id>
-	<command>meld %F</command>
-	<description></description>
-	<range>*</range>
-	<patterns>*</patterns>
-	<other-files/>
-	<text-files/>
+<icon>org.gnome.Meld</icon>
+<name>Compare</name>
+<submenu/>
+<unique-id>1691597732286911-1</unique-id>
+<command>meld %F</command>
+<description/>
+<range>*</range>
+<patterns>*</patterns>
+<other-files/>
+<text-files/>
 </action>
 <action>
-	<icon>gcr-key</icon>
-	<name>Chmod</name>
-	<submenu></submenu>
-	<unique-id>1691597945585238-1</unique-id>
-	<command>chmod u+x  %f</command>
-	<description></description>
-	<range>*</range>
-	<patterns>*</patterns>
-	<directories/>
-	<other-files/>
-	<text-files/>
+<icon>gcr-key</icon>
+<name>Chmod</name>
+<submenu/>
+<unique-id>1691597945585238-1</unique-id>
+<command>chmod u+x %f</command>
+<description/>
+<range>*</range>
+<patterns>*</patterns>
+<directories/>
+<other-files/>
+<text-files/>
 </action>
 </actions>
