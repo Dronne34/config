@@ -1,56 +1,120 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<?xml version="1.0" encoding="UTF-8"?>
 <actions>
 <action>
-<icon>utilities-terminal</icon>
-<name>Open Terminal Here</name>
-<submenu/>
-<unique-id>1691574995189998-1</unique-id>
-<command>st</command>
-<description>Example for a custom action</description>
-<range/>
-<patterns>*</patterns>
-<startup-notify/>
-<directories/>
-<audio-files/>
-<image-files/>
-<other-files/>
-<text-files/>
-<video-files/>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1488955845049151-1</unique-id>
+	<command>st</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+	<other-files/>
+	<text-files/>
 </action>
 <action>
-<icon>org.gnome.FileRoller</icon>
-<name>Extract here (bzip2)</name>
-<submenu/>
-<unique-id>1698604470216538-1</unique-id>
-<command>file-roller -h %F</command>
-<description/>
-<range>*</range>
-<patterns>*</patterns>
-<other-files/>
+	<icon>org.gnome.Meld</icon>
+	<name>Compare</name>
+	<submenu></submenu>
+	<unique-id>1492232362549799-1</unique-id>
+	<command>meld %F</command>
+	<description></description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
+	<text-files/>
 </action>
 <action>
-<icon>org.gnome.Meld</icon>
-<name>Compare</name>
-<submenu/>
-<unique-id>1691597732286911-1</unique-id>
-<command>meld %F</command>
-<description/>
-<range>*</range>
-<patterns>*</patterns>
-<other-files/>
-<text-files/>
+	<icon>org.gnome.FileRoller</icon>
+	<name>Extract here</name>
+	<submenu></submenu>
+	<unique-id>1489091300385082-4</unique-id>
+	<command>tar xjf %n</command>
+	<description></description>
+	<range></range>
+	<patterns>*.tar.bz2;*.tbz2</patterns>
+	<other-files/>
 </action>
 <action>
-<icon>gcr-key</icon>
-<name>Chmod</name>
-<submenu/>
-<unique-id>1691597945585238-1</unique-id>
-<command>chmod u+x %f</command>
-<description/>
-<range>*</range>
-<patterns>*</patterns>
-<directories/>
-<other-files/>
-<text-files/>
+	<icon>system-reboot</icon>
+	<name>Convert png to jpg</name>
+	<submenu></submenu>
+	<unique-id>1510662686010963-1</unique-id>
+	<command>convert %f -quality 90 `basename %f .png`.jpg</command>
+	<description>Convert png to jpg</description>
+	<range></range>
+	<patterns>*.png</patterns>
+	<image-files/>
+</action>
+<action>
+	<icon>system-users</icon>
+	<name>Ownership to root</name>
+	<submenu></submenu>
+	<unique-id>1526631155250282-8</unique-id>
+	<command>gnome-keyring-daemon -r -d;gksu &quot;chown -R root:root %F&quot;</command>
+	<description>Change permissions to root</description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>system-switch-user</icon>
+	<name>Ownership to user</name>
+	<submenu></submenu>
+	<unique-id>1526631178674034-9</unique-id>
+	<command>gnome-keyring-daemon -r -d;gksu &quot;chown -R $USER:$USER %F&quot;</command>
+	<description>Change permissions to user</description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>application-x-sharedlib</icon>
+	<name>Make executable</name>
+	<submenu></submenu>
+	<unique-id>1526670239648084-2</unique-id>
+	<command>chmod +x %f</command>
+	<description>Make a file execuble</description>
+	<range></range>
+	<patterns>*</patterns>
+	<other-files/>
+	<text-files/>
+</action>
+<action>
+	<icon>preferences-color</icon>
+	<name>Set as wallpaper SS</name>
+	<submenu></submenu>
+	<unique-id>1637670897220972-2</unique-id>
+	<command>feh --bg-fill %f</command>
+	<description>Set as wallpaper using feh single screen</description>
+	<range></range>
+	<patterns>*</patterns>
+	<image-files/>
+</action>
+<action>
+	<icon>insert-link-symbolic</icon>
+	<name>Create symlink</name>
+	<submenu></submenu>
+	<unique-id>1526631663081446-14</unique-id>
+	<command>ln -s  %f &quot;%n&quot;</command>
+	<description>Softlink between two files or directories</description>
+	<range></range>
+	<patterns>*</patterns>
+	<directories/>
+	<other-files/>
+	<text-files/>
 </action>
 </actions>
