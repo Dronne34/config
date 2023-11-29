@@ -71,10 +71,6 @@ super + alt + bracketright
 super + ctrl + m
     gnome-system-monitor
 
-# Browser    
-super + alt + c
-    chromium --disable-features=ExtensionsToolbarMenu
-
 # Locker   
 super + ctrl + l
     sh ~/.config/i3/scripts/lock
@@ -120,7 +116,7 @@ ctrl + alt + q
 
 # Brave
 shift + super + b  
-     brave
+     chromium
 
 # xkill
 shift + super + x
