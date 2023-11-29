@@ -103,8 +103,8 @@ ctrl + alt + b
 ctrl + alt + p 
 
 # dm Mpd
-ctrl + alt + m    
-     sh ~/.local/bin/dm-mpd
+# ctrl + alt + m    
+     # sh ~/.local/bin/dm-mpd
 
 # dm Run
 ctrl + alt + d  
@@ -142,4 +142,10 @@ shift + super + m
 ctrl + alt + s 
      st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
      # st -t "Simple Terminal"
+# xclip mpv
+ctrl + alt + m
+    mpv $(xclip -o) & exit
+
+ctrl + alt + semicolon
+     st -n "key" -g "120x40" -f "Hack:style=Regular:size=11" -e bat -l perl ~/.config/keybind/alias
 
