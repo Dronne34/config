@@ -1,30 +1,30 @@
 
-#My custom key
+# My custom key
 
 # Audio
 
 XF86AudioRaiseVolume
-  pactl set-sink-volume @DEFAULT_SINK@ +5% &&  dunstify  -r 3456 -t 700 \
+  pactl set-sink-volume @DEFAULT_SINK@ +10% &&  dunstify  -r 3456 -t 700 \
   -i audio-volume-high -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
-  "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" 
+  "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" && pkill -RTMIN+10 dwmblocks
 
 
 XF86AudioLowerVolume
-  pactl set-sink-volume @DEFAULT_SINK@ -5% &&  dunstify  -r 3456 -t 700 \
+  pactl set-sink-volume @DEFAULT_SINK@ -10% &&  dunstify  -r 3456 -t 700 \
   -i audio-volume-medium -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
-  "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+  "volume: $(pamixer --get-volume)%" | canberra-gtk-play -i audio-volume-change -d "changeVolume" && pkill -RTMIN+10 dwmblocks
 
 
 XF86AudioMute
    pactl set-sink-mute @DEFAULT_SINK@ toggle &&  dunstify  -r 3456 -t 700 \
    -i audio-volume-muted -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
-   "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+   "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume" && pkill -RTMIN+10 dwmblocks
 
 
 XF86AudioMicMute
    pactl set-source-mute @DEFAULT_SOURCE@ toggle &&  dunstify  -r 3456 -t 700 \
    -i audio-volume-muted -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
-   "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume"
+   "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume" && pkill -RTMIN+10 dwmblocks
 
 # MPC 
 XF86AudioNext
