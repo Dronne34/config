@@ -267,8 +267,8 @@ now_playing_prefix = "$b$1$aqqu$/a$9 ▶▶▶▶▶ "
 ##   available.
 ##
 #
-song_columns_list_format = (50)[green]{t|f:Title} (7f)[cyan]{l}
-# song_columns_list_format = "(60)[green]{t} (5)[cyan]{l}"
+# song_columns_list_format = (50)[green]{t|f:Title} (7f)[cyan]{l}
+song_columns_list_format = "(60)[green]{t} (5)[cyan]{a}"
 #song_columns_list_format = "(60)[green]{t}"	
 
 ##### various settings #####

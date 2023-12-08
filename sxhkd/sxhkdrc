@@ -147,5 +147,5 @@ ctrl + alt + m
     mpv $(xclip -o) & exit
 
 ctrl + alt + semicolon
-     st -n "key" -g "120x40" -f "Hack:style=Regular:size=11" -e bat -l perl ~/.config/keybind/alias
+     st -n "key" -g "120x40" -f "Hack:style=Regular:size=11" -e bat -l perl ~/.bash_alias
 
