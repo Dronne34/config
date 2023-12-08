@@ -128,7 +128,7 @@ shift + super + c
 
 # Ranger
 ctrl + alt + r 
-    st -n "ranger" -f "Hack:style=Regular:size=11" -e ranger  
+    st -n "ranger" -f "Hack:style=Regular:size=12" -e ranger  
      
 # Keybind-dwm
 ctrl + alt + o
