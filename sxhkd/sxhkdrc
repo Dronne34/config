@@ -58,7 +58,8 @@ ctrl + alt + Escape
 
 # Xterm
 ctrl + alt + x 
-   xterm -bw 0 
+   # xterm -bw 0 
+   xdotool getmouselocation --shell
 
 # picom-trans transparency
 super + alt + bracketleft
@@ -101,7 +102,7 @@ ctrl + alt + b
 
 # dm Places
 ctrl + alt + p 
-
+     sh ~/.local/bin/link.sh
 # dm Mpd
 # ctrl + alt + m    
      # sh ~/.local/bin/dm-mpd
