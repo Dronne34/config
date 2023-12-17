@@ -83,9 +83,9 @@ ctrl + alt + k
 ctrl + alt + l
     sh ~/.local/bin/dm-live
 
-#   
+# Mpd playlistt   
 ctrl + alt + b   
-
+    sh ~/.local/bin/dm-playlist
 # copy youtube link
 ctrl + alt + p 
      sh ~/.local/bin/link.sh
