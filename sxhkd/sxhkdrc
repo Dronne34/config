@@ -57,7 +57,7 @@ super + alt + bracketright
     
 # system-monitor    
 super + ctrl + m
-    gnome-system-monitor
+    mate-system-monitor
 
 # Locker   
 super + ctrl + l
