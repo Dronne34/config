@@ -61,7 +61,7 @@ super + ctrl + m
 
 # Locker   
 super + ctrl + l
-    sh ~/.config/i3/scripts/lock
+    lock
     
 # Alacritty
 ctrl + alt + a
