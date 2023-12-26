@@ -1,5 +1,8 @@
 [Added Associations]
 text/markdown=userapp-less-EOUPC2.desktop;
+application/pdf=org.pwmt.zathura-pdf-poppler.desktop;
+application/x-shellscript=vim.desktop;
+text/plain=vim.desktop;
 
 [Default Applications]
 inode/directory=thunar.desktop;
@@ -9,5 +12,7 @@ image/png=feh.desktop;sxiv.desktop;
 image/x-bmp=feh.desktop;sxiv.desktop;
 image/x-png=feh.desktop;
 text/markdown=userapp-less-EOUPC2.desktop
+application/x-shellscript=vim.desktop
+text/plain=vim.desktop
 
 [Removed Associations]
