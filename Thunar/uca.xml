@@ -86,10 +86,11 @@
 	<name>Make executable</name>
 	<submenu></submenu>
 	<unique-id>1526670239648084-2</unique-id>
-	<command>chmod +x %f</command>
+	<command>chmod +x %F</command>
 	<description>Make a file execuble</description>
 	<range></range>
 	<patterns>*</patterns>
+	<directories/>
 	<other-files/>
 	<text-files/>
 </action>
