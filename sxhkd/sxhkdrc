@@ -54,6 +54,9 @@ super + alt + bracketleft
 
 super + alt + bracketright
     picom-trans -c +10
+
+super + ctrl + p
+    sh ~/.local/bin/picom-toggle.sh
     
 # system-monitor    
 super + ctrl + m
