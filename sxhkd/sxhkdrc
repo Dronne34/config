@@ -31,10 +31,10 @@ XF86AudioPlay
 
     # Xbacklight
 XF86MonBrightnessUp
-  xbacklight -inc +10  && backlight
+    light -A 10 && backlight
 
 XF86MonBrightnessDown 
-  xbacklight -dec +10 && backlight
+    light -U 10 && backlight
 
 # Conky
 ctrl + alt + c
