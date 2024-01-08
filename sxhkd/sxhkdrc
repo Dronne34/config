@@ -64,7 +64,7 @@ super + ctrl + m
 
 # Locker   
 super + ctrl + l
-    lock
+   betterlockscreen -l dimblur 
     
 # Alacritty
 ctrl + alt + a
@@ -89,6 +89,7 @@ ctrl + alt + l
 # Mpd playlistt   
 ctrl + alt + b   
     sh ~/.local/bin/dm-playlist
+
 # copy youtube link
 ctrl + alt + p 
      sh ~/.local/bin/link.sh
