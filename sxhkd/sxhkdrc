@@ -123,7 +123,7 @@ shift + super + m
 
 # st-256color
 ctrl + alt + s 
-     st -t "Simple Terminal" -f "Hack:style=Regular:size=11"
+     st -t "ZSH" -f "Hack:style=Regular:size=11" -e zsh
 
 # xclip mpv
 ctrl + alt + m
