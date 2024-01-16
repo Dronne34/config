@@ -39,6 +39,17 @@
 	<other-files/>
 </action>
 <action>
+	<icon>text-html</icon>
+	<name>New-File</name>
+	<submenu></submenu>
+	<unique-id>1705382940816186-1</unique-id>
+	<command>file=$(zenity --entry --title &quot;Create New File&quot; --text &quot;Enter the new name:&quot; --entry-text &quot;&quot;); touch &quot;$file&quot;</command>
+	<description>Create New File</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
 	<icon>system-reboot</icon>
 	<name>Convert png to jpg</name>
 	<submenu></submenu>
