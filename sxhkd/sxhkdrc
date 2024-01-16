@@ -120,11 +120,11 @@ ctrl + alt + o
 
 # Htop
 shift + super + m
-     st -n "x_mem" -g "120x40" -f "Hack:style=Regular:size=13" -e htop    
+     st -n "x_mem" -g "120x40" -f "Hack:style=Regular:size=11" -e htop    
 
 # st-256color
 ctrl + alt + s 
-     st -t "ZSH" -f "Hack:style=Regular:size=13" -e zsh
+     st -t "ZSH" -f "Hack:style=Regular:size=12" -e zsh
 
 # xclip mpv
 ctrl + alt + m
@@ -138,6 +138,6 @@ shift + super + u
 
 # Screenshot
 Print
-     maim -st 9999999 | convert - \( +clone -background black -shadow 80x3+5+5 \) +swap -background none -layers merge +repage ~/Pictures/$(date +%s).png  && dunstify -t 3000  "Screenshot done.."
+     scrot ~/Pictures/Wall-%a-%y-%H.%M.png && dunstify -t 3000  "Screenshot done.."
 
 
