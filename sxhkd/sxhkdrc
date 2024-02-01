@@ -116,22 +116,22 @@ shift + super + c
 
 # Keybind-dwm
 ctrl + alt + o
-     st -n "key" -g "120x40" -f "Hack:style=Regular:size=11" -e bat -l perl ~/.config/keybind/dwm-key
+     st -n "key" -g "120x40" -f "Hack:style=Regular:size=13" -e bat -l perl ~/.config/keybind/dwm-key
 
 # Htop
 shift + super + m
-     st -n "x_mem" -g "120x40" -f "Hack:style=Regular:size=11" -e htop    
+     st -n "x_mem" -g "120x40" -f "Hack:style=Regular:size=13" -e htop    
 
 # st-256color
 ctrl + alt + s 
-     st -t "ZSH" -f "Hack:style=Regular:size=12" -e zsh
+     st -t "ZSH" -f "Mononoki Nerd Font Mono:style=Bold:size=13" -e zsh
 
 # xclip mpv
 ctrl + alt + m
      mpv $(xclip -o) & exit
 # Alias key
 ctrl + alt + semicolon
-     st -n "key" -g "120x40" -f "Hack:style=Regular:size=12" -e bat -l perl ~/.bash_alias
+     st -n "key" -g "120x40" -f "Hack:style=Regular:size=13" -e bat -l perl ~/.bash_alias
 # Restart audio system
 shift + super + u
      systemctl --user restart wireplumber pipewire pipewire-pulse && notify-send -t 2000 -h string:bgcolor:#2B323A -h string:fgcolor:#ff4444 -h string:frcolor:#44ff44 "Audio Reload!"
@@ -140,4 +140,6 @@ shift + super + u
 Print
      scrot ~/Pictures/Wall-%a-%y-%H.%M.png && dunstify -t 3000  "Screenshot done.."
 
-
+# Bookmarks
+ctrl + alt + slash
+    markmenu
