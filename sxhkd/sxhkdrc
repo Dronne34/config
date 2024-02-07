@@ -138,7 +138,7 @@ shift + super + u
 
 # Screenshot
 Print
-     scrot ~/Pictures/Wall-%a-%y-%H.%M.png && dunstify -t 3000  "Screenshot done.."
+     scrot ~/Pictures/Wall-%a-%y-%H.%M.png && dunstify -t 3000  "Screenshot done.." && paplay /usr/share/sounds/freedesktop/stereo/screen-capture.oga &>/dev/null &
 
 # Bookmarks
 ctrl + alt + slash
