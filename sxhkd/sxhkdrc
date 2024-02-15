@@ -64,7 +64,7 @@ super + ctrl + m
 
 # Locker   
 super + ctrl + l
-   betterlockscreen -l dimblur 
+   sh ~/.local/bin/i3-lock-color-catppuccin.sh
     
 # Alacritty
 ctrl + alt + a
@@ -145,5 +145,5 @@ ctrl + alt + slash
     markmenu
 
 # Ranger
-ctrl + alt + t
-  st -e ranger
+# ctrl + alt + t
+  # st -e ranger
