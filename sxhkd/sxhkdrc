@@ -64,7 +64,7 @@ super + ctrl + m
 
 # Locker   
 super + ctrl + l
-   sh ~/.local/bin/betterlockscreen
+   sh ~/.local/bin/betterlockscreen --lock blur
     
 # Alacritty
 ctrl + alt + a
