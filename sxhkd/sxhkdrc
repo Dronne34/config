@@ -64,7 +64,7 @@ super + ctrl + m
 
 # Locker   
 super + ctrl + l
-   sh ~/.local/bin/i3-lock-color-catppuccin.sh
+   sh ~/.local/bin/betterlockscreen
     
 # Alacritty
 ctrl + alt + a
