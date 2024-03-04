@@ -181,6 +181,10 @@ command! reload :write | restart full
 filextype {*.pdf},<application/pdf> zathura %c %i, apvlv %c, xpdf %c
 fileviewer {*.pdf},<application/pdf> pdftotext -nopgbrk %c -
 
+" Epub
+filextype {*.epub},<application/epub> mupdf -I -S 30 -W 1450 -H 900 %c %i, apvlv %c, xpdf %c
+
+
 " PostScript
 filextype {*.ps,*.eps,*.ps.gz},<application/postscript>
         \ {View in zathura}
@@ -565,4 +569,7 @@ nnoremap <c-u> <c-w>x
 
 " https://github.com/cirala/vifm_devicons
 source ~/.config/vifm/favicons.vifm
-colorscheme palenight
+" colorscheme palenight
+colorscheme dracula
+fileview */ tree %c
+
