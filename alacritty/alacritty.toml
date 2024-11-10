@@ -1,6 +1,6 @@
 # Settings #
 
-general.import = ["∼/.config/alacritty/style/dracula.toml"]
+general.import = ["~/.config/alacritty/style/dracula.toml"]
 
 [env]
 TERM = "xterm-256color"
