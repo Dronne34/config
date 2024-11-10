@@ -1,0 +1,5 @@
+Nov 09 21:25 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 09 21:29 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 09 22:19 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 10 04:16 : exception: inotify_add_watch() has failed: No such file or directory
+Nov 10 05:20 : exception: inotify_add_watch() has failed: No such file or directory

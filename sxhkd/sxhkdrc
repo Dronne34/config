@@ -19,6 +19,9 @@ XF86AudioMicMute
    -i audio-volume-muted -h string:bgcolor:#2B323A -h string:fgcolor:#FFFFFF -h string:frcolor:#44ff44  \
    "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume" && pkill -RTMIN+10 dwmblocks
 
+super + p 
+    dmenu_run_history
+
 # MPC 
 XF86AudioNext
     mpc --host=localhost --port=6500 next
@@ -91,8 +94,8 @@ ctrl + alt + b
     sh ~/.local/bin/dm-playlist
 
 # copy youtube link
-ctrl + alt + p 
-     sh ~/.local/bin/link.sh
+# ctrl + alt + p 
+     # sh ~/.local/bin/link.sh
 
 # Reload dunst
 ctrl + alt + d  
