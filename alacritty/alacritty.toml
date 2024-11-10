@@ -1,5 +1,5 @@
 # import = ["/Users/ciprian/.config/alacritty/style/ayu.toml"]
-import = ["/Users/ciprian/.config/alacritty/style/dracula.toml"]
+import = ["∼/.config/alacritty/style/dracula.toml"]
 # import = ["/Users/ciprian/.config/alacritty/style/citylights.toml"]
 
 
