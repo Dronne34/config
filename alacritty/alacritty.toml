@@ -1,7 +1,6 @@
-# import = ["/Users/ciprian/.config/alacritty/style/ayu.toml"]
-import = ["∼/.config/alacritty/style/dracula.toml"]
-# import = ["/Users/ciprian/.config/alacritty/style/citylights.toml"]
+# Settings #
 
+general.import = ["∼/.config/alacritty/style/dracula.toml"]
 
 [env]
 TERM = "xterm-256color"
@@ -14,13 +13,8 @@ TERM = "xterm-256color"
 # position = {x = 30, y = 20}
 # dimensions = { columns = 180, lines = 48 }
 
-
-  
- 
-
 #decorations = "Transparent"
 decorations = "None"
-
 
 opacity = 0.85
 # blur = true
