@@ -20,7 +20,7 @@ XF86AudioMicMute
    "mute: $(pamixer --get-mute)" | canberra-gtk-play -i audio-volume-change -d "changeVolume" && pkill -RTMIN+10 dwmblocks
 
 super + p 
-    dmenu_run_history
+    rofi -show drun -show-icons
 
 # MPC 
 XF86AudioNext
