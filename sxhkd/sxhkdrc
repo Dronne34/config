@@ -127,7 +127,7 @@ shift + super + m
 
 # st-256color
 ctrl + alt + s 
-     st -t "ZSH" -f "DejaVuSansMono:style=Regular:size=13" -e zsh
+     st -t "ZSH" -f "Hack:style=Regular:size=13" -e zsh
 
 # xclip mpv
 ctrl + alt + m
