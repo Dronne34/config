@@ -63,7 +63,7 @@ super + ctrl + p
     
 # system-monitor    
 super + ctrl + m
-    mate-system-monitor
+    gnome-system-monitor
 
 # Locker   
 super + ctrl + l
@@ -147,6 +147,6 @@ Print
 ctrl + alt + slash
     markmenu
 
-# Ranger
-# ctrl + alt + t
-  # st -e ranger
+# Thunar
+super + t
+   thunar
