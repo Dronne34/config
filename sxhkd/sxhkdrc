@@ -103,7 +103,7 @@ ctrl + alt + d
 
 # dm Power
 ctrl + alt + q  
-     dm-power
+     rofi -show power-menu -modi power-menu:rofi-power-menu
 
 # Chromium
 shift + super + b  
@@ -145,7 +145,7 @@ Print
 
 # Bookmarks
 ctrl + alt + slash
-    markmenu
+    rf-web
 
 # Thunar
 super + t

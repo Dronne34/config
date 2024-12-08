@@ -2,7 +2,7 @@
 /* Author: Newman Sanchez (https://github.com/newmanls) */
 
 * {
-    font:   "Iosevka Nerd Font Mono 13";
+    font:   "Iosevka Nerd Font Mono 15";
 
     nord0:     #2e3440;
     nord1:     #3b4252;

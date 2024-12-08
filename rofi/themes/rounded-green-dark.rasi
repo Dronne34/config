@@ -2,6 +2,7 @@
 /* Author: Newman Sanchez (https://github.com/newmanls) */
 
 * {
+
     bg0:    #212121F2;
     bg1:    #2A2A2A;
     bg2:    #3D3D3D80;
@@ -13,3 +14,6 @@
 }
 
 @import "rounded-common.rasi"
+  * {
+    font:   "JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF:style=Regular 15";
+}
